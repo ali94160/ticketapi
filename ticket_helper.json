@@ -2,9 +2,15 @@
   "data": [
     {
       "ticketId": 285155,
-      "subject": "bannad för att jag lämna en match som stängdes ner",
+      "subject": "bannad fÃ¶r att jag lÃ¤mna en match som stÃ¤ngdes ner",
       "userId": 22228655,
       "username": "Blanowski"
+    },
+    {
+      "ticketId": 285160,
+      "subject": "report med screenshot",
+      "userId": 912559251,
+      "username": "sverigelars"
     }
   ]
 }
