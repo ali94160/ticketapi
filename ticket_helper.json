@@ -1,3 +1,11 @@
 {
-  "data": []
+  "data": [
+    {
+      "ticketId": 238442,
+      "subject": "banned",
+      "userId": 1040018434,
+      "username": "xDashy666",
+      "resolved": 0
+    }
+  ]
 }
