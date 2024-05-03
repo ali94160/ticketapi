@@ -9,9 +9,16 @@
     },
     {
       "ticketId": 284978,
-      "subject": "jag �r inte smurf",
+      "subject": "jag är inte smurf",
       "userId": 1277475464,
       "username": "Stonkakorv",
+      "resolved": 1
+    },
+    {
+      "ticketId": 285076,
+      "subject": "bannad för fusk",
+      "userId": 1582298128,
+      "username": "sl1ckaren",
       "resolved": 1
     }
   ]
