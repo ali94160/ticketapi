@@ -5,7 +5,7 @@
       "subject": "Matchmaking bug",
       "userId": 240143630,
       "username": "V1bration",
-      "resolved": 1
+      "resolved": 2
     },
     {
       "ticketId": 284978,
@@ -20,6 +20,13 @@
       "userId": 1582298128,
       "username": "sl1ckaren",
       "resolved": 1
+    },
+    {
+      "ticketId": 284923,
+      "subject": "Matchmaking bug",
+      "userId": 240143630,
+      "username": "V1bration",
+      "resolved": 2
     }
   ]
 }
