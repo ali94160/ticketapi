@@ -82,7 +82,7 @@
       "subject": "felaktikt bannad",
       "userId": 234739117,
       "username": "guleboojirava",
-      "resolved": 1
+      "resolved": 2
     },
     {
       "ticketId": 285140,
@@ -104,6 +104,13 @@
       "userId": 1668749547,
       "username": "iuolemCC",
       "resolved": 2
+    },
+    {
+      "ticketId": 284605,
+      "subject": "account limited due to smurfing",
+      "userId": 302794459,
+      "username": "lLPARO",
+      "resolved": 1
     }
   ]
 }
