@@ -23,9 +23,16 @@
     },
     {
       "ticketId": 285165,
-      "subject": "bannad för att springa iväg på  ct knivrundan",
+      "subject": "bannad fÃ¶r att springa ivÃ¤g pÃ¥  ct knivrundan",
       "userId": 405570082,
       "username": "FlaxXzie",
+      "resolved": 1
+    },
+    {
+      "ticketId": 285162,
+      "subject": "Klienten stängdes av i väntan på sista spelaren",
+      "userId": 25599449,
+      "username": "Grajjio",
       "resolved": 1
     }
   ]
