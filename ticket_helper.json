@@ -23,14 +23,14 @@
     },
     {
       "ticketId": 285165,
-      "subject": "bannad fÃ¶r att springa ivÃ¤g pÃ¥  ct knivrundan",
+      "subject": "bannad fÃƒÂ¶r att springa ivÃƒÂ¤g pÃƒÂ¥  ct knivrundan",
       "userId": 405570082,
       "username": "FlaxXzie",
       "resolved": 1
     },
     {
       "ticketId": 285162,
-      "subject": "Klienten stängdes av i väntan på sista spelaren",
+      "subject": "Klienten stÃ¤ngdes av i vÃ¤ntan pÃ¥ sista spelaren",
       "userId": 25599449,
       "username": "Grajjio",
       "resolved": 1
@@ -79,9 +79,16 @@
     },
     {
       "ticketId": 285122,
-      "subject": "Manuellbannad av n�gon admin 2 ggr nu",
+      "subject": "Manuellbannad av någon admin 2 ggr nu",
       "userId": 1478610117,
       "username": "apaHSdjur",
+      "resolved": 1
+    },
+    {
+      "ticketId": 285143,
+      "subject": "�r bannad",
+      "userId": 1384194011,
+      "username": "S0B",
       "resolved": 1
     }
   ]
