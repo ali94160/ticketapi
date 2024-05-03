@@ -47,7 +47,7 @@
       "subject": "Dropping ban",
       "userId": 1345346702,
       "username": "AzcenD1337",
-      "resolved": 1
+      "resolved": 2
     },
     {
       "ticketId": 284920,
@@ -89,6 +89,13 @@
       "subject": "dropping client fel",
       "userId": 407554110,
       "username": "Kisse86",
+      "resolved": 1
+    },
+    {
+      "ticketId": 285181,
+      "subject": "Kan ej \"gå med snabbt\"",
+      "userId": 147042328,
+      "username": "Maxx",
       "resolved": 1
     }
   ]
