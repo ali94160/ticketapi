@@ -23,14 +23,14 @@
     },
     {
       "ticketId": 285165,
-      "subject": "bannad fÃƒÂ¶r att springa ivÃƒÂ¤g pÃƒÂ¥  ct knivrundan",
+      "subject": "bannad fÃƒÆ’Ã‚Â¶r att springa ivÃƒÆ’Ã‚Â¤g pÃƒÆ’Ã‚Â¥  ct knivrundan",
       "userId": 405570082,
       "username": "FlaxXzie",
       "resolved": 1
     },
     {
       "ticketId": 285162,
-      "subject": "Klienten stÃ¤ngdes av i vÃ¤ntan pÃ¥ sista spelaren",
+      "subject": "Klienten stÃƒÂ¤ngdes av i vÃƒÂ¤ntan pÃƒÂ¥ sista spelaren",
       "userId": 25599449,
       "username": "Grajjio",
       "resolved": 1
@@ -79,16 +79,23 @@
     },
     {
       "ticketId": 285122,
-      "subject": "Manuellbannad av någon admin 2 ggr nu",
+      "subject": "Manuellbannad av nÃ¥gon admin 2 ggr nu",
       "userId": 1478610117,
       "username": "apaHSdjur",
       "resolved": 1
     },
     {
       "ticketId": 285143,
-      "subject": "�r bannad",
+      "subject": "är bannad",
       "userId": 1384194011,
       "username": "S0B",
+      "resolved": 1
+    },
+    {
+      "ticketId": 285021,
+      "subject": "region ban for esportal error",
+      "userId": 74354939,
+      "username": "uNDEADzkraaaa",
       "resolved": 1
     }
   ]
