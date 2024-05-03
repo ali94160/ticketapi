@@ -23,6 +23,51 @@
       "username": "waqqi",
       "messages": [],
       "resolved": 1
+    },
+    {
+      "ticketId": 285220,
+      "subject": "bannad",
+      "userId": 928536235,
+      "username": "PELL5",
+      "messages": [
+        {
+          "id": 1101061,
+          "message": "Hej. Jag har lyft din ban.",
+          "sender": {
+            "id": 105072047,
+            "username": "proomic",
+            "level": 131,
+            "avatar_hash": "27aaa28a427da46cac0aeac2281abb1e8ffde08d",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": true,
+          "inserted": 1714773676
+        },
+        {
+          "id": 1101093,
+          "message": "tack\n",
+          "sender": {
+            "id": 928536235,
+            "username": "PELL5",
+            "level": 67,
+            "avatar_hash": "1445cd2ccb16ad5f63b4134731e9b6693d415d3d",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": false,
+          "inserted": 1714776329
+        }
+      ],
+      "resolved": 1
     }
   ]
 }
