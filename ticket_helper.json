@@ -140,6 +140,33 @@
         }
       ],
       "resolved": 1
+    },
+    {
+      "ticketId": 285302,
+      "subject": "EN GRABB SOM DODGA",
+      "userId": 1146666249,
+      "username": "maqii",
+      "messages": [
+        {
+          "id": 1101103,
+          "message": "Hej, inhoppsfunktionen är för tillfället avstängd. Notera att våra Crispy servrar är under Beta och buggar kan inträffa. Detta står i matchen när man spelar. Men vi arbetar såklart ständigt på att lösa alla fel som inträffar. Mvh",
+          "sender": {
+            "id": 34160441,
+            "username": "blue",
+            "level": 108,
+            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": true,
+          "inserted": 1714780642
+        }
+      ],
+      "resolved": 1
     }
   ]
 }
