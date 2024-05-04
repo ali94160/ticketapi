@@ -150,6 +150,33 @@
         }
       ],
       "resolved": 1
+    },
+    {
+      "ticketId": 285358,
+      "subject": "Bugg ingame",
+      "userId": 1552531476,
+      "username": "aso8",
+      "messages": [
+        {
+          "id": 1101236,
+          "message": "Hi! Can you provide us with the link to the match so that we can investigate it.",
+          "sender": {
+            "id": 34160441,
+            "username": "blue",
+            "level": 108,
+            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": true,
+          "inserted": 1714847593
+        }
+      ],
+      "resolved": 1
     }
   ]
 }
