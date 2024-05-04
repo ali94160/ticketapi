@@ -770,6 +770,33 @@
         }
       ],
       "resolved": 1
+    },
+    {
+      "ticketId": 285199,
+      "subject": "kan inte rejoina",
+      "userId": 1046405212,
+      "username": "Niklasstalfot",
+      "messages": [
+        {
+          "id": 1101117,
+          "message": "Hej, normalt sätt så är den varningen korrekt, om du lämnat medvetet och inte på grund av något teknisk problem. Men jag lyfter varningen ändå. Men nu vet du till nästa gång. Mvh",
+          "sender": {
+            "id": 34160441,
+            "username": "blue",
+            "level": 108,
+            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": true,
+          "inserted": 1714789190
+        }
+      ],
+      "resolved": 1
     }
   ]
 }
