@@ -914,6 +914,213 @@
         }
       ],
       "resolved": 1
+    },
+    {
+      "ticketId": 281512,
+      "subject": "clienten funkar inte",
+      "userId": 1119497689,
+      "username": "torbjoern",
+      "messages": [
+        {
+          "id": 1089839,
+          "message": "det som står o faq med cmd osv funkade inte",
+          "sender": {
+            "id": 1119497689,
+            "username": "torbjoern",
+            "level": 64,
+            "avatar_hash": "ef972ea5ed987b5f6fbfe655e5f5b5e0dc5a9386",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": false,
+          "inserted": 1711751565
+        },
+        {
+          "id": 1090090,
+          "message": "Hej! har du något antivirus installerat? Mvh",
+          "sender": {
+            "id": 41342132,
+            "username": "Sturmegutz",
+            "level": 174,
+            "avatar_hash": "667e41e68aa36eb42501d9bbe0a68fb14bfba1e0",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": true,
+          "inserted": 1711842057
+        },
+        {
+          "id": 1090114,
+          "message": "Ja, avast. Testade att inaktivera det nu men det kom samma felmeddelande igen.",
+          "sender": {
+            "id": 1119497689,
+            "username": "torbjoern",
+            "level": 64,
+            "avatar_hash": "ef972ea5ed987b5f6fbfe655e5f5b5e0dc5a9386",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": false,
+          "inserted": 1711872980
+        },
+        {
+          "id": 1090638,
+          "message": "Du måste se till att det är helt nerstängt, Då avast blockerar klienten",
+          "sender": {
+            "id": 41342132,
+            "username": "Sturmegutz",
+            "level": 174,
+            "avatar_hash": "667e41e68aa36eb42501d9bbe0a68fb14bfba1e0",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": true,
+          "inserted": 1711995360
+        },
+        {
+          "id": 1098527,
+          "message": "Tog bort avast, funkar fortf inte",
+          "sender": {
+            "id": 1119497689,
+            "username": "torbjoern",
+            "level": 64,
+            "avatar_hash": "ef972ea5ed987b5f6fbfe655e5f5b5e0dc5a9386",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": false,
+          "inserted": 1714068886
+        },
+        {
+          "id": 1098534,
+          "message": "testade hela eran faq kring Failed to load the Esportal Anti-Cheat Driver. Please contact support. och ingenting funkar, \"Tjänsten är inte installerad\".",
+          "sender": {
+            "id": 1119497689,
+            "username": "torbjoern",
+            "level": 64,
+            "avatar_hash": "ef972ea5ed987b5f6fbfe655e5f5b5e0dc5a9386",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": false,
+          "inserted": 1714069373
+        },
+        {
+          "id": 1098703,
+          "message": "Hej, vänligen följ instruktionerna i länken och se om det hjälper: https://helpcenter.esportal.com/portal/en/kb/articles/failed-to-load-the-esportal-anti-cheat-driver-please-contact-support-6-1-2024",
+          "sender": {
+            "id": 34160441,
+            "username": "blue",
+            "level": 108,
+            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": true,
+          "inserted": 1714116178
+        },
+        {
+          "id": 1098812,
+          "message": "Hej. Testat ett flertal gånger men får samma meddelande vid varje installation. Antigen är tjänsterna inte startade eller installerade när jag skrivit in dem i CMD",
+          "sender": {
+            "id": 1119497689,
+            "username": "torbjoern",
+            "level": 64,
+            "avatar_hash": "ef972ea5ed987b5f6fbfe655e5f5b5e0dc5a9386",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": false,
+          "inserted": 1714142855
+        },
+        {
+          "id": 1099260,
+          "message": "Prova följ denna guide https://helpcenter.esportal.com/portal/en/kb/articles/startup-issues-with-error-codes-0xc000012f-or-0xc000000d o se om det funkar",
+          "sender": {
+            "id": 41342132,
+            "username": "Sturmegutz",
+            "level": 174,
+            "avatar_hash": "667e41e68aa36eb42501d9bbe0a68fb14bfba1e0",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": true,
+          "inserted": 1714300274
+        },
+        {
+          "id": 1100953,
+          "message": "Samma problem som innan..",
+          "sender": {
+            "id": 1119497689,
+            "username": "torbjoern",
+            "level": 64,
+            "avatar_hash": "ef972ea5ed987b5f6fbfe655e5f5b5e0dc5a9386",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": false,
+          "inserted": 1714768303
+        },
+        {
+          "id": 1101119,
+          "message": "Har du kollat så att klienten ligger i samma hårddisk som CS/Steam?",
+          "sender": {
+            "id": 34160441,
+            "username": "blue",
+            "level": 108,
+            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": true,
+          "inserted": 1714791925
+        }
+      ],
+      "resolved": 1
     }
   ]
 }
