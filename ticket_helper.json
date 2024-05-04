@@ -62,6 +62,51 @@
         }
       ],
       "resolved": 1
+    },
+    {
+      "ticketId": 285326,
+      "subject": "KRASHade",
+      "userId": 1184925356,
+      "username": "TwoGunKid",
+      "messages": [
+        {
+          "id": 1101143,
+          "message": "nu vi förlorade denna match och jag förlorade elo, jag tycker ni ska fixa detta och ge oss våran vinst som vi faktist vann förra innan servern krashade. blir riktigt less på detta. hoppas ni kan lösa detta ",
+          "sender": {
+            "id": 1184925356,
+            "username": "TwoGunKid",
+            "level": 39,
+            "avatar_hash": "a27c07f554106e2f35a564f0149124539e24946d",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": false,
+          "inserted": 1714821160
+        },
+        {
+          "id": 1101150,
+          "message": "Hej, länka gärna matchen.",
+          "sender": {
+            "id": 34160441,
+            "username": "blue",
+            "level": 108,
+            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": true,
+          "inserted": 1714822326
+        }
+      ],
+      "resolved": 1
     }
   ]
 }
