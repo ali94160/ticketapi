@@ -272,25 +272,7 @@
           },
           "admin": true,
           "inserted": 1714753502
-        },
-        {
-          "id": 1100899,
-          "message": "tack",
-          "sender": {
-            "id": 886416865,
-            "username": "Frazxe",
-            "level": 22,
-            "avatar_hash": "50767cea96889a121066ed45c098873cb258f8f3",
-            "country_id": 210,
-            "display_medals": 0,
-            "flags": 0,
-            "region_id": 0,
-            "subregion_id": 0,
-            "permissions": null
-          },
-          "admin": false,
-          "inserted": 1714753586
-        }
+        } 
       ],
       "username": "djurig"
     },
