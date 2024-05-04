@@ -644,6 +644,69 @@
         }
       ],
       "resolved": 1
+    },
+    {
+      "ticketId": 265945,
+      "subject": "banned",
+      "userId": 1040018434,
+      "username": "xDashy666",
+      "messages": [
+        {
+          "id": 1037387,
+          "message": "Hi. You have receved answare in ticket Ticket #222895",
+          "sender": {
+            "id": 402949937,
+            "username": "Pilzu",
+            "level": 101,
+            "avatar_hash": "eb557da705713745a57784ef44f78246430f22cf",
+            "country_id": 71,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": true,
+          "inserted": 1689970923
+        },
+        {
+          "id": 1100702,
+          "message": "meow",
+          "sender": {
+            "id": 1040018434,
+            "username": "xDashy666",
+            "level": 20,
+            "avatar_hash": "5e8bced8f51535f83fd9cbab09c23e380f12c901",
+            "country_id": 71,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": false,
+          "inserted": 1714666685
+        },
+        {
+          "id": 1101096,
+          "message": "meow meow i like cats",
+          "sender": {
+            "id": 1040018434,
+            "username": "xDashy666",
+            "level": 20,
+            "avatar_hash": "5e8bced8f51535f83fd9cbab09c23e380f12c901",
+            "country_id": 71,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": false,
+          "inserted": 1714777962
+        }
+      ],
+      "resolved": 1
     }
   ]
 }
