@@ -256,11 +256,11 @@
       "userId": 297995062,
       "messages": [
         {
-          "id": 1100897,
-          "message": "Hej, din timeout och varning är nu lyft.",
+          "id": 297995062,
+          "message": "Testar123",
           "sender": {
             "id": 34160441,
-            "username": "blue",
+            "username": "djurig",
             "level": 108,
             "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
             "country_id": 210,
@@ -270,7 +270,7 @@
             "subregion_id": 0,
             "permissions": null
           },
-          "admin": true,
+          "admin": false,
           "inserted": 1714753502
         }
       ],
