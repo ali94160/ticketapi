@@ -221,6 +221,33 @@
         }
       ],
       "resolved": 1
+    },
+    {
+      "ticketId": 285308,
+      "subject": "namnbyte",
+      "userId": 159186088,
+      "username": "melzzano",
+      "messages": [
+        {
+          "id": 1101107,
+          "message": "Hej, har skickat ett namnbyte till dig, välkommen tillbaka!",
+          "sender": {
+            "id": 34160441,
+            "username": "blue",
+            "level": 108,
+            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": true,
+          "inserted": 1714782776
+        }
+      ],
+      "resolved": 1
     }
   ]
 }
