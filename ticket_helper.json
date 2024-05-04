@@ -272,7 +272,7 @@
           },
           "admin": true,
           "inserted": 1714753502
-        } 
+        }
       ],
       "username": "djurig"
     },
@@ -713,6 +713,33 @@
           },
           "admin": true,
           "inserted": 1714785498
+        }
+      ],
+      "resolved": 1
+    },
+    {
+      "ticketId": 285231,
+      "subject": "server lags",
+      "userId": 456864818,
+      "username": "netroS",
+      "messages": [
+        {
+          "id": 1101114,
+          "message": "Hi, were you the only one lagging or was it ping spikes for all the players?",
+          "sender": {
+            "id": 34160441,
+            "username": "blue",
+            "level": 108,
+            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": true,
+          "inserted": 1714786445
         }
       ],
       "resolved": 1
