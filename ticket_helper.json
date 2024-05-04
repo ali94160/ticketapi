@@ -44,6 +44,14 @@
         }
       ],
       "resolved": 1
+    },
+    {
+      "ticketId": 285354,
+      "subject": "Spelade en match",
+      "userId": 229998703,
+      "username": "Imamurderer",
+      "messages": null,
+      "resolved": 1
     }
   ]
 }
