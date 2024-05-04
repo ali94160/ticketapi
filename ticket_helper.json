@@ -1,6 +1,50 @@
 {
   "data": [
     {
+      "messages": [
+        {
+          "id": 1101183,
+          "message": "Hej, din vän har fått svar på sin ticket. Mvh",
+          "sender": {
+            "id": 34160441,
+            "username": "blue",
+            "level": 108,
+            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": true,
+          "inserted": 1714831682
+        },
+        {
+          "id": 1101185,
+          "message": "okej tack för ditt svar",
+          "sender": {
+            "id": 1161487071,
+            "username": "chingel1ng",
+            "level": 46,
+            "avatar_hash": "061f0e3fb2ad1c39a15375e7c27741d8fe134919",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": false,
+          "inserted": 1714831888
+        }
+      ],
+      "resolved": 1,
+      "subject": "min vän vart bannad",
+      "userId": 1161487071,
+      "username": "chingel1ng"
+    },
+    {
       "ticketId": 285337,
       "subject": "min vän vart bannad",
       "userId": 1161487071,
@@ -23,6 +67,33 @@
           },
           "admin": true,
           "inserted": 1714831682
+        }
+      ],
+      "resolved": 1
+    },
+    {
+      "ticketId": 285338,
+      "subject": "Vf har jag blivit bannad",
+      "userId": 1241241628,
+      "username": "sticky01",
+      "messages": [
+        {
+          "id": 1101187,
+          "message": "Hej, ditt konto är markerat som smurf då du redan har ett konto hos oss. Om ditt Steam konto blivit hackat så får du kontakta Steam support och återfå kontot.",
+          "sender": {
+            "id": 34160441,
+            "username": "blue",
+            "level": 108,
+            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": true,
+          "inserted": 1714831926
         }
       ],
       "resolved": 1
