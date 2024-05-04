@@ -797,6 +797,123 @@
         }
       ],
       "resolved": 1
+    },
+    {
+      "ticketId": 285192,
+      "subject": "elo missing",
+      "userId": 336473329,
+      "username": "SuttSuttPuff",
+      "messages": [
+        {
+          "id": 1100889,
+          "message": "yeah please do, as i said, the match finished at full points so it should be clear to see. im not asking for a rank up just a fair 20-30 elo or something",
+          "sender": {
+            "id": 336473329,
+            "username": "SuttSuttPuff",
+            "level": 28,
+            "avatar_hash": "dff7e9020db0b101884b70b1bc12395022c2952c",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": false,
+          "inserted": 1714750869
+        },
+        {
+          "id": 1100890,
+          "message": "is there any progress or anything i can provide to quick up the process, i was so close to taking a picture cause i had a feeling something like this would happen - but surely you can see all previous matches and see us winning? Its OT on nuke win",
+          "sender": {
+            "id": 336473329,
+            "username": "SuttSuttPuff",
+            "level": 28,
+            "avatar_hash": "dff7e9020db0b101884b70b1bc12395022c2952c",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": false,
+          "inserted": 1714752847
+        },
+        {
+          "id": 1100907,
+          "message": "haha now its been hours my admin friend its a open and shut case, we won the game overtime nuke, im going on a loosing streak now the elo would be nice and they are mine cause i won please man what more do you need?",
+          "sender": {
+            "id": 336473329,
+            "username": "SuttSuttPuff",
+            "level": 28,
+            "avatar_hash": "dff7e9020db0b101884b70b1bc12395022c2952c",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": false,
+          "inserted": 1714756906
+        },
+        {
+          "id": 1101108,
+          "message": "hello my loosing streak is now officially finished, i am a man who belives in luck and unluckiness, and i belive you stealing my elo for my rank up now unluckily changed faith and has now made me gold again!!:) thank you so much admins as always!",
+          "sender": {
+            "id": 336473329,
+            "username": "SuttSuttPuff",
+            "level": 28,
+            "avatar_hash": "dff7e9020db0b101884b70b1bc12395022c2952c",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": false,
+          "inserted": 1714783220
+        },
+        {
+          "id": 1101109,
+          "message": "for being there for sad people in the community like me, if you someday in the distant future lets say the coming 10-15years give or take, decide to give me my hard won elo back this would be great. Thanks for understanding, fast respons and co-op!:)",
+          "sender": {
+            "id": 336473329,
+            "username": "SuttSuttPuff",
+            "level": 28,
+            "avatar_hash": "dff7e9020db0b101884b70b1bc12395022c2952c",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": false,
+          "inserted": 1714783318
+        },
+        {
+          "id": 1101118,
+          "message": "Hi, please link the match and we will investigate it.",
+          "sender": {
+            "id": 34160441,
+            "username": "blue",
+            "level": 108,
+            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": true,
+          "inserted": 1714791463
+        }
+      ],
+      "resolved": 1
     }
   ]
 }
