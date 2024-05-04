@@ -256,8 +256,8 @@
       "userId": 297995062,
       "messages": [
         {
-          "id": 1099048,
-          "message": "Hi, you are banned for cheating by our Anti-Cheat which has noticed that you've used a program/file that gave you advantages in the game.",
+          "id": 1100897,
+          "message": "Hej, din timeout och varning är nu lyft.",
           "sender": {
             "id": 34160441,
             "username": "blue",
@@ -271,52 +271,16 @@
             "permissions": null
           },
           "admin": true,
-          "inserted": 1714208461
+          "inserted": 1714753502
         },
         {
-          "id": 1099324,
-          "message": "how is that possible my guys are banning legit players lmao",
+          "id": 1100899,
+          "message": "tack",
           "sender": {
-            "id": 1040018434,
-            "username": "xDashy666",
-            "level": 20,
-            "avatar_hash": "5e8bced8f51535f83fd9cbab09c23e380f12c901",
-            "country_id": 71,
-            "display_medals": 0,
-            "flags": 0,
-            "region_id": 0,
-            "subregion_id": 0,
-            "permissions": null
-          },
-          "admin": false,
-          "inserted": 1714310399
-        },
-        {
-          "id": 1099325,
-          "message": "im not banned in faceit seems like you have and had problems in ac when i got banned never had any advantage programs on my pc :P",
-          "sender": {
-            "id": 1040018434,
-            "username": "xDashy666",
-            "level": 20,
-            "avatar_hash": "5e8bced8f51535f83fd9cbab09c23e380f12c901",
-            "country_id": 71,
-            "display_medals": 0,
-            "flags": 0,
-            "region_id": 0,
-            "subregion_id": 0,
-            "permissions": null
-          },
-          "admin": false,
-          "inserted": 1714310496
-        },
-        {
-          "id": 1099911,
-          "message": "Hey, as stated above our anti cheat client found files/programs on your pc that gave you advantages in game on our platform.",
-          "sender": {
-            "id": 237304325,
-            "username": "DaisyMerollin",
-            "level": 88,
-            "avatar_hash": "7fbdb909e08a6a623b5210979d34ef9b6d1b6e9e",
+            "id": 886416865,
+            "username": "Frazxe",
+            "level": 22,
+            "avatar_hash": "50767cea96889a121066ed45c098873cb258f8f3",
             "country_id": 210,
             "display_medals": 0,
             "flags": 0,
@@ -324,62 +288,8 @@
             "subregion_id": 0,
             "permissions": null
           },
-          "admin": true,
-          "inserted": 1714458475
-        },
-        {
-          "id": 1099950,
-          "message": "imma do lawsuit your ac has scanned my pc for no reason cuz i never used any cheats in cs have you watched my games nothing sus about them",
-          "sender": {
-            "id": 1040018434,
-            "username": "xDashy666",
-            "level": 20,
-            "avatar_hash": "5e8bced8f51535f83fd9cbab09c23e380f12c901",
-            "country_id": 71,
-            "display_medals": 0,
-            "flags": 0,
-            "region_id": 0,
-            "subregion_id": 0,
-            "permissions": null
-          },
           "admin": false,
-          "inserted": 1714461529
-        },
-        {
-          "id": 1100701,
-          "message": "meow",
-          "sender": {
-            "id": 1040018434,
-            "username": "xDashy666",
-            "level": 20,
-            "avatar_hash": "5e8bced8f51535f83fd9cbab09c23e380f12c901",
-            "country_id": 71,
-            "display_medals": 0,
-            "flags": 0,
-            "region_id": 0,
-            "subregion_id": 0,
-            "permissions": null
-          },
-          "admin": false,
-          "inserted": 1714666670
-        },
-        {
-          "id": 1101095,
-          "message": "meow meow i like cats",
-          "sender": {
-            "id": 1040018434,
-            "username": "xDashy666",
-            "level": 20,
-            "avatar_hash": "5e8bced8f51535f83fd9cbab09c23e380f12c901",
-            "country_id": 71,
-            "display_medals": 0,
-            "flags": 0,
-            "region_id": 0,
-            "subregion_id": 0,
-            "permissions": null
-          },
-          "admin": false,
-          "inserted": 1714777954
+          "inserted": 1714753586
         }
       ],
       "username": "djurig"
@@ -686,6 +596,51 @@
           },
           "admin": false,
           "inserted": 1714777954
+        }
+      ],
+      "resolved": 1
+    },
+    {
+      "ticketId": 285197,
+      "subject": "Timeout",
+      "userId": 886416865,
+      "username": "Frazxe",
+      "messages": [
+        {
+          "id": 1100897,
+          "message": "Hej, din timeout och varning är nu lyft.",
+          "sender": {
+            "id": 34160441,
+            "username": "blue",
+            "level": 108,
+            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": true,
+          "inserted": 1714753502
+        },
+        {
+          "id": 1100899,
+          "message": "tack",
+          "sender": {
+            "id": 886416865,
+            "username": "Frazxe",
+            "level": 22,
+            "avatar_hash": "50767cea96889a121066ed45c098873cb258f8f3",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": false,
+          "inserted": 1714753586
         }
       ],
       "resolved": 1
