@@ -1121,6 +1121,69 @@
         }
       ],
       "resolved": 1
+    },
+    {
+      "ticketId": 284929,
+      "subject": "Probably cheating",
+      "userId": 41814183,
+      "username": "rikuq",
+      "messages": [
+        {
+          "id": 1100565,
+          "message": "Hey, thanks for this info, our team will have a look at it.",
+          "sender": {
+            "id": 237304325,
+            "username": "DaisyMerollin",
+            "level": 88,
+            "avatar_hash": "7fbdb909e08a6a623b5210979d34ef9b6d1b6e9e",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": true,
+          "inserted": 1714610377
+        },
+        {
+          "id": 1100643,
+          "message": "That account is now banned for smurfing. Can we get elo back from the game?",
+          "sender": {
+            "id": 41814183,
+            "username": "rikuq",
+            "level": 56,
+            "avatar_hash": "2b2e1334f8dac8fe98532dd7ebd323e863a66fed",
+            "country_id": 71,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": false,
+          "inserted": 1714653498
+        },
+        {
+          "id": 1101121,
+          "message": "Hi, the Elo only resets if the user is banned for cheating.",
+          "sender": {
+            "id": 34160441,
+            "username": "blue",
+            "level": 108,
+            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": true,
+          "inserted": 1714792519
+        }
+      ],
+      "resolved": 1
     }
   ]
 }
