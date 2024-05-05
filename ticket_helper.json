@@ -995,6 +995,24 @@
           },
           "admin": true,
           "inserted": 1714939083
+        },
+        {
+          "id": 1101666,
+          "message": "hej, skumt att bara jag fått ban men okej tack för svaret :)",
+          "sender": {
+            "id": 1168815236,
+            "username": "Nakenfisen",
+            "level": 48,
+            "avatar_hash": "4bf394b88c352b0c5cb571d4705c536a3eb42e5d",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": false,
+          "inserted": 1714939122
         }
       ],
       "resolved": 1
