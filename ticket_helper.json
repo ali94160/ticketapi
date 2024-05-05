@@ -188,6 +188,33 @@
         }
       ],
       "resolved": 1
+    },
+    {
+      "ticketId": 285387,
+      "subject": "mer info tack",
+      "userId": 313770089,
+      "username": "Issosos",
+      "messages": [
+        {
+          "id": 1101340,
+          "message": "Hej, man kan få en varning av 2 anledningar. 1. När du lämnar en match, anslutningsfel/kickad. 2. Manuellt från en Admin. I ditt fall har du fått en varning för griefing. Fortsätter detta så kan det leda till en ban.",
+          "sender": {
+            "id": 34160441,
+            "username": "blue",
+            "level": 108,
+            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": true,
+          "inserted": 1714907517
+        }
+      ],
+      "resolved": 1
     }
   ]
 }
