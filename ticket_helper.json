@@ -323,6 +323,177 @@
         }
       ],
       "resolved": 1
+    },
+    {
+      "ticketId": 284915,
+      "subject": "client error",
+      "userId": 423518632,
+      "username": "braizy",
+      "messages": [
+        {
+          "id": 1100847,
+          "message": "Hi, what error message did you get when failed to connect to the server?",
+          "sender": {
+            "id": 34160441,
+            "username": "blue",
+            "level": 108,
+            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": true,
+          "inserted": 1714722026
+        },
+        {
+          "id": 1100855,
+          "message": "like i said : failed to connect to your game. please check the log for more information.",
+          "sender": {
+            "id": 423518632,
+            "username": "braizy",
+            "level": 75,
+            "avatar_hash": "ad73d3217448d86ac872a3ee888a62b9f4b1fa75",
+            "country_id": 79,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": false,
+          "inserted": 1714728949
+        },
+        {
+          "id": 1100857,
+          "message": "https://pastebin.com/A4KLehzK",
+          "sender": {
+            "id": 423518632,
+            "username": "braizy",
+            "level": 75,
+            "avatar_hash": "ad73d3217448d86ac872a3ee888a62b9f4b1fa75",
+            "country_id": 79,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": false,
+          "inserted": 1714729011
+        },
+        {
+          "id": 1100858,
+          "message": "the log is sent you last time its always the same error",
+          "sender": {
+            "id": 423518632,
+            "username": "braizy",
+            "level": 75,
+            "avatar_hash": "ad73d3217448d86ac872a3ee888a62b9f4b1fa75",
+            "country_id": 79,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": false,
+          "inserted": 1714729032
+        },
+        {
+          "id": 1100864,
+          "message": "and can u please remove my region ban i cant do anything about this error its not my fault",
+          "sender": {
+            "id": 423518632,
+            "username": "braizy",
+            "level": 75,
+            "avatar_hash": "ad73d3217448d86ac872a3ee888a62b9f4b1fa75",
+            "country_id": 79,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": false,
+          "inserted": 1714731133
+        },
+        {
+          "id": 1100932,
+          "message": "hello?",
+          "sender": {
+            "id": 423518632,
+            "username": "braizy",
+            "level": 75,
+            "avatar_hash": "ad73d3217448d86ac872a3ee888a62b9f4b1fa75",
+            "country_id": 79,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": false,
+          "inserted": 1714764096
+        },
+        {
+          "id": 1101380,
+          "message": "Hi, this error should be resolved by restarting Steam and the client. By restarting Steam you are refreshing the connection from Steam to the server. Try this again and be 100% sure that Steam and the client has been closed before reconnecting.",
+          "sender": {
+            "id": 34160441,
+            "username": "blue",
+            "level": 108,
+            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": true,
+          "inserted": 1714910541
+        },
+        {
+          "id": 1101381,
+          "message": "To make sure, open the task-manager and see if the client or Steam is still running. If the error pops up again contact us and we will look more into this.",
+          "sender": {
+            "id": 34160441,
+            "username": "blue",
+            "level": 108,
+            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": true,
+          "inserted": 1714910585
+        },
+        {
+          "id": 1101382,
+          "message": "You are no longer banned, and I will remove the warnings.",
+          "sender": {
+            "id": 34160441,
+            "username": "blue",
+            "level": 108,
+            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": true,
+          "inserted": 1714910605
+        }
+      ],
+      "resolved": 1
     }
   ]
 }
