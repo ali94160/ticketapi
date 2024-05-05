@@ -971,6 +971,33 @@
         }
       ],
       "resolved": 1
+    },
+    {
+      "ticketId": 285517,
+      "subject": "felaktig ban?",
+      "userId": 1168815236,
+      "username": "Nakenfisen",
+      "messages": [
+        {
+          "id": 1101665,
+          "message": "Hej, du har missbrukat en bugg under kniv rundan. Enligt bevisunderlaget är denna ban korrekt och du är välkommen tillbaka när din ban löpt ut.",
+          "sender": {
+            "id": 34160441,
+            "username": "blue",
+            "level": 109,
+            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": true,
+          "inserted": 1714939083
+        }
+      ],
+      "resolved": 1
     }
   ]
 }
