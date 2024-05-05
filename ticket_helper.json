@@ -1115,6 +1115,33 @@
         }
       ],
       "resolved": 1
+    },
+    {
+      "ticketId": 285564,
+      "subject": "jag kunde inte ansluta till matchen",
+      "userId": 1311797589,
+      "username": "JulleVT7",
+      "messages": [
+        {
+          "id": 1101714,
+          "message": "Hej, din ban är lyft. Mvh",
+          "sender": {
+            "id": 34160441,
+            "username": "blue",
+            "level": 109,
+            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": true,
+          "inserted": 1714951204
+        }
+      ],
+      "resolved": 1
     }
   ]
 }
