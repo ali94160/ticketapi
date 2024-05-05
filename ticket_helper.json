@@ -1043,6 +1043,51 @@
         }
       ],
       "resolved": 1
+    },
+    {
+      "ticketId": 285560,
+      "subject": "esportal kraschade",
+      "userId": 183439774,
+      "username": "Svanna",
+      "messages": [
+        {
+          "id": 1101681,
+          "message": "Hej, är det denna matchen du syftar på esportal.com/match/6180547 ?",
+          "sender": {
+            "id": 34160441,
+            "username": "blue",
+            "level": 109,
+            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": true,
+          "inserted": 1714943781
+        },
+        {
+          "id": 1101682,
+          "message": "Har lyft din ban och varning.",
+          "sender": {
+            "id": 34160441,
+            "username": "blue",
+            "level": 109,
+            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": true,
+          "inserted": 1714943795
+        }
+      ],
+      "resolved": 1
     }
   ]
 }
