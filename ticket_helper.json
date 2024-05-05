@@ -104,6 +104,96 @@
           },
           "admin": true,
           "inserted": 1714846751
+        },
+        {
+          "id": 1101313,
+          "message": "https://esportal.com/pl/match/6175975  \nI found it in my browser history",
+          "sender": {
+            "id": 1206274989,
+            "username": "av1xxx",
+            "level": 21,
+            "avatar_hash": "ee0e6adb9c075b0b40cbedba2f8699d1c040ca6c",
+            "country_id": 173,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": false,
+          "inserted": 1714897553
+        },
+        {
+          "id": 1101324,
+          "message": "now another match got bugged and I lost another match because of it",
+          "sender": {
+            "id": 1206274989,
+            "username": "av1xxx",
+            "level": 21,
+            "avatar_hash": "ee0e6adb9c075b0b40cbedba2f8699d1c040ca6c",
+            "country_id": 173,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": false,
+          "inserted": 1714905562
+        },
+        {
+          "id": 1101326,
+          "message": "however, the current match turned out well, but the one on nuke that I gave the link to would like to win",
+          "sender": {
+            "id": 1206274989,
+            "username": "av1xxx",
+            "level": 21,
+            "avatar_hash": "ee0e6adb9c075b0b40cbedba2f8699d1c040ca6c",
+            "country_id": 173,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": false,
+          "inserted": 1714905646
+        },
+        {
+          "id": 1101390,
+          "message": "Hi, during this time the website went offline. This caused the server to lose connection to the website and since it didn't respond for a long time the match was canceled.",
+          "sender": {
+            "id": 34160441,
+            "username": "blue",
+            "level": 108,
+            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": true,
+          "inserted": 1714911114
+        },
+        {
+          "id": 1101391,
+          "message": "Unfortunately we can't restore this match due to the connection lost I mentioned above.",
+          "sender": {
+            "id": 34160441,
+            "username": "blue",
+            "level": 108,
+            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": true,
+          "inserted": 1714911216
         }
       ],
       "resolved": 1
