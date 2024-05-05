@@ -854,6 +854,69 @@
         }
       ],
       "resolved": 1
+    },
+    {
+      "ticketId": 285210,
+      "subject": "Fick en lose trots att vi vann",
+      "userId": 1706218940,
+      "username": "KnatteFnatte",
+      "messages": [
+        {
+          "id": 1101069,
+          "message": "Hej, kan du länka matchen?",
+          "sender": {
+            "id": 34160441,
+            "username": "blue",
+            "level": 108,
+            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": true,
+          "inserted": 1714773963
+        },
+        {
+          "id": 1101523,
+          "message": "https://esportal.com/sv/match/6174947",
+          "sender": {
+            "id": 1706218940,
+            "username": "KnatteFnatte",
+            "level": 5,
+            "avatar_hash": "fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": false,
+          "inserted": 1714921083
+        },
+        {
+          "id": 1101537,
+          "message": "Matchen är fixad.",
+          "sender": {
+            "id": 34160441,
+            "username": "blue",
+            "level": 108,
+            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": true,
+          "inserted": 1714926526
+        }
+      ],
+      "resolved": 1
     }
   ]
 }
