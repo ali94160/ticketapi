@@ -43,7 +43,7 @@
           "inserted": 1714831895
         }
       ],
-      "resolved": 1
+      "resolved": 0
     },
     {
       "ticketId": 285193,
@@ -221,6 +221,60 @@
           },
           "admin": true,
           "inserted": 1714846884
+        },
+        {
+          "id": 1101229,
+          "message": "https://esportal.com/sv/match/6178116",
+          "sender": {
+            "id": 1114889491,
+            "username": "Thorssooooon",
+            "level": 64,
+            "avatar_hash": "6f442f90d2926272e12e7f231271c5066d3ce9cb",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": false,
+          "inserted": 1714847035
+        },
+        {
+          "id": 1101249,
+          "message": "hade uppskattat om jag kunde få elon för vinsten, MVH PREMIUM ANVÄNDARE",
+          "sender": {
+            "id": 1114889491,
+            "username": "Thorssooooon",
+            "level": 64,
+            "avatar_hash": "6f442f90d2926272e12e7f231271c5066d3ce9cb",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": false,
+          "inserted": 1714854335
+        },
+        {
+          "id": 1101309,
+          "message": "Du fick svar i din andra ticket",
+          "sender": {
+            "id": 41342132,
+            "username": "Sturmegutz",
+            "level": 174,
+            "avatar_hash": "667e41e68aa36eb42501d9bbe0a68fb14bfba1e0",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": true,
+          "inserted": 1714897253
         }
       ],
       "resolved": 1
@@ -302,9 +356,27 @@
           },
           "admin": true,
           "inserted": 1714907517
+        },
+        {
+          "id": 1101387,
+          "message": "ok",
+          "sender": {
+            "id": 313770089,
+            "username": "Issosos",
+            "level": 67,
+            "avatar_hash": "e65d16a24a8d94d7257cef6dee4a2d3d5e3215d8",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": false,
+          "inserted": 1714910999
         }
       ],
-      "resolved": 1
+      "resolved": 0
     },
     {
       "ticketId": 285107,
@@ -410,9 +482,27 @@
           },
           "admin": true,
           "inserted": 1714910148
+        },
+        {
+          "id": 1101389,
+          "message": "Jag vill gärna veta vilket som är mitt main eftersom jag inte har något 🤣Känns konstigt att jag blir markerad för något när jag inte har ett main...",
+          "sender": {
+            "id": 1568414644,
+            "username": "floated",
+            "level": 11,
+            "avatar_hash": "4d5a61c7dfec893046a8a9aa08d5b4a99dee64ae",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": false,
+          "inserted": 1714911079
         }
       ],
-      "resolved": 1
+      "resolved": 0
     },
     {
       "ticketId": 284915,
