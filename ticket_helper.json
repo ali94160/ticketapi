@@ -2681,6 +2681,105 @@
         }
       ],
       "resolved": 1
+    },
+    {
+      "ticketId": 285529,
+      "subject": "VANN EN MATCH SOM FÖRSVANN",
+      "userId": 188133279,
+      "username": "bULLETxD",
+      "messages": [
+        {
+          "id": 1101727,
+          "message": "Hej, tror du att du kan hitta den matchen i din webbläsarhistorik? Då kan vi undersöka och möjligtvis åtgärda detta. Mvh",
+          "sender": {
+            "id": 34160441,
+            "username": "blue",
+            "level": 109,
+            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": true,
+          "inserted": 1714954922
+        },
+        {
+          "id": 1101728,
+          "message": "https://esportal.com/sv/match/6180608",
+          "sender": {
+            "id": 188133279,
+            "username": "bULLETxD",
+            "level": 103,
+            "avatar_hash": "05938fcc666f53e98aac8e77e494dd6d16b7cb57",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": false,
+          "inserted": 1714955037
+        },
+        {
+          "id": 1101729,
+          "message": "hallå hoho",
+          "sender": {
+            "id": 188133279,
+            "username": "bULLETxD",
+            "level": 103,
+            "avatar_hash": "05938fcc666f53e98aac8e77e494dd6d16b7cb57",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": false,
+          "inserted": 1714959200
+        },
+        {
+          "id": 1101741,
+          "message": "en till match jag vann med 22-20 som jag inte fick nått för heller.\n\nhttps://esportal.com/sv/match/6180931",
+          "sender": {
+            "id": 188133279,
+            "username": "bULLETxD",
+            "level": 103,
+            "avatar_hash": "05938fcc666f53e98aac8e77e494dd6d16b7cb57",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": false,
+          "inserted": 1714975989
+        },
+        {
+          "id": 1101859,
+          "message": "Hej, eftersom matcherna blivit avbrutna så är där tyvärr inget vi kan göra. Felet är inrapporterat till våra utvecklare och arbetas på i skrivande stund, beklagar detta. Mvh",
+          "sender": {
+            "id": 34160441,
+            "username": "blue",
+            "level": 109,
+            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": true,
+          "inserted": 1715008114
+        }
+      ],
+      "resolved": 1
     }
   ]
 }
