@@ -1268,6 +1268,249 @@
         }
       ],
       "resolved": 1
+    },
+    {
+      "ticketId": 285192,
+      "subject": "elo missing",
+      "userId": 336473329,
+      "username": "SuttSuttPuff",
+      "messages": [
+        {
+          "id": 1100889,
+          "message": "yeah please do, as i said, the match finished at full points so it should be clear to see. im not asking for a rank up just a fair 20-30 elo or something",
+          "sender": {
+            "id": 336473329,
+            "username": "SuttSuttPuff",
+            "level": 28,
+            "avatar_hash": "dff7e9020db0b101884b70b1bc12395022c2952c",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": false,
+          "inserted": 1714750869
+        },
+        {
+          "id": 1100890,
+          "message": "is there any progress or anything i can provide to quick up the process, i was so close to taking a picture cause i had a feeling something like this would happen - but surely you can see all previous matches and see us winning? Its OT on nuke win",
+          "sender": {
+            "id": 336473329,
+            "username": "SuttSuttPuff",
+            "level": 28,
+            "avatar_hash": "dff7e9020db0b101884b70b1bc12395022c2952c",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": false,
+          "inserted": 1714752847
+        },
+        {
+          "id": 1100907,
+          "message": "haha now its been hours my admin friend its a open and shut case, we won the game overtime nuke, im going on a loosing streak now the elo would be nice and they are mine cause i won please man what more do you need?",
+          "sender": {
+            "id": 336473329,
+            "username": "SuttSuttPuff",
+            "level": 28,
+            "avatar_hash": "dff7e9020db0b101884b70b1bc12395022c2952c",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": false,
+          "inserted": 1714756906
+        },
+        {
+          "id": 1101108,
+          "message": "hello my loosing streak is now officially finished, i am a man who belives in luck and unluckiness, and i belive you stealing my elo for my rank up now unluckily changed faith and has now made me gold again!!:) thank you so much admins as always!",
+          "sender": {
+            "id": 336473329,
+            "username": "SuttSuttPuff",
+            "level": 28,
+            "avatar_hash": "dff7e9020db0b101884b70b1bc12395022c2952c",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": false,
+          "inserted": 1714783220
+        },
+        {
+          "id": 1101109,
+          "message": "for being there for sad people in the community like me, if you someday in the distant future lets say the coming 10-15years give or take, decide to give me my hard won elo back this would be great. Thanks for understanding, fast respons and co-op!:)",
+          "sender": {
+            "id": 336473329,
+            "username": "SuttSuttPuff",
+            "level": 28,
+            "avatar_hash": "dff7e9020db0b101884b70b1bc12395022c2952c",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": false,
+          "inserted": 1714783318
+        },
+        {
+          "id": 1101118,
+          "message": "Hi, please link the match and we will investigate it.",
+          "sender": {
+            "id": 34160441,
+            "username": "blue",
+            "level": 109,
+            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": true,
+          "inserted": 1714791463
+        },
+        {
+          "id": 1101179,
+          "message": "are you trolling or are you for real? how can i link a match when YOUR website crashed so the match is no longer visible for me? im literally laughing out loud right now. i write you so many messages and wait for so long time and you just repeat what",
+          "sender": {
+            "id": 336473329,
+            "username": "SuttSuttPuff",
+            "level": 28,
+            "avatar_hash": "dff7e9020db0b101884b70b1bc12395022c2952c",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": false,
+          "inserted": 1714831494
+        },
+        {
+          "id": 1101180,
+          "message": "the other admin said, but atleast the other admin said \"we will look in to this and investigate\", and now you implying i somehow have to and even in any sober world provide proof for a match that crashed because a problem on your side?",
+          "sender": {
+            "id": 336473329,
+            "username": "SuttSuttPuff",
+            "level": 28,
+            "avatar_hash": "dff7e9020db0b101884b70b1bc12395022c2952c",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": false,
+          "inserted": 1714831570
+        },
+        {
+          "id": 1101182,
+          "message": "please dear admin, with that logic, are you saying me and my match on nuke that was played til the end is the reason that the whole esportal site crashed? Cause if so im very interested in hearing how i did this.",
+          "sender": {
+            "id": 336473329,
+            "username": "SuttSuttPuff",
+            "level": 28,
+            "avatar_hash": "dff7e9020db0b101884b70b1bc12395022c2952c",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": false,
+          "inserted": 1714831631
+        },
+        {
+          "id": 1101184,
+          "message": "now i have to ask you a very serious question: did you even read my comments above before you give me the 10/10 pro comment of \"Hi, please link the match and we will investigate it.\". Because what i stated in the comments above should be very clear?",
+          "sender": {
+            "id": 336473329,
+            "username": "SuttSuttPuff",
+            "level": 28,
+            "avatar_hash": "dff7e9020db0b101884b70b1bc12395022c2952c",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": false,
+          "inserted": 1714831727
+        },
+        {
+          "id": 1101218,
+          "message": "The match link should be avaliable in the browser history. without the link we cant investigate the match. Please provide us with the information we are asking for.",
+          "sender": {
+            "id": 34160441,
+            "username": "blue",
+            "level": 109,
+            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": true,
+          "inserted": 1714845787
+        },
+        {
+          "id": 1101717,
+          "message": "you are the biggest troll ive ever seen in my life lol. your site crashes, i loose 30 elo and its somehow my fault and my responsibility to provide info of a match from your site in your client? literally im chocked by your response..? its 20-30elo??",
+          "sender": {
+            "id": 336473329,
+            "username": "SuttSuttPuff",
+            "level": 28,
+            "avatar_hash": "dff7e9020db0b101884b70b1bc12395022c2952c",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": false,
+          "inserted": 1714951829
+        },
+        {
+          "id": 1101726,
+          "message": "Please stay on the topic here. Provide us with the match-link that can be found in your browser history.",
+          "sender": {
+            "id": 34160441,
+            "username": "blue",
+            "level": 109,
+            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": true,
+          "inserted": 1714954810
+        }
+      ],
+      "resolved": 1
     }
   ]
 }
