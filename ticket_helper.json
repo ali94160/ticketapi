@@ -2519,6 +2519,33 @@
         }
       ],
       "resolved": 1
+    },
+    {
+      "ticketId": 285593,
+      "subject": "Fick ingen ELO",
+      "userId": 192246698,
+      "username": "AzeYY",
+      "messages": [
+        {
+          "id": 1101823,
+          "message": "Hej, matchen är nu fixad! Mvh",
+          "sender": {
+            "id": 34160441,
+            "username": "blue",
+            "level": 109,
+            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": true,
+          "inserted": 1715003442
+        }
+      ],
+      "resolved": 1
     }
   ]
 }
