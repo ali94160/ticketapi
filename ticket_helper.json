@@ -2618,6 +2618,51 @@
         }
       ],
       "resolved": 1
+    },
+    {
+      "ticketId": 285538,
+      "subject": "wrong way around",
+      "userId": 393877863,
+      "username": "POL4R",
+      "messages": [
+        {
+          "id": 1101778,
+          "message": "it was the switch bug thing",
+          "sender": {
+            "id": 393877863,
+            "username": "POL4R",
+            "level": 68,
+            "avatar_hash": "1174a8f712a444fb2b57555fc6880311c809586f",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": false,
+          "inserted": 1714997964
+        },
+        {
+          "id": 1101843,
+          "message": "Hi, the match has been restored.",
+          "sender": {
+            "id": 34160441,
+            "username": "blue",
+            "level": 109,
+            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": true,
+          "inserted": 1715007329
+        }
+      ],
+      "resolved": 1
     }
   ]
 }
