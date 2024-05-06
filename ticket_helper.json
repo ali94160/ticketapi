@@ -2141,6 +2141,51 @@
         }
       ],
       "resolved": 1
+    },
+    {
+      "ticketId": 285369,
+      "subject": "Vi vann matchen, men resultaten blev tvärtom??",
+      "userId": 36046010,
+      "username": "kittkatt",
+      "messages": [
+        {
+          "id": 1101761,
+          "message": "Hej, vi ska undersöka detta.",
+          "sender": {
+            "id": 34160441,
+            "username": "blue",
+            "level": 109,
+            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": true,
+          "inserted": 1714988082
+        },
+        {
+          "id": 1101790,
+          "message": "Hej, vi har granskat matchen och då matchen buggat så har vi återställt den. Men vi förstår att detta är trist, speciellt när man leder med 12-0 och har därför gett hela din premade-stack 7 dagars Premium som kompensation.",
+          "sender": {
+            "id": 34160441,
+            "username": "blue",
+            "level": 109,
+            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": true,
+          "inserted": 1714999210
+        }
+      ],
+      "resolved": 1
     }
   ]
 }
