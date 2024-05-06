@@ -2879,6 +2879,33 @@
         }
       ],
       "resolved": 1
+    },
+    {
+      "ticketId": 285373,
+      "subject": "KD glitch?",
+      "userId": 1010424334,
+      "username": "Mortyy7",
+      "messages": [
+        {
+          "id": 1101895,
+          "message": "Hej, har du återställt dina KD någon gång via inställningarna? Om inte så baseras den på alla dina tidigare matcher. Om du väljer att reseta din KD så kommer den att vara baserad på dina 50 senaste matcher.",
+          "sender": {
+            "id": 34160441,
+            "username": "blue",
+            "level": 109,
+            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": true,
+          "inserted": 1715010101
+        }
+      ],
+      "resolved": 1
     }
   ]
 }
