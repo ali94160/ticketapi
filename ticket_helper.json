@@ -1772,6 +1772,69 @@
         }
       ],
       "resolved": 1
+    },
+    {
+      "ticketId": 285545,
+      "subject": "Förlorad match pågrund av systtemfel av er..",
+      "userId": 192966725,
+      "username": "lparthaz",
+      "messages": [
+        {
+          "id": 1101740,
+          "message": "Hej kan du länka matchen",
+          "sender": {
+            "id": 41342132,
+            "username": "Sturmegutz",
+            "level": 174,
+            "avatar_hash": "667e41e68aa36eb42501d9bbe0a68fb14bfba1e0",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": true,
+          "inserted": 1714973565
+        },
+        {
+          "id": 1101743,
+          "message": "Hej, Ja men absolut\n\nhttps://esportal.com/sv/match/6180632",
+          "sender": {
+            "id": 192966725,
+            "username": "lparthaz",
+            "level": 49,
+            "avatar_hash": "ecd567d3e931dbcf27ae7c5b4b6012c8930d8fa7",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": false,
+          "inserted": 1714979752
+        },
+        {
+          "id": 1101783,
+          "message": "Hej, matchen är nu återställd. Mvh",
+          "sender": {
+            "id": 34160441,
+            "username": "blue",
+            "level": 109,
+            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": true,
+          "inserted": 1714998477
+        }
+      ],
+      "resolved": 1
     }
   ]
 }
