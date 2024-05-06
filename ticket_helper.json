@@ -2348,6 +2348,69 @@
         }
       ],
       "resolved": 1
+    },
+    {
+      "ticketId": 285591,
+      "subject": "SERVERFEL",
+      "userId": 401219404,
+      "username": "Devnex",
+      "messages": [
+        {
+          "id": 1101774,
+          "message": "samt att vi som \"spelade\" efter restart av server fick de stats i kd som var under den perioden medans dom som inte kom in fick från \" gamet \" innan. ta bort hela matchen eller ändra statsen och elo tack.",
+          "sender": {
+            "id": 401219404,
+            "username": "Devnex",
+            "level": 81,
+            "avatar_hash": "3d53681469be266a03776573119e0d89f062210c",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": false,
+          "inserted": 1714997038
+        },
+        {
+          "id": 1101807,
+          "message": "Hej, låter märkligt, vi kommer att rapportera in denna matchen till våra utvecklare och så får vi hoppas att det löser sig.",
+          "sender": {
+            "id": 34160441,
+            "username": "blue",
+            "level": 109,
+            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": true,
+          "inserted": 1715001000
+        },
+        {
+          "id": 1101809,
+          "message": "snyggt ! du är verkligen kung <3",
+          "sender": {
+            "id": 401219404,
+            "username": "Devnex",
+            "level": 81,
+            "avatar_hash": "3d53681469be266a03776573119e0d89f062210c",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": false,
+          "inserted": 1715001152
+        }
+      ],
+      "resolved": 1
     }
   ]
 }
