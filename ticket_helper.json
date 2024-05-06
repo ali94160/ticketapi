@@ -3005,6 +3005,33 @@
         }
       ],
       "resolved": 1
+    },
+    {
+      "ticketId": 285617,
+      "subject": "Bug i förra spelet, vi fick spela 2st T halvor",
+      "userId": 213360333,
+      "username": "Killiam",
+      "messages": [
+        {
+          "id": 1101964,
+          "message": "Hej, kan du länka matchen här.",
+          "sender": {
+            "id": 34160441,
+            "username": "blue",
+            "level": 109,
+            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": true,
+          "inserted": 1715012139
+        }
+      ],
+      "resolved": 1
     }
   ]
 }
