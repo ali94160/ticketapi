@@ -2051,6 +2051,51 @@
         }
       ],
       "resolved": 1
+    },
+    {
+      "ticketId": 285583,
+      "subject": "Esportal nere = buggad server + matchresultat",
+      "userId": 68563869,
+      "username": "Matte",
+      "messages": [
+        {
+          "id": 1101756,
+          "message": "fizzySticky har rapporterat samma bugg (hennes gather) och har även sparat video på det hela om det behövs. Gather: https://esportal.com/en/match/6180560",
+          "sender": {
+            "id": 68563869,
+            "username": "Matte",
+            "level": 109,
+            "avatar_hash": "177b969eb4fb492232fc38297e786c3921e5cabd",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": false,
+          "inserted": 1714985722
+        },
+        {
+          "id": 1101788,
+          "message": "Hej, matchen är nu återställd.",
+          "sender": {
+            "id": 34160441,
+            "username": "blue",
+            "level": 109,
+            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": true,
+          "inserted": 1714998924
+        }
+      ],
+      "resolved": 1
     }
   ]
 }
