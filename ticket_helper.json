@@ -1319,9 +1319,27 @@
           },
           "admin": false,
           "inserted": 1715002569
+        },
+        {
+          "id": 1101846,
+          "message": "Tyvärr kan vi inte återställa din och BOTSTEFFEs Elo då ni droppats från matchen. Men både du och BOTSTEFFE har fått 7 dagars Premium som kompensation. Beklagar detta. Mvh",
+          "sender": {
+            "id": 34160441,
+            "username": "blue",
+            "level": 109,
+            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": true,
+          "inserted": 1715007450
         }
       ],
-      "resolved": 0
+      "resolved": 1
     },
     {
       "ticketId": 285192,
