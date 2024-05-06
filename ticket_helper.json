@@ -1916,6 +1916,87 @@
         }
       ],
       "resolved": 1
+    },
+    {
+      "ticketId": 285566,
+      "subject": "gick minus elo på grund att sidan gick ner,",
+      "userId": 1267628128,
+      "username": "avslutatexe",
+      "messages": [
+        {
+          "id": 1101706,
+          "message": "vi vann men torska elo ",
+          "sender": {
+            "id": 1267628128,
+            "username": "avslutatexe",
+            "level": 45,
+            "avatar_hash": "4a5ac7ead53ba998518c749f5a8e903f35cc5528",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": false,
+          "inserted": 1714946065
+        },
+        {
+          "id": 1101739,
+          "message": "Hej kan du länka matchen",
+          "sender": {
+            "id": 41342132,
+            "username": "Sturmegutz",
+            "level": 174,
+            "avatar_hash": "667e41e68aa36eb42501d9bbe0a68fb14bfba1e0",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": true,
+          "inserted": 1714973014
+        },
+        {
+          "id": 1101742,
+          "message": "https://esportal.com/sv/match/6180628",
+          "sender": {
+            "id": 1267628128,
+            "username": "avslutatexe",
+            "level": 45,
+            "avatar_hash": "4a5ac7ead53ba998518c749f5a8e903f35cc5528",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": false,
+          "inserted": 1714978273
+        },
+        {
+          "id": 1101785,
+          "message": "Hej, matchen är nu återställd. Mvh",
+          "sender": {
+            "id": 34160441,
+            "username": "blue",
+            "level": 109,
+            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": true,
+          "inserted": 1714998599
+        }
+      ],
+      "resolved": 1
     }
   ]
 }
