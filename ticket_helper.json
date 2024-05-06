@@ -1301,9 +1301,27 @@
           },
           "admin": true,
           "inserted": 1714997824
+        },
+        {
+          "id": 1101819,
+          "message": "Hej!\nTack, resultatet ser ut att vara fixat.. men det står fortfarande att jag och BOTSTEFFE är leavers - vi lämnade aldrig matchen.. mvh cadden",
+          "sender": {
+            "id": 233901,
+            "username": "cadden",
+            "level": 56,
+            "avatar_hash": "1f9d0b35f0d5a86e744b4ca5215730f3ec3e26c8",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": false,
+          "inserted": 1715002569
         }
       ],
-      "resolved": 1
+      "resolved": 0
     },
     {
       "ticketId": 285192,
