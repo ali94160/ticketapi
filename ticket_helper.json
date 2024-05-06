@@ -2336,9 +2336,27 @@
           },
           "admin": true,
           "inserted": 1714999933
+        },
+        {
+          "id": 1101826,
+          "message": "https://pastebin.com/m1Q3L5wv\n\nHar testat 2 gånger och samma sak båda gångerna ",
+          "sender": {
+            "id": 839686494,
+            "username": "Guldgnomen",
+            "level": 23,
+            "avatar_hash": "648289da5056193a8268fc71364822f2cd369c6c",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": false,
+          "inserted": 1715003940
         }
       ],
-      "resolved": 1
+      "resolved": 0
     },
     {
       "ticketId": 285590,
