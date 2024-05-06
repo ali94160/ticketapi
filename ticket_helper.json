@@ -2957,9 +2957,27 @@
           },
           "admin": true,
           "inserted": 1715010384
+        },
+        {
+          "id": 1101918,
+          "message": "aa okej förstår kan du ta en titt på min föra ticket för matchen buggades där helt",
+          "sender": {
+            "id": 1010424334,
+            "username": "Mortyy7",
+            "level": 36,
+            "avatar_hash": "34de534c72639e074ebfaea670fb5044ceba52f9",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": false,
+          "inserted": 1715010471
         }
       ],
-      "resolved": 1
+      "resolved": 0
     }
   ]
 }
