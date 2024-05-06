@@ -2456,6 +2456,69 @@
         }
       ],
       "resolved": 1
+    },
+    {
+      "ticketId": 285579,
+      "subject": "match buggade ?",
+      "userId": 462361023,
+      "username": "Piller7",
+      "messages": [
+        {
+          "id": 1101751,
+          "message": "Hej, har du kvar länk till matchen? Skicka här så undersöker vi detta.",
+          "sender": {
+            "id": 34160441,
+            "username": "blue",
+            "level": 109,
+            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": true,
+          "inserted": 1714984539
+        },
+        {
+          "id": 1101800,
+          "message": "Den syns varken bland mina matcher eller i leetify :s",
+          "sender": {
+            "id": 462361023,
+            "username": "Piller7",
+            "level": 66,
+            "avatar_hash": "ba82b8d952793c86bd0f9791bd7bc48472eb54cd",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": false,
+          "inserted": 1715000474
+        },
+        {
+          "id": 1101821,
+          "message": "Tror du att du kan hitta den i din webbläsarhistorik?",
+          "sender": {
+            "id": 34160441,
+            "username": "blue",
+            "level": 109,
+            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": true,
+          "inserted": 1715002993
+        }
+      ],
+      "resolved": 1
     }
   ]
 }
