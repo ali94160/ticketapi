@@ -2807,6 +2807,33 @@
         }
       ],
       "resolved": 1
+    },
+    {
+      "ticketId": 285640,
+      "subject": "elo!!!",
+      "userId": 916620466,
+      "username": "xDPXPxpPXp",
+      "messages": [
+        {
+          "id": 1101871,
+          "message": "Hej! Tyvärr har matchen stängts automatiskt efter matchen vart färdig spelad, detta då servern tappade connection mot sidan under en längre stund. Vi kan tyvärr inte dela ut någon elo manuellt. Vi beklagar detta. Mvh",
+          "sender": {
+            "id": 34160441,
+            "username": "blue",
+            "level": 109,
+            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": true,
+          "inserted": 1715008846
+        }
+      ],
+      "resolved": 1
     }
   ]
 }
