@@ -1196,6 +1196,51 @@
         }
       ],
       "resolved": 1
+    },
+    {
+      "ticketId": 285501,
+      "subject": "Got falsely banned again",
+      "userId": 1630751764,
+      "username": "xtrmflw",
+      "messages": [
+        {
+          "id": 1101563,
+          "message": "If I did something wrong please state the match the incident happened",
+          "sender": {
+            "id": 1630751764,
+            "username": "xtrmflw",
+            "level": 34,
+            "avatar_hash": "138a93fb808644a6fc0274449a759a4aefbab798",
+            "country_id": 62,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": false,
+          "inserted": 1714928380
+        },
+        {
+          "id": 1101723,
+          "message": "Hi, you've gotten a warning by the report-team for griefing. Since this warning was the 3rd warning in a short period of time it resulted into a 24h ban automatically. You are welcome back when the ban has expired.",
+          "sender": {
+            "id": 34160441,
+            "username": "blue",
+            "level": 109,
+            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": true,
+          "inserted": 1714953898
+        }
+      ],
+      "resolved": 1
     }
   ]
 }
