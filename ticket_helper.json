@@ -1727,6 +1727,51 @@
         }
       ],
       "resolved": 1
+    },
+    {
+      "ticketId": 285561,
+      "subject": "https://esportal.com/sv/match/6180687",
+      "userId": 434882675,
+      "username": "Flippad1337",
+      "messages": [
+        {
+          "id": 1101780,
+          "message": "Hej, vi har granskat denna matchen och kan tyvärr inte göra något åt detta. Förstår att det är trist att spela 4v5, men inhoppsfunktionen är tillfälligt avstängd. När den blir fixad så kommer man kunna få en inhoppare.",
+          "sender": {
+            "id": 34160441,
+            "username": "blue",
+            "level": 109,
+            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": true,
+          "inserted": 1714998309
+        },
+        {
+          "id": 1101781,
+          "message": "Crispy servrarna är i Beta och buggar/Fel kan inträffa. Vilket även står i matchen. Önskar dig en fortsatt trevlig dag ändå!",
+          "sender": {
+            "id": 34160441,
+            "username": "blue",
+            "level": 109,
+            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": true,
+          "inserted": 1714998382
+        }
+      ],
+      "resolved": 1
     }
   ]
 }
