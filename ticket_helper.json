@@ -2276,6 +2276,51 @@
         }
       ],
       "resolved": 1
+    },
+    {
+      "ticketId": 285596,
+      "subject": "Kan inte connecta",
+      "userId": 839686494,
+      "username": "Guldgnomen",
+      "messages": [
+        {
+          "id": 1101795,
+          "message": "Hej, kan du skicka din klientlogg? Öppna klienten > tryck på \"kugghjulet\" > Logfile > Kopiera all innehåll > Gå till: pastebin.com > Klistra in innehållet och länka här.",
+          "sender": {
+            "id": 34160441,
+            "username": "blue",
+            "level": 109,
+            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": true,
+          "inserted": 1714999921
+        },
+        {
+          "id": 1101796,
+          "message": "Sker detta varje match eller är det första gången?",
+          "sender": {
+            "id": 34160441,
+            "username": "blue",
+            "level": 109,
+            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": true,
+          "inserted": 1714999933
+        }
+      ],
+      "resolved": 1
     }
   ]
 }
