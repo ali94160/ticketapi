@@ -3533,6 +3533,12 @@
       "subject": "Systemet buggade de som förlorade vann",
       "username": "maggenDELTACO",
       "resolved": 1
+    },
+    {
+      "ticketId": 285732,
+      "subject": "Match buggade ur samtidigt som sidan låg nere.",
+      "username": "Perrenopremium",
+      "resolved": 1
     }
   ]
 }
