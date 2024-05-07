@@ -3401,6 +3401,33 @@
         }
       ],
       "resolved": 1
+    },
+    {
+      "ticketId": 285690,
+      "subject": "Joina genom client",
+      "userId": 46873111,
+      "username": "ZerkEm",
+      "messages": [
+        {
+          "id": 1102230,
+          "message": "Hej, prova alltid att starta om Steam och klienten, sedan anslut på nytt via klienten. Se till att Steam och klienten är avslutade i aktivitetshanteraren>process. Men jag tar bort din varning! Mvh",
+          "sender": {
+            "id": 34160441,
+            "username": "blue",
+            "level": 110,
+            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": true,
+          "inserted": 1715084347
+        }
+      ],
+      "resolved": 1
     }
   ]
 }
