@@ -2509,6 +2509,12 @@
       "subject": "banned",
       "username": "Glockn",
       "resolved": 1
+    },
+    {
+      "ticketId": 285759,
+      "subject": "felaktig timeout",
+      "username": "Iunkan",
+      "resolved": 1
     }
   ]
 }
