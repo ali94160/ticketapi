@@ -3569,6 +3569,12 @@
       "subject": "we won but didnt get any elo",
       "username": "Cruyff",
       "resolved": 1
+    },
+    {
+      "ticketId": 285699,
+      "subject": "Match bug",
+      "username": "waryaslayer3000",
+      "resolved": 1
     }
   ]
 }
