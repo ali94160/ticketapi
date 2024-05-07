@@ -3482,6 +3482,33 @@
         }
       ],
       "resolved": 1
+    },
+    {
+      "ticketId": 285668,
+      "subject": "match försvann",
+      "userId": 1050834458,
+      "username": "Shrimpadinhoxd",
+      "messages": [
+        {
+          "id": 1102235,
+          "message": "Hej! Tyvärr har matchen stängts automatiskt efter matchen vart färdig spelad, detta då servern tappade anslutning mot sidan under en längre stund. Vi kan tyvärr inte dela ut någon elo manuellt. Vi beklagar detta. Mvh",
+          "sender": {
+            "id": 34160441,
+            "username": "blue",
+            "level": 110,
+            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": true,
+          "inserted": 1715085471
+        }
+      ],
+      "resolved": 1
     }
   ]
 }
