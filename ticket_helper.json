@@ -1,4 +1,8 @@
 {
+  "systemMessage": {
+    "text": "This is a test system message!",
+    "type": "1"
+  },
   "data": [
     {
       "ticketId": 285336,
