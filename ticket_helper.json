@@ -2481,6 +2481,12 @@
       "subject": "server bug vid sidan las ner",
       "username": "ZlipseeeN",
       "resolved": 1
+    },
+    {
+      "ticketId": 285443,
+      "subject": "Won a game while webpage was down",
+      "username": "KungLeif",
+      "resolved": 1
     }
   ]
 }
