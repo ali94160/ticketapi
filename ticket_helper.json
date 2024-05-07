@@ -3248,6 +3248,69 @@
         }
       ],
       "resolved": 1
+    },
+    {
+      "ticketId": 285559,
+      "subject": "Fick ingen ELO",
+      "userId": 87661,
+      "username": "Squeezeminator",
+      "messages": [
+        {
+          "id": 1101725,
+          "message": "Hej, kan du länka matchen så undersöker vi detta.",
+          "sender": {
+            "id": 34160441,
+            "username": "blue",
+            "level": 110,
+            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": true,
+          "inserted": 1714954369
+        },
+        {
+          "id": 1101733,
+          "message": "Hej,\n\nDet var i match https://esportal.com/sv/match/6180561 där jag inte fick någon ELO som mina kompisar.",
+          "sender": {
+            "id": 87661,
+            "username": "Squeezeminator",
+            "level": 128,
+            "avatar_hash": "63366048d75c34eaa2fd8882ce50f14847d5b3b1",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": false,
+          "inserted": 1714967555
+        },
+        {
+          "id": 1102215,
+          "message": "Tack, ska undersöka detta.",
+          "sender": {
+            "id": 34160441,
+            "username": "blue",
+            "level": 110,
+            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": true,
+          "inserted": 1715072077
+        }
+      ],
+      "resolved": 1
     }
   ]
 }
