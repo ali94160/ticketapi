@@ -3581,6 +3581,12 @@
       "subject": "Fel på matchstatistik",
       "username": "ep1sk",
       "resolved": 1
+    },
+    {
+      "ticketId": 285665,
+      "subject": "Fel med matchen",
+      "username": "knaparn",
+      "resolved": 1
     }
   ]
 }
