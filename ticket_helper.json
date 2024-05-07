@@ -3563,6 +3563,12 @@
       "subject": "Matchbugg",
       "username": "cadden",
       "resolved": 1
+    },
+    {
+      "ticketId": 285540,
+      "subject": "we won but didnt get any elo",
+      "username": "Cruyff",
+      "resolved": 1
     }
   ]
 }
