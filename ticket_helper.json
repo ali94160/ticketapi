@@ -950,9 +950,27 @@
           },
           "admin": true,
           "inserted": 1715065374
+        },
+        {
+          "id": 1102224,
+          "message": "Ser nu, verkar inte uppdaterats i profilen dock?",
+          "sender": {
+            "id": 1706218940,
+            "username": "KnatteFnatte",
+            "level": 5,
+            "avatar_hash": "fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": false,
+          "inserted": 1715077199
         }
       ],
-      "resolved": 1
+      "resolved": 0
     },
     {
       "ticketId": 285487,
