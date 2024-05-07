@@ -3527,6 +3527,12 @@
       "subject": "hjälp snälla",
       "username": "yecs",
       "resolved": 1
+    },
+    {
+      "ticketId": 285735,
+      "subject": "Systemet buggade de som förlorade vann",
+      "username": "maggenDELTACO",
+      "resolved": 1
     }
   ]
 }
