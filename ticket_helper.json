@@ -2499,6 +2499,12 @@
       "subject": "Timeout",
       "username": "Bennskan",
       "resolved": 1
+    },
+    {
+      "ticketId": 285752,
+      "subject": "Radera namnhistorik",
+      "username": "Vaktmaestarn",
+      "resolved": 1
     }
   ]
 }
