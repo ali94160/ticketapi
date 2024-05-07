@@ -75,7 +75,7 @@
           "sender": {
             "id": 1206274989,
             "username": "av1xxx",
-            "level": 22,
+            "level": 24,
             "avatar_hash": "ee0e6adb9c075b0b40cbedba2f8699d1c040ca6c",
             "country_id": 173,
             "display_medals": 0,
@@ -111,7 +111,7 @@
           "sender": {
             "id": 1206274989,
             "username": "av1xxx",
-            "level": 22,
+            "level": 24,
             "avatar_hash": "ee0e6adb9c075b0b40cbedba2f8699d1c040ca6c",
             "country_id": 173,
             "display_medals": 0,
@@ -129,7 +129,7 @@
           "sender": {
             "id": 1206274989,
             "username": "av1xxx",
-            "level": 22,
+            "level": 24,
             "avatar_hash": "ee0e6adb9c075b0b40cbedba2f8699d1c040ca6c",
             "country_id": 173,
             "display_medals": 0,
@@ -147,7 +147,7 @@
           "sender": {
             "id": 1206274989,
             "username": "av1xxx",
-            "level": 22,
+            "level": 24,
             "avatar_hash": "ee0e6adb9c075b0b40cbedba2f8699d1c040ca6c",
             "country_id": 173,
             "display_medals": 0,
@@ -201,7 +201,7 @@
           "sender": {
             "id": 1206274989,
             "username": "av1xxx",
-            "level": 22,
+            "level": 24,
             "avatar_hash": "ee0e6adb9c075b0b40cbedba2f8699d1c040ca6c",
             "country_id": 173,
             "display_medals": 0,
@@ -237,7 +237,7 @@
           "sender": {
             "id": 1206274989,
             "username": "av1xxx",
-            "level": 22,
+            "level": 24,
             "avatar_hash": "ee0e6adb9c075b0b40cbedba2f8699d1c040ca6c",
             "country_id": 173,
             "display_medals": 0,
@@ -255,7 +255,7 @@
           "sender": {
             "id": 1206274989,
             "username": "av1xxx",
-            "level": 22,
+            "level": 24,
             "avatar_hash": "ee0e6adb9c075b0b40cbedba2f8699d1c040ca6c",
             "country_id": 173,
             "display_medals": 0,
@@ -273,7 +273,7 @@
           "sender": {
             "id": 1206274989,
             "username": "av1xxx",
-            "level": 22,
+            "level": 24,
             "avatar_hash": "ee0e6adb9c075b0b40cbedba2f8699d1c040ca6c",
             "country_id": 173,
             "display_medals": 0,
@@ -309,7 +309,7 @@
           "sender": {
             "id": 1206274989,
             "username": "av1xxx",
-            "level": 22,
+            "level": 24,
             "avatar_hash": "ee0e6adb9c075b0b40cbedba2f8699d1c040ca6c",
             "country_id": 173,
             "display_medals": 0,
@@ -390,7 +390,7 @@
           "sender": {
             "id": 41342132,
             "username": "Sturmegutz",
-            "level": 174,
+            "level": 175,
             "avatar_hash": "667e41e68aa36eb42501d9bbe0a68fb14bfba1e0",
             "country_id": 210,
             "display_medals": 0,
@@ -615,7 +615,7 @@
           "sender": {
             "id": 1568414644,
             "username": "floated",
-            "level": 12,
+            "level": 13,
             "avatar_hash": "4d5a61c7dfec893046a8a9aa08d5b4a99dee64ae",
             "country_id": 210,
             "display_medals": 0,
@@ -914,9 +914,27 @@
           },
           "admin": true,
           "inserted": 1714926526
+        },
+        {
+          "id": 1102152,
+          "message": "Står fortfarande att vi torskade, vilket vi inte gjorde.",
+          "sender": {
+            "id": 1706218940,
+            "username": "KnatteFnatte",
+            "level": 5,
+            "avatar_hash": "fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": false,
+          "inserted": 1715027425
         }
       ],
-      "resolved": 1
+      "resolved": 0
     },
     {
       "ticketId": 285487,
@@ -1002,7 +1020,7 @@
           "sender": {
             "id": 1168815236,
             "username": "Nakenfisen",
-            "level": 48,
+            "level": 49,
             "avatar_hash": "4bf394b88c352b0c5cb571d4705c536a3eb42e5d",
             "country_id": 210,
             "display_medals": 0,
@@ -1085,9 +1103,27 @@
           },
           "admin": true,
           "inserted": 1714943795
+        },
+        {
+          "id": 1102138,
+          "message": "Toppen, tack så mycket!",
+          "sender": {
+            "id": 183439774,
+            "username": "Svanna",
+            "level": 29,
+            "avatar_hash": "1920e41386a65ed7da4be123297350d6bbe40451",
+            "country_id": 210,
+            "display_medals": 0,
+            "flags": 0,
+            "region_id": 0,
+            "subregion_id": 0,
+            "permissions": null
+          },
+          "admin": false,
+          "inserted": 1715025702
         }
       ],
-      "resolved": 1
+      "resolved": 0
     },
     {
       "ticketId": 285563,
@@ -1353,7 +1389,7 @@
           "sender": {
             "id": 336473329,
             "username": "SuttSuttPuff",
-            "level": 28,
+            "level": 29,
             "avatar_hash": "dff7e9020db0b101884b70b1bc12395022c2952c",
             "country_id": 210,
             "display_medals": 0,
@@ -1371,7 +1407,7 @@
           "sender": {
             "id": 336473329,
             "username": "SuttSuttPuff",
-            "level": 28,
+            "level": 29,
             "avatar_hash": "dff7e9020db0b101884b70b1bc12395022c2952c",
             "country_id": 210,
             "display_medals": 0,
@@ -1389,7 +1425,7 @@
           "sender": {
             "id": 336473329,
             "username": "SuttSuttPuff",
-            "level": 28,
+            "level": 29,
             "avatar_hash": "dff7e9020db0b101884b70b1bc12395022c2952c",
             "country_id": 210,
             "display_medals": 0,
@@ -1407,7 +1443,7 @@
           "sender": {
             "id": 336473329,
             "username": "SuttSuttPuff",
-            "level": 28,
+            "level": 29,
             "avatar_hash": "dff7e9020db0b101884b70b1bc12395022c2952c",
             "country_id": 210,
             "display_medals": 0,
@@ -1425,7 +1461,7 @@
           "sender": {
             "id": 336473329,
             "username": "SuttSuttPuff",
-            "level": 28,
+            "level": 29,
             "avatar_hash": "dff7e9020db0b101884b70b1bc12395022c2952c",
             "country_id": 210,
             "display_medals": 0,
@@ -1461,7 +1497,7 @@
           "sender": {
             "id": 336473329,
             "username": "SuttSuttPuff",
-            "level": 28,
+            "level": 29,
             "avatar_hash": "dff7e9020db0b101884b70b1bc12395022c2952c",
             "country_id": 210,
             "display_medals": 0,
@@ -1479,7 +1515,7 @@
           "sender": {
             "id": 336473329,
             "username": "SuttSuttPuff",
-            "level": 28,
+            "level": 29,
             "avatar_hash": "dff7e9020db0b101884b70b1bc12395022c2952c",
             "country_id": 210,
             "display_medals": 0,
@@ -1497,7 +1533,7 @@
           "sender": {
             "id": 336473329,
             "username": "SuttSuttPuff",
-            "level": 28,
+            "level": 29,
             "avatar_hash": "dff7e9020db0b101884b70b1bc12395022c2952c",
             "country_id": 210,
             "display_medals": 0,
@@ -1515,7 +1551,7 @@
           "sender": {
             "id": 336473329,
             "username": "SuttSuttPuff",
-            "level": 28,
+            "level": 29,
             "avatar_hash": "dff7e9020db0b101884b70b1bc12395022c2952c",
             "country_id": 210,
             "display_medals": 0,
@@ -1551,7 +1587,7 @@
           "sender": {
             "id": 336473329,
             "username": "SuttSuttPuff",
-            "level": 28,
+            "level": 29,
             "avatar_hash": "dff7e9020db0b101884b70b1bc12395022c2952c",
             "country_id": 210,
             "display_medals": 0,
@@ -1821,7 +1857,7 @@
           "sender": {
             "id": 41342132,
             "username": "Sturmegutz",
-            "level": 174,
+            "level": 175,
             "avatar_hash": "667e41e68aa36eb42501d9bbe0a68fb14bfba1e0",
             "country_id": 210,
             "display_medals": 0,
@@ -1884,7 +1920,7 @@
           "sender": {
             "id": 41342132,
             "username": "Sturmegutz",
-            "level": 174,
+            "level": 175,
             "avatar_hash": "667e41e68aa36eb42501d9bbe0a68fb14bfba1e0",
             "country_id": 210,
             "display_medals": 0,
@@ -1983,7 +2019,7 @@
           "sender": {
             "id": 41342132,
             "username": "Sturmegutz",
-            "level": 174,
+            "level": 175,
             "avatar_hash": "667e41e68aa36eb42501d9bbe0a68fb14bfba1e0",
             "country_id": 210,
             "display_medals": 0,
@@ -2145,7 +2181,7 @@
           "sender": {
             "id": 183298842,
             "username": "fizzySticky",
-            "level": 9,
+            "level": 10,
             "avatar_hash": "dc405b1e2f6c897870bff64306e79cb93104e2ea",
             "country_id": 210,
             "display_medals": 0,
@@ -2667,7 +2703,7 @@
           "sender": {
             "id": 393877863,
             "username": "POL4R",
-            "level": 68,
+            "level": 69,
             "avatar_hash": "1174a8f712a444fb2b57555fc6880311c809586f",
             "country_id": 210,
             "display_medals": 0,
@@ -2730,7 +2766,7 @@
           "sender": {
             "id": 188133279,
             "username": "bULLETxD",
-            "level": 103,
+            "level": 104,
             "avatar_hash": "05938fcc666f53e98aac8e77e494dd6d16b7cb57",
             "country_id": 210,
             "display_medals": 0,
@@ -2748,7 +2784,7 @@
           "sender": {
             "id": 188133279,
             "username": "bULLETxD",
-            "level": 103,
+            "level": 104,
             "avatar_hash": "05938fcc666f53e98aac8e77e494dd6d16b7cb57",
             "country_id": 210,
             "display_medals": 0,
@@ -2766,7 +2802,7 @@
           "sender": {
             "id": 188133279,
             "username": "bULLETxD",
-            "level": 103,
+            "level": 104,
             "avatar_hash": "05938fcc666f53e98aac8e77e494dd6d16b7cb57",
             "country_id": 210,
             "display_medals": 0,
@@ -2928,7 +2964,7 @@
           "sender": {
             "id": 1010424334,
             "username": "Mortyy7",
-            "level": 36,
+            "level": 37,
             "avatar_hash": "34de534c72639e074ebfaea670fb5044ceba52f9",
             "country_id": 210,
             "display_medals": 0,
@@ -2946,7 +2982,7 @@
           "sender": {
             "id": 1010424334,
             "username": "Mortyy7",
-            "level": 36,
+            "level": 37,
             "avatar_hash": "34de534c72639e074ebfaea670fb5044ceba52f9",
             "country_id": 210,
             "display_medals": 0,
@@ -2982,7 +3018,7 @@
           "sender": {
             "id": 1010424334,
             "username": "Mortyy7",
-            "level": 36,
+            "level": 37,
             "avatar_hash": "34de534c72639e074ebfaea670fb5044ceba52f9",
             "country_id": 210,
             "display_medals": 0,
@@ -3108,7 +3144,7 @@
           "sender": {
             "id": 1010424334,
             "username": "Mortyy7",
-            "level": 36,
+            "level": 37,
             "avatar_hash": "34de534c72639e074ebfaea670fb5044ceba52f9",
             "country_id": 210,
             "display_medals": 0,
