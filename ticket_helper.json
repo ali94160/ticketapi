@@ -2156,1358 +2156,180 @@
       "subject": "Gamet buggade",
       "userId": 65223189,
       "username": "DR3AM2",
-      "messages": [
-        {
-          "id": 1101787,
-          "message": "Hej, match: esportal.com/match/6180781 är nu fixad. Mvh",
-          "sender": {
-            "id": 34160441,
-            "username": "blue",
-            "level": 110,
-            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
-            "country_id": 210,
-            "display_medals": 0,
-            "flags": 0,
-            "region_id": 0,
-            "subregion_id": 0,
-            "permissions": null
-          },
-          "admin": true,
-          "inserted": 1714998814
-        }
-      ],
       "resolved": 1
     },
     {
       "ticketId": 285583,
       "subject": "Esportal nere = buggad server + matchresultat",
-      "userId": 68563869,
       "username": "Matte",
-      "messages": [
-        {
-          "id": 1101756,
-          "message": "fizzySticky har rapporterat samma bugg (hennes gather) och har även sparat video på det hela om det behövs. Gather: https://esportal.com/en/match/6180560",
-          "sender": {
-            "id": 68563869,
-            "username": "Matte",
-            "level": 109,
-            "avatar_hash": "177b969eb4fb492232fc38297e786c3921e5cabd",
-            "country_id": 210,
-            "display_medals": 0,
-            "flags": 0,
-            "region_id": 0,
-            "subregion_id": 0,
-            "permissions": null
-          },
-          "admin": false,
-          "inserted": 1714985722
-        },
-        {
-          "id": 1101788,
-          "message": "Hej, matchen är nu återställd.",
-          "sender": {
-            "id": 34160441,
-            "username": "blue",
-            "level": 110,
-            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
-            "country_id": 210,
-            "display_medals": 0,
-            "flags": 0,
-            "region_id": 0,
-            "subregion_id": 0,
-            "permissions": null
-          },
-          "admin": true,
-          "inserted": 1714998924
-        }
-      ],
       "resolved": 1
     },
     {
       "ticketId": 285544,
       "subject": "we won but lost elo",
-      "userId": 183298842,
       "username": "fizzySticky",
-      "messages": [
-        {
-          "id": 1101684,
-          "message": "i even have video proof of us winning but the enemy team getting the win on my phone",
-          "sender": {
-            "id": 183298842,
-            "username": "fizzySticky",
-            "level": 10,
-            "avatar_hash": "dc405b1e2f6c897870bff64306e79cb93104e2ea",
-            "country_id": 210,
-            "display_medals": 0,
-            "flags": 0,
-            "region_id": 0,
-            "subregion_id": 0,
-            "permissions": null
-          },
-          "admin": false,
-          "inserted": 1714944030
-        },
-        {
-          "id": 1101789,
-          "message": "Hi, the gather has been restored due to the bug.",
-          "sender": {
-            "id": 34160441,
-            "username": "blue",
-            "level": 110,
-            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
-            "country_id": 210,
-            "display_medals": 0,
-            "flags": 0,
-            "region_id": 0,
-            "subregion_id": 0,
-            "permissions": null
-          },
-          "admin": true,
-          "inserted": 1714999043
-        }
-      ],
       "resolved": 1
     },
     {
       "ticketId": 285369,
       "subject": "Vi vann matchen, men resultaten blev tvärtom??",
-      "userId": 36046010,
       "username": "kittkatt",
-      "messages": [
-        {
-          "id": 1101761,
-          "message": "Hej, vi ska undersöka detta.",
-          "sender": {
-            "id": 34160441,
-            "username": "blue",
-            "level": 110,
-            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
-            "country_id": 210,
-            "display_medals": 0,
-            "flags": 0,
-            "region_id": 0,
-            "subregion_id": 0,
-            "permissions": null
-          },
-          "admin": true,
-          "inserted": 1714988082
-        },
-        {
-          "id": 1101790,
-          "message": "Hej, vi har granskat matchen och då matchen buggat så har vi återställt den. Men vi förstår att detta är trist, speciellt när man leder med 12-0 och har därför gett hela din premade-stack 7 dagars Premium som kompensation.",
-          "sender": {
-            "id": 34160441,
-            "username": "blue",
-            "level": 110,
-            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
-            "country_id": 210,
-            "display_medals": 0,
-            "flags": 0,
-            "region_id": 0,
-            "subregion_id": 0,
-            "permissions": null
-          },
-          "admin": true,
-          "inserted": 1714999210
-        }
-      ],
-      "resolved": 1
-    },
-    {
-      "ticketId": 285422,
-      "subject": "Pelikusitti",
-      "userId": 105321742,
-      "username": "TuRRe",
-      "messages": [
-        {
-          "id": 1101545,
-          "message": "Morjesta, linkkaas match lobby niin tutkitaan.",
-          "sender": {
-            "id": 121841252,
-            "username": "Robbejj",
-            "level": 75,
-            "avatar_hash": "eb72e7141512e73c04b934e70ae664c62a0d9c49",
-            "country_id": 71,
-            "display_medals": 0,
-            "flags": 0,
-            "region_id": 0,
-            "subregion_id": 0,
-            "permissions": null
-          },
-          "admin": true,
-          "inserted": 1714926931
-        },
-        {
-          "id": 1101547,
-          "message": "https://esportal.com/en/match/6179349",
-          "sender": {
-            "id": 105321742,
-            "username": "TuRRe",
-            "level": 44,
-            "avatar_hash": "87276e6ff3d2ea2aff1d31aae64b1ec3715d5e8a",
-            "country_id": 71,
-            "display_medals": 0,
-            "flags": 0,
-            "region_id": 0,
-            "subregion_id": 0,
-            "permissions": null
-          },
-          "admin": false,
-          "inserted": 1714927065
-        },
-        {
-          "id": 1101792,
-          "message": "Hi, the match has been restored.",
-          "sender": {
-            "id": 34160441,
-            "username": "blue",
-            "level": 110,
-            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
-            "country_id": 210,
-            "display_medals": 0,
-            "flags": 0,
-            "region_id": 0,
-            "subregion_id": 0,
-            "permissions": null
-          },
-          "admin": true,
-          "inserted": 1714999356
-        }
-      ],
-      "resolved": 1
-    },
-    {
-      "ticketId": 285555,
-      "subject": "Buggmatch",
-      "userId": 87661,
-      "username": "Squeezeminator",
-      "messages": [
-        {
-          "id": 1101793,
-          "message": "Hej, matchen är granskat och då detta är en ny typ av bugg så har jag rapporterat in denna matchen. Notera att Crispy servrarna är under Beta och buggar/fel kan inträffa. Önskar dig en fortsatt trevlig dag ändå!",
-          "sender": {
-            "id": 34160441,
-            "username": "blue",
-            "level": 110,
-            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
-            "country_id": 210,
-            "display_medals": 0,
-            "flags": 0,
-            "region_id": 0,
-            "subregion_id": 0,
-            "permissions": null
-          },
-          "admin": true,
-          "inserted": 1714999461
-        }
-      ],
       "resolved": 1
     },
     {
       "ticketId": 285596,
       "subject": "Kan inte connecta",
-      "userId": 839686494,
       "username": "Guldgnomen",
-      "messages": [
-        {
-          "id": 1101795,
-          "message": "Hej, kan du skicka din klientlogg? Öppna klienten > tryck på \"kugghjulet\" > Logfile > Kopiera all innehåll > Gå till: pastebin.com > Klistra in innehållet och länka här.",
-          "sender": {
-            "id": 34160441,
-            "username": "blue",
-            "level": 110,
-            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
-            "country_id": 210,
-            "display_medals": 0,
-            "flags": 0,
-            "region_id": 0,
-            "subregion_id": 0,
-            "permissions": null
-          },
-          "admin": true,
-          "inserted": 1714999921
-        },
-        {
-          "id": 1101796,
-          "message": "Sker detta varje match eller är det första gången?",
-          "sender": {
-            "id": 34160441,
-            "username": "blue",
-            "level": 110,
-            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
-            "country_id": 210,
-            "display_medals": 0,
-            "flags": 0,
-            "region_id": 0,
-            "subregion_id": 0,
-            "permissions": null
-          },
-          "admin": true,
-          "inserted": 1714999933
-        },
-        {
-          "id": 1101826,
-          "message": "https://pastebin.com/m1Q3L5wv\n\nHar testat 2 gånger och samma sak båda gångerna ",
-          "sender": {
-            "id": 839686494,
-            "username": "Guldgnomen",
-            "level": 23,
-            "avatar_hash": "648289da5056193a8268fc71364822f2cd369c6c",
-            "country_id": 210,
-            "display_medals": 0,
-            "flags": 0,
-            "region_id": 0,
-            "subregion_id": 0,
-            "permissions": null
-          },
-          "admin": false,
-          "inserted": 1715003940
-        },
-        {
-          "id": 1101949,
-          "message": "Har du möjlighet att länka matcherna där detta fel inträffat?",
-          "sender": {
-            "id": 34160441,
-            "username": "blue",
-            "level": 110,
-            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
-            "country_id": 210,
-            "display_medals": 0,
-            "flags": 0,
-            "region_id": 0,
-            "subregion_id": 0,
-            "permissions": null
-          },
-          "admin": true,
-          "inserted": 1715011697
-        }
-      ],
       "resolved": 1
     },
     {
       "ticketId": 285590,
       "subject": "match spelades om ?",
-      "userId": 159186088,
       "username": "korvove",
-      "messages": [
-        {
-          "id": 1101810,
-          "message": "Hej, detta låter skumt, vi kommer att rapportera in denna matchen till våra utvecklare och så får vi hoppas att det löser sig.",
-          "sender": {
-            "id": 34160441,
-            "username": "blue",
-            "level": 110,
-            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
-            "country_id": 210,
-            "display_medals": 0,
-            "flags": 0,
-            "region_id": 0,
-            "subregion_id": 0,
-            "permissions": null
-          },
-          "admin": true,
-          "inserted": 1715001197
-        }
-      ],
       "resolved": 1
     },
     {
       "ticketId": 285591,
       "subject": "SERVERFEL",
-      "userId": 401219404,
       "username": "Devnex",
-      "messages": [
-        {
-          "id": 1101774,
-          "message": "samt att vi som \"spelade\" efter restart av server fick de stats i kd som var under den perioden medans dom som inte kom in fick från \" gamet \" innan. ta bort hela matchen eller ändra statsen och elo tack.",
-          "sender": {
-            "id": 401219404,
-            "username": "Devnex",
-            "level": 81,
-            "avatar_hash": "3d53681469be266a03776573119e0d89f062210c",
-            "country_id": 210,
-            "display_medals": 0,
-            "flags": 0,
-            "region_id": 0,
-            "subregion_id": 0,
-            "permissions": null
-          },
-          "admin": false,
-          "inserted": 1714997038
-        },
-        {
-          "id": 1101807,
-          "message": "Hej, låter märkligt, vi kommer att rapportera in denna matchen till våra utvecklare och så får vi hoppas att det löser sig.",
-          "sender": {
-            "id": 34160441,
-            "username": "blue",
-            "level": 110,
-            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
-            "country_id": 210,
-            "display_medals": 0,
-            "flags": 0,
-            "region_id": 0,
-            "subregion_id": 0,
-            "permissions": null
-          },
-          "admin": true,
-          "inserted": 1715001000
-        },
-        {
-          "id": 1101809,
-          "message": "snyggt ! du är verkligen kung <3",
-          "sender": {
-            "id": 401219404,
-            "username": "Devnex",
-            "level": 81,
-            "avatar_hash": "3d53681469be266a03776573119e0d89f062210c",
-            "country_id": 210,
-            "display_medals": 0,
-            "flags": 0,
-            "region_id": 0,
-            "subregion_id": 0,
-            "permissions": null
-          },
-          "admin": false,
-          "inserted": 1715001152
-        }
-      ],
       "resolved": 1
     },
     {
       "ticketId": 285602,
       "subject": "Varför har jag blivit bannad",
-      "userId": 1179651216,
       "username": "SPEEDSTERRRRR",
-      "messages": [
-        {
-          "id": 1101820,
-          "message": "Hej, du har utryckt dig olämpligt i röstchatten. Har granskat matchen och din ban är korrekt. Du är välkommen tillbaka när din ban löpt ut.",
-          "sender": {
-            "id": 34160441,
-            "username": "blue",
-            "level": 110,
-            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
-            "country_id": 210,
-            "display_medals": 0,
-            "flags": 0,
-            "region_id": 0,
-            "subregion_id": 0,
-            "permissions": null
-          },
-          "admin": true,
-          "inserted": 1715002606
-        }
-      ],
       "resolved": 1
     },
     {
       "ticketId": 285579,
       "subject": "match buggade ?",
-      "userId": 462361023,
       "username": "Piller7",
-      "messages": [
-        {
-          "id": 1101751,
-          "message": "Hej, har du kvar länk till matchen? Skicka här så undersöker vi detta.",
-          "sender": {
-            "id": 34160441,
-            "username": "blue",
-            "level": 110,
-            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
-            "country_id": 210,
-            "display_medals": 0,
-            "flags": 0,
-            "region_id": 0,
-            "subregion_id": 0,
-            "permissions": null
-          },
-          "admin": true,
-          "inserted": 1714984539
-        },
-        {
-          "id": 1101800,
-          "message": "Den syns varken bland mina matcher eller i leetify :s",
-          "sender": {
-            "id": 462361023,
-            "username": "Piller7",
-            "level": 67,
-            "avatar_hash": "ba82b8d952793c86bd0f9791bd7bc48472eb54cd",
-            "country_id": 210,
-            "display_medals": 0,
-            "flags": 0,
-            "region_id": 0,
-            "subregion_id": 0,
-            "permissions": null
-          },
-          "admin": false,
-          "inserted": 1715000474
-        },
-        {
-          "id": 1101821,
-          "message": "Tror du att du kan hitta den i din webbläsarhistorik?",
-          "sender": {
-            "id": 34160441,
-            "username": "blue",
-            "level": 110,
-            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
-            "country_id": 210,
-            "display_medals": 0,
-            "flags": 0,
-            "region_id": 0,
-            "subregion_id": 0,
-            "permissions": null
-          },
-          "admin": true,
-          "inserted": 1715002993
-        }
-      ],
       "resolved": 1
     },
     {
       "ticketId": 285593,
       "subject": "Fick ingen ELO",
-      "userId": 192246698,
       "username": "AzeYY",
-      "messages": [
-        {
-          "id": 1101823,
-          "message": "Hej, matchen är nu fixad! Mvh",
-          "sender": {
-            "id": 34160441,
-            "username": "blue",
-            "level": 110,
-            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
-            "country_id": 210,
-            "display_medals": 0,
-            "flags": 0,
-            "region_id": 0,
-            "subregion_id": 0,
-            "permissions": null
-          },
-          "admin": true,
-          "inserted": 1715003442
-        }
-      ],
       "resolved": 1
     },
     {
       "ticketId": 285606,
       "subject": "varför",
-      "userId": 1640945244,
       "username": "Maldon47",
-      "messages": [
-        {
-          "id": 1101833,
-          "message": "Hej, du fick en automatisk 48h regions ban då du fått 6 varning inom en kort period.",
-          "sender": {
-            "id": 34160441,
-            "username": "blue",
-            "level": 110,
-            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
-            "country_id": 210,
-            "display_medals": 0,
-            "flags": 0,
-            "region_id": 0,
-            "subregion_id": 0,
-            "permissions": null
-          },
-          "admin": true,
-          "inserted": 1715006643
-        }
-      ],
       "resolved": 1
     },
     {
       "ticketId": 285608,
       "subject": "Region Ban",
-      "userId": 1513938690,
       "username": "askaaar123",
-      "messages": [
-        {
-          "id": 1101835,
-          "message": "Hej, du har inom en kort period fått flertals varnings från matcher som granskat av vårat report-team. Nu har du nått 6 varningar och detta resulterade i en automatisk 48h regions ban.",
-          "sender": {
-            "id": 34160441,
-            "username": "blue",
-            "level": 110,
-            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
-            "country_id": 210,
-            "display_medals": 0,
-            "flags": 0,
-            "region_id": 0,
-            "subregion_id": 0,
-            "permissions": null
-          },
-          "admin": true,
-          "inserted": 1715006748
-        }
-      ],
       "resolved": 1
     },
     {
       "ticketId": 285538,
       "subject": "wrong way around",
-      "userId": 393877863,
       "username": "POL4R",
-      "messages": [
-        {
-          "id": 1101778,
-          "message": "it was the switch bug thing",
-          "sender": {
-            "id": 393877863,
-            "username": "POL4R",
-            "level": 69,
-            "avatar_hash": "1174a8f712a444fb2b57555fc6880311c809586f",
-            "country_id": 210,
-            "display_medals": 0,
-            "flags": 0,
-            "region_id": 0,
-            "subregion_id": 0,
-            "permissions": null
-          },
-          "admin": false,
-          "inserted": 1714997964
-        },
-        {
-          "id": 1101843,
-          "message": "Hi, the match has been restored.",
-          "sender": {
-            "id": 34160441,
-            "username": "blue",
-            "level": 110,
-            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
-            "country_id": 210,
-            "display_medals": 0,
-            "flags": 0,
-            "region_id": 0,
-            "subregion_id": 0,
-            "permissions": null
-          },
-          "admin": true,
-          "inserted": 1715007329
-        }
-      ],
       "resolved": 1
     },
     {
       "ticketId": 285529,
       "subject": "VANN EN MATCH SOM FÖRSVANN",
-      "userId": 188133279,
       "username": "bULLETxD",
-      "messages": [
-        {
-          "id": 1101727,
-          "message": "Hej, tror du att du kan hitta den matchen i din webbläsarhistorik? Då kan vi undersöka och möjligtvis åtgärda detta. Mvh",
-          "sender": {
-            "id": 34160441,
-            "username": "blue",
-            "level": 110,
-            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
-            "country_id": 210,
-            "display_medals": 0,
-            "flags": 0,
-            "region_id": 0,
-            "subregion_id": 0,
-            "permissions": null
-          },
-          "admin": true,
-          "inserted": 1714954922
-        },
-        {
-          "id": 1101728,
-          "message": "https://esportal.com/sv/match/6180608",
-          "sender": {
-            "id": 188133279,
-            "username": "bULLETxD",
-            "level": 104,
-            "avatar_hash": "05938fcc666f53e98aac8e77e494dd6d16b7cb57",
-            "country_id": 210,
-            "display_medals": 0,
-            "flags": 0,
-            "region_id": 0,
-            "subregion_id": 0,
-            "permissions": null
-          },
-          "admin": false,
-          "inserted": 1714955037
-        },
-        {
-          "id": 1101729,
-          "message": "hallå hoho",
-          "sender": {
-            "id": 188133279,
-            "username": "bULLETxD",
-            "level": 104,
-            "avatar_hash": "05938fcc666f53e98aac8e77e494dd6d16b7cb57",
-            "country_id": 210,
-            "display_medals": 0,
-            "flags": 0,
-            "region_id": 0,
-            "subregion_id": 0,
-            "permissions": null
-          },
-          "admin": false,
-          "inserted": 1714959200
-        },
-        {
-          "id": 1101741,
-          "message": "en till match jag vann med 22-20 som jag inte fick nått för heller.\n\nhttps://esportal.com/sv/match/6180931",
-          "sender": {
-            "id": 188133279,
-            "username": "bULLETxD",
-            "level": 104,
-            "avatar_hash": "05938fcc666f53e98aac8e77e494dd6d16b7cb57",
-            "country_id": 210,
-            "display_medals": 0,
-            "flags": 0,
-            "region_id": 0,
-            "subregion_id": 0,
-            "permissions": null
-          },
-          "admin": false,
-          "inserted": 1714975989
-        },
-        {
-          "id": 1101859,
-          "message": "Hej, eftersom matcherna blivit avbrutna så är där tyvärr inget vi kan göra. Felet är inrapporterat till våra utvecklare och arbetas på i skrivande stund, beklagar detta. Mvh",
-          "sender": {
-            "id": 34160441,
-            "username": "blue",
-            "level": 110,
-            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
-            "country_id": 210,
-            "display_medals": 0,
-            "flags": 0,
-            "region_id": 0,
-            "subregion_id": 0,
-            "permissions": null
-          },
-          "admin": true,
-          "inserted": 1715008114
-        }
-      ],
       "resolved": 1
     },
     {
       "ticketId": 285637,
       "subject": "Bannad",
-      "userId": 1197831434,
       "username": "Glockn",
-      "messages": [
-        {
-          "id": 1101869,
-          "message": "Hej, har lyft din ban och varning. Mvh",
-          "sender": {
-            "id": 34160441,
-            "username": "blue",
-            "level": 110,
-            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
-            "country_id": 210,
-            "display_medals": 0,
-            "flags": 0,
-            "region_id": 0,
-            "subregion_id": 0,
-            "permissions": null
-          },
-          "admin": true,
-          "inserted": 1715008699
-        }
-      ],
       "resolved": 1
     },
     {
       "ticketId": 285640,
       "subject": "elo!!!",
-      "userId": 916620466,
       "username": "xDPXPxpPXp",
-      "messages": [
-        {
-          "id": 1101871,
-          "message": "Hej! Tyvärr har matchen stängts automatiskt efter matchen vart färdig spelad, detta då servern tappade connection mot sidan under en längre stund. Vi kan tyvärr inte dela ut någon elo manuellt. Vi beklagar detta. Mvh",
-          "sender": {
-            "id": 34160441,
-            "username": "blue",
-            "level": 110,
-            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
-            "country_id": 210,
-            "display_medals": 0,
-            "flags": 0,
-            "region_id": 0,
-            "subregion_id": 0,
-            "permissions": null
-          },
-          "admin": true,
-          "inserted": 1715008846
-        }
-      ],
       "resolved": 1
     },
     {
       "ticketId": 285624,
       "subject": "HUr fan e de möjligt ?",
-      "userId": 21678271,
       "username": "cap1tano",
-      "messages": [
-        {
-          "id": 1101839,
-          "message": "Hej, skall undersöka detta, återkommer.",
-          "sender": {
-            "id": 34160441,
-            "username": "blue",
-            "level": 110,
-            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
-            "country_id": 210,
-            "display_medals": 0,
-            "flags": 0,
-            "region_id": 0,
-            "subregion_id": 0,
-            "permissions": null
-          },
-          "admin": true,
-          "inserted": 1715006958
-        },
-        {
-          "id": 1101882,
-          "message": "Vi har nu återställt matchen då den buggade.",
-          "sender": {
-            "id": 34160441,
-            "username": "blue",
-            "level": 110,
-            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
-            "country_id": 210,
-            "display_medals": 0,
-            "flags": 0,
-            "region_id": 0,
-            "subregion_id": 0,
-            "permissions": null
-          },
-          "admin": true,
-          "inserted": 1715009534
-        }
-      ],
       "resolved": 1
     },
     {
       "ticketId": 285373,
       "subject": "KD glitch?",
-      "userId": 1010424334,
       "username": "Mortyy7",
-      "messages": [
-        {
-          "id": 1101895,
-          "message": "Hej, har du återställt dina KD någon gång via inställningarna? Om inte så baseras den på alla dina tidigare matcher. Om du väljer att reseta din KD så kommer den att vara baserad på dina 50 senaste matcher.",
-          "sender": {
-            "id": 34160441,
-            "username": "blue",
-            "level": 110,
-            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
-            "country_id": 210,
-            "display_medals": 0,
-            "flags": 0,
-            "region_id": 0,
-            "subregion_id": 0,
-            "permissions": null
-          },
-          "admin": true,
-          "inserted": 1715010101
-        },
-        {
-          "id": 1101897,
-          "message": "Kan ej göra det har ej råd med prime",
-          "sender": {
-            "id": 1010424334,
-            "username": "Mortyy7",
-            "level": 37,
-            "avatar_hash": "34de534c72639e074ebfaea670fb5044ceba52f9",
-            "country_id": 210,
-            "display_medals": 0,
-            "flags": 0,
-            "region_id": 0,
-            "subregion_id": 0,
-            "permissions": null
-          },
-          "admin": false,
-          "inserted": 1715010121
-        },
-        {
-          "id": 1101899,
-          "message": "och man måste ha prime för att kunna göra det\nom inte du kan lösa så jag kan trycka på den 1 gång",
-          "sender": {
-            "id": 1010424334,
-            "username": "Mortyy7",
-            "level": 37,
-            "avatar_hash": "34de534c72639e074ebfaea670fb5044ceba52f9",
-            "country_id": 210,
-            "display_medals": 0,
-            "flags": 0,
-            "region_id": 0,
-            "subregion_id": 0,
-            "permissions": null
-          },
-          "admin": false,
-          "inserted": 1715010181
-        },
-        {
-          "id": 1101915,
-          "message": "Att återställa sin KD är en Premium funktion och inte Prime. Tyvärr kan vi inte göra det.",
-          "sender": {
-            "id": 34160441,
-            "username": "blue",
-            "level": 110,
-            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
-            "country_id": 210,
-            "display_medals": 0,
-            "flags": 0,
-            "region_id": 0,
-            "subregion_id": 0,
-            "permissions": null
-          },
-          "admin": true,
-          "inserted": 1715010384
-        },
-        {
-          "id": 1101918,
-          "message": "aa okej förstår kan du ta en titt på min föra ticket för matchen buggades där helt",
-          "sender": {
-            "id": 1010424334,
-            "username": "Mortyy7",
-            "level": 37,
-            "avatar_hash": "34de534c72639e074ebfaea670fb5044ceba52f9",
-            "country_id": 210,
-            "display_medals": 0,
-            "flags": 0,
-            "region_id": 0,
-            "subregion_id": 0,
-            "permissions": null
-          },
-          "admin": false,
-          "inserted": 1715010471
-        },
-        {
-          "id": 1102086,
-          "message": "Du har svar där.",
-          "sender": {
-            "id": 34160441,
-            "username": "blue",
-            "level": 110,
-            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
-            "country_id": 210,
-            "display_medals": 0,
-            "flags": 0,
-            "region_id": 0,
-            "subregion_id": 0,
-            "permissions": null
-          },
-          "admin": true,
-          "inserted": 1715020975
-        }
-      ],
       "resolved": 1
     },
     {
       "ticketId": 285626,
       "subject": "Bugg i matchen",
-      "userId": 245547688,
       "username": "Turbosimpan",
-      "messages": [
-        {
-          "id": 1101963,
-          "message": "Hej, kan du länka matchen.",
-          "sender": {
-            "id": 34160441,
-            "username": "blue",
-            "level": 110,
-            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
-            "country_id": 210,
-            "display_medals": 0,
-            "flags": 0,
-            "region_id": 0,
-            "subregion_id": 0,
-            "permissions": null
-          },
-          "admin": true,
-          "inserted": 1715012085
-        }
-      ],
       "resolved": 1
     },
     {
       "ticketId": 285617,
       "subject": "Bug i förra spelet, vi fick spela 2st T halvor",
-      "userId": 213360333,
       "username": "Killiam",
-      "messages": [
-        {
-          "id": 1101964,
-          "message": "Hej, kan du länka matchen här.",
-          "sender": {
-            "id": 34160441,
-            "username": "blue",
-            "level": 110,
-            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
-            "country_id": 210,
-            "display_medals": 0,
-            "flags": 0,
-            "region_id": 0,
-            "subregion_id": 0,
-            "permissions": null
-          },
-          "admin": true,
-          "inserted": 1715012139
-        }
-      ],
       "resolved": 1
     },
     {
       "ticketId": 285627,
       "subject": "Ban överklagande",
-      "userId": 1106629226,
       "username": "FjantsonBRe",
-      "messages": [
-        {
-          "id": 1101965,
-          "message": "Hej, du har redan fått svar på din fråga i tidigare ticket. Samma svar gäller. Mvh",
-          "sender": {
-            "id": 34160441,
-            "username": "blue",
-            "level": 110,
-            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
-            "country_id": 210,
-            "display_medals": 0,
-            "flags": 0,
-            "region_id": 0,
-            "subregion_id": 0,
-            "permissions": null
-          },
-          "admin": true,
-          "inserted": 1715012279
-        }
-      ],
       "resolved": 1
     },
     {
       "ticketId": 285630,
       "subject": "matchen ska bort",
-      "userId": 1010424334,
       "username": "Mortyy7",
-      "messages": [
-        {
-          "id": 1101836,
-          "message": "06/05/2024, 15:46\nMATCH\n\nLadda ner\nDela:\nCounter-Strike 2\nCRISPY\nKLAR\navatar\nLag\nDungo\nGenomsnittlig Elo\n1246\n2\n\n:\n\n13\n\navatar\nVinnande Lag\nSlayyz\nGenomsnittlig Elo\n1293",
-          "sender": {
-            "id": 1010424334,
-            "username": "Mortyy7",
-            "level": 37,
-            "avatar_hash": "34de534c72639e074ebfaea670fb5044ceba52f9",
-            "country_id": 210,
-            "display_medals": 0,
-            "flags": 0,
-            "region_id": 0,
-            "subregion_id": 0,
-            "permissions": null
-          },
-          "admin": false,
-          "inserted": 1715006781
-        },
-        {
-          "id": 1102085,
-          "message": "Hej, vi har granskat matchen och kan tyvärr inte göra något åt denna. Vi är medvetna om att det inträffar buggar och det jobbas på i skrivande stund. Mvh",
-          "sender": {
-            "id": 34160441,
-            "username": "blue",
-            "level": 110,
-            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
-            "country_id": 210,
-            "display_medals": 0,
-            "flags": 0,
-            "region_id": 0,
-            "subregion_id": 0,
-            "permissions": null
-          },
-          "admin": true,
-          "inserted": 1715020950
-        }
-      ],
       "resolved": 1
     },
     {
       "ticketId": 285664,
       "subject": "bannad",
-      "userId": 1269060531,
       "username": "omgpomp1",
-      "messages": [
-        {
-          "id": 1102089,
-          "message": "Hej, har lyft din ban och varning. Mvh",
-          "sender": {
-            "id": 34160441,
-            "username": "blue",
-            "level": 110,
-            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
-            "country_id": 210,
-            "display_medals": 0,
-            "flags": 0,
-            "region_id": 0,
-            "subregion_id": 0,
-            "permissions": null
-          },
-          "admin": true,
-          "inserted": 1715021587
-        }
-      ],
       "resolved": 1
     },
     {
       "ticketId": 285587,
       "subject": "another game that bugs",
-      "userId": 83175244,
       "username": "jursprutarn",
-      "messages": [
-        {
-          "id": 1102223,
-          "message": "Hi, will investigate the match.",
-          "sender": {
-            "id": 34160441,
-            "username": "blue",
-            "level": 110,
-            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
-            "country_id": 210,
-            "display_medals": 0,
-            "flags": 0,
-            "region_id": 0,
-            "subregion_id": 0,
-            "permissions": null
-          },
-          "admin": true,
-          "inserted": 1715076339
-        }
-      ],
-      "resolved": 1
-    },
-    {
-      "ticketId": 285559,
-      "subject": "Fick ingen ELO",
-      "userId": 87661,
-      "username": "Squeezeminator",
-      "messages": [
-        {
-          "id": 1101725,
-          "message": "Hej, kan du länka matchen så undersöker vi detta.",
-          "sender": {
-            "id": 34160441,
-            "username": "blue",
-            "level": 110,
-            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
-            "country_id": 210,
-            "display_medals": 0,
-            "flags": 0,
-            "region_id": 0,
-            "subregion_id": 0,
-            "permissions": null
-          },
-          "admin": true,
-          "inserted": 1714954369
-        },
-        {
-          "id": 1101733,
-          "message": "Hej,\n\nDet var i match https://esportal.com/sv/match/6180561 där jag inte fick någon ELO som mina kompisar.",
-          "sender": {
-            "id": 87661,
-            "username": "Squeezeminator",
-            "level": 128,
-            "avatar_hash": "63366048d75c34eaa2fd8882ce50f14847d5b3b1",
-            "country_id": 210,
-            "display_medals": 0,
-            "flags": 0,
-            "region_id": 0,
-            "subregion_id": 0,
-            "permissions": null
-          },
-          "admin": false,
-          "inserted": 1714967555
-        },
-        {
-          "id": 1102215,
-          "message": "Tack, ska undersöka detta.",
-          "sender": {
-            "id": 34160441,
-            "username": "blue",
-            "level": 110,
-            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
-            "country_id": 210,
-            "display_medals": 0,
-            "flags": 0,
-            "region_id": 0,
-            "subregion_id": 0,
-            "permissions": null
-          },
-          "admin": true,
-          "inserted": 1715072077
-        }
-      ],
       "resolved": 1
     },
     {
       "ticketId": 285717,
       "subject": "Regionban",
-      "userId": 52083406,
       "username": "Raffajet",
-      "messages": [
-        {
-          "id": 1102227,
-          "message": "Hej, jag har lyft din ban och varning. Du kan nu spela vidare. Mvh",
-          "sender": {
-            "id": 34160441,
-            "username": "blue",
-            "level": 110,
-            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
-            "country_id": 210,
-            "display_medals": 0,
-            "flags": 0,
-            "region_id": 0,
-            "subregion_id": 0,
-            "permissions": null
-          },
-          "admin": true,
-          "inserted": 1715083880
-        }
-      ],
       "resolved": 1
     },
     {
       "ticketId": 285716,
       "subject": "Star gathers",
-      "userId": 27908768,
       "username": "xoorNt",
-      "messages": [
-        {
-          "id": 1102228,
-          "message": "Hi, that doesn't sound good, can you link some gathers/profiles regarding this issue?",
-          "sender": {
-            "id": 34160441,
-            "username": "blue",
-            "level": 110,
-            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
-            "country_id": 210,
-            "display_medals": 0,
-            "flags": 0,
-            "region_id": 0,
-            "subregion_id": 0,
-            "permissions": null
-          },
-          "admin": true,
-          "inserted": 1715084145
-        }
-      ],
       "resolved": 1
     },
     {
       "ticketId": 285690,
       "subject": "Joina genom client",
-      "userId": 46873111,
       "username": "ZerkEm",
-      "messages": [
-        {
-          "id": 1102230,
-          "message": "Hej, prova alltid att starta om Steam och klienten, sedan anslut på nytt via klienten. Se till att Steam och klienten är avslutade i aktivitetshanteraren>process. Men jag tar bort din varning! Mvh",
-          "sender": {
-            "id": 34160441,
-            "username": "blue",
-            "level": 110,
-            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
-            "country_id": 210,
-            "display_medals": 0,
-            "flags": 0,
-            "region_id": 0,
-            "subregion_id": 0,
-            "permissions": null
-          },
-          "admin": true,
-          "inserted": 1715084347
-        }
-      ],
       "resolved": 1
     },
     {
       "ticketId": 285718,
       "subject": "min ban",
-      "userId": 313770089,
       "username": "Issosos",
-      "messages": [
-        {
-          "id": 1102232,
-          "message": "Hej! Jag har granskat dina tidigare droppade matcher och tagit bort varningarna från dem matcher där felet varit från våran sida. Därav lyfter jag även din regionban. Mvh",
-          "sender": {
-            "id": 34160441,
-            "username": "blue",
-            "level": 110,
-            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
-            "country_id": 210,
-            "display_medals": 0,
-            "flags": 0,
-            "region_id": 0,
-            "subregion_id": 0,
-            "permissions": null
-          },
-          "admin": true,
-          "inserted": 1715085097
-        }
-      ],
       "resolved": 1
     },
     {
       "ticketId": 285687,
       "subject": "kan inte joina gamet",
-      "userId": 879494283,
       "username": "Vernop",
-      "messages": [
-        {
-          "id": 1102233,
-          "message": "Hej, prova ansluta via klienten istället för hemsidan. Återkom om problemet kvarstår. Mvh",
-          "sender": {
-            "id": 34160441,
-            "username": "blue",
-            "level": 110,
-            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
-            "country_id": 210,
-            "display_medals": 0,
-            "flags": 0,
-            "region_id": 0,
-            "subregion_id": 0,
-            "permissions": null
-          },
-          "admin": true,
-          "inserted": 1715085237
-        }
-      ],
       "resolved": 1
     },
     {
       "ticketId": 285668,
       "subject": "match försvann",
-      "userId": 1050834458,
       "username": "Shrimpadinhoxd",
-      "messages": [
-        {
-          "id": 1102235,
-          "message": "Hej! Tyvärr har matchen stängts automatiskt efter matchen vart färdig spelad, detta då servern tappade anslutning mot sidan under en längre stund. Vi kan tyvärr inte dela ut någon elo manuellt. Vi beklagar detta. Mvh",
-          "sender": {
-            "id": 34160441,
-            "username": "blue",
-            "level": 110,
-            "avatar_hash": "b72b104af5685e16bc0f32f1b0294f13991a0519",
-            "country_id": 210,
-            "display_medals": 0,
-            "flags": 0,
-            "region_id": 0,
-            "subregion_id": 0,
-            "permissions": null
-          },
-          "admin": true,
-          "inserted": 1715085471
-        }
-      ],
       "resolved": 1
     },
     {
