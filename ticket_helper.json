@@ -2651,6 +2651,13 @@
       "subject": "Namnbyte",
       "username": "method1",
       "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 285852,
+      "subject": "again false bans",
+      "username": "cvc",
+      "resolved": 1
     }
   ]
 }
