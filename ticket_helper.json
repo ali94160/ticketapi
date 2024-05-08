@@ -2534,5 +2534,9 @@
       "username": "qopa",
       "resolved": 1
     }
-  ]
+  ],
+  "SystemMessage": {
+    "text": "This is a test message number 2! Lets goo!",
+    "type": "2"
+  }
 }
