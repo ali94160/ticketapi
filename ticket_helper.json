@@ -2345,10 +2345,11 @@
       "resolved": 1
     },
     {
+      "handler": "nsfw",
       "ticketId": 285686,
       "subject": "06/05/2024, 16:54 match",
       "username": "nsfw",
-      "resolved": 0
+      "resolved": 1
     },
     {
       "ticketId": 285611,
