@@ -2614,6 +2614,13 @@
       "subject": "Tacksam för hjälp",
       "username": "yecs",
       "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 285812,
+      "subject": "Client startar ej",
+      "username": "HAVVRE",
+      "resolved": 1
     }
   ]
 }
