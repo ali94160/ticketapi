@@ -2558,6 +2558,13 @@
       "subject": "Jag fick 24h ban för matchen it starta",
       "username": "EeaSY",
       "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 285806,
+      "subject": "kunde inte connecta pga servrarna",
+      "username": "Kalana",
+      "resolved": 1
     }
   ]
 }
