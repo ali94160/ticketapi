@@ -4,7 +4,7 @@
     "type": "1"
   },
   "friends": {
-    "list": [{"username": "blue", flag: 1 }]
+    "list": [{"username": "blue", "flag": 1 }]
   },
   "data": [
     {
