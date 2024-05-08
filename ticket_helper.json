@@ -2586,6 +2586,13 @@
       "subject": "Gather som inte gick att joina",
       "username": "Lina",
       "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 285805,
+      "subject": "Fick inte att ansluta till servern, varning",
+      "username": "Cauth",
+      "resolved": 1
     }
   ]
 }
