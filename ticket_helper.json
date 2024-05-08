@@ -2572,6 +2572,13 @@
       "subject": "Help Me Plz",
       "username": "bosselasse1",
       "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 285486,
+      "subject": "Går ej att snabb-joina matcher",
+      "username": "Lundstrm",
+      "resolved": 1
     }
   ]
 }
