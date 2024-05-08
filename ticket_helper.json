@@ -2579,6 +2579,13 @@
       "subject": "Går ej att snabb-joina matcher",
       "username": "Lundstrm",
       "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 285809,
+      "subject": "Gather som inte gick att joina",
+      "username": "Lina",
+      "resolved": 1
     }
   ]
 }
