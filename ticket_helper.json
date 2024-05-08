@@ -3,6 +3,9 @@
     "text": "System meddelande nr 8 !",
     "type": "1"
   },
+  "friends": {
+    "list": ["blue"]
+  },
   "data": [
     {
       "ticketId": 285336,
@@ -2534,9 +2537,5 @@
       "username": "qopa",
       "resolved": 1
     }
-  ],
-  "SystemMessage": {
-    "text": "Testar bara test av test! 3",
-    "type": "2"
-  }
+  ]
 }
