@@ -2475,10 +2475,11 @@
       "resolved": 1
     },
     {
+      "handler": "blue",
       "ticketId": 285297,
       "subject": "Game bugged",
       "username": "fardinja",
-      "resolved": 0
+      "resolved": 1
     },
     {
       "ticketId": 285715,
