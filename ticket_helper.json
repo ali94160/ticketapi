@@ -2541,10 +2541,11 @@
       "resolved": 1
     },
     {
+      "handler": "blue",
       "ticketId": 285784,
       "subject": "region ban",
       "username": "aso8",
-      "resolved": 0
+      "resolved": 1
     },
     {
       "ticketId": 285802,
