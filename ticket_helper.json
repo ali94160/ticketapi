@@ -2600,6 +2600,13 @@
       "subject": "Min senaste match",
       "username": "1Holm",
       "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 285770,
+      "subject": "Knivrundan",
+      "username": "Skelettet",
+      "resolved": 1
     }
   ]
 }
