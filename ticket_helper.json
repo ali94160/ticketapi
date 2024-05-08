@@ -2658,6 +2658,13 @@
       "subject": "again false bans",
       "username": "cvc",
       "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 285859,
+      "subject": "bannad",
+      "username": "omgpomp1",
+      "resolved": 1
     }
   ]
 }
