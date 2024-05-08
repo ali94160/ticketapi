@@ -2593,6 +2593,13 @@
       "subject": "Fick inte att ansluta till servern, varning",
       "username": "Cauth",
       "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 285808,
+      "subject": "Min senaste match",
+      "username": "1Holm",
+      "resolved": 1
     }
   ]
 }
