@@ -2565,6 +2565,13 @@
       "subject": "kunde inte connecta pga servrarna",
       "username": "Kalana",
       "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 285798,
+      "subject": "Help Me Plz",
+      "username": "bosselasse1",
+      "resolved": 1
     }
   ]
 }
