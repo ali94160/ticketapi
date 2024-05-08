@@ -2607,6 +2607,13 @@
       "subject": "Knivrundan",
       "username": "Skelettet",
       "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 285800,
+      "subject": "Tacksam för hjälp",
+      "username": "yecs",
+      "resolved": 1
     }
   ]
 }
