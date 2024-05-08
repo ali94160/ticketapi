@@ -2665,6 +2665,13 @@
       "subject": "bannad",
       "username": "omgpomp1",
       "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 285863,
+      "subject": "cooldown",
+      "username": "Calleyy",
+      "resolved": 1
     }
   ]
 }
