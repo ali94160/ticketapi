@@ -1,5 +1,8 @@
 {
-  "systemMessage": null,
+  "systemMessage": {
+    "text": "Extension is on Beta 1.0 - Issues and bugs should be reported to the extension admins.",
+    "type": "2"
+  },
   "friends": {
     "list": [
       {
