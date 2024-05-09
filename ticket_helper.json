@@ -2722,6 +2722,13 @@
       "subject": "tekniska problem",
       "username": "butwhole",
       "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 285850,
+      "subject": "servrarna var nere fick inge elo",
+      "username": "Fredriksson41",
+      "resolved": 1
     }
   ]
 }
