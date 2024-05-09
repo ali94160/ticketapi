@@ -2813,6 +2813,13 @@
       "subject": "Angående elo",
       "username": "BilfirmanAB",
       "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 285787,
+      "subject": "Client ville ikke åbne",
+      "username": "PerSvin",
+      "resolved": 1
     }
   ]
 }
