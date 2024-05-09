@@ -1,5 +1,8 @@
 {
   "systemMessage": null,
+  {
+    "isTicketsClearedForThisMonth": "true"
+  },
   "friends": {
     "list": [
       {
@@ -7,9 +10,6 @@
         "flag": 1
       }
     ]
-  },
-  {
-    "isTicketsClearedForThisMonth": true
   },
   "data": [
     {
