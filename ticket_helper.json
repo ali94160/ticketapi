@@ -2680,6 +2680,13 @@
       "subject": "False Cheat ban",
       "username": "Maxkillerbree",
       "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 285854,
+      "subject": "cloudfare blockerar mig att komma in på eran sida",
+      "username": "B1umE",
+      "resolved": 1
     }
   ]
 }
