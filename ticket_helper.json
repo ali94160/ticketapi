@@ -8,6 +8,9 @@
       }
     ]
   },
+  {
+    "isTicketsClearedForThisMonth": true
+  },
   "data": [
     {
       "ticketId": 285336,
