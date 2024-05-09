@@ -2792,6 +2792,13 @@
       "subject": "clienten",
       "username": "qopa",
       "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 285866,
+      "subject": "må vente på bekreftelse før jeg kan spille igjen",
+      "username": "Tirill",
+      "resolved": 1
     }
   ]
 }
