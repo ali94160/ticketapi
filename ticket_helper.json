@@ -2708,6 +2708,13 @@
       "subject": "Report this player : Lillprisen",
       "username": "THRILLtw",
       "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 285862,
+      "subject": "åkte på cooldown när servern inte skapadeesä",
+      "username": "Fartblind",
+      "resolved": 1
     }
   ]
 }
