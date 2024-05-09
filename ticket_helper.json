@@ -2750,6 +2750,13 @@
       "subject": "HELLO?",
       "username": "KonnoYuuki",
       "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 285450,
+      "subject": "They harassed me then kicked me out",
+      "username": "oge",
+      "resolved": 1
     }
   ]
 }
