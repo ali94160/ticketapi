@@ -2837,6 +2837,13 @@
       "subject": "joining game session",
       "username": "JALOROTTA",
       "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 285881,
+      "subject": "Fått varning utan anledning",
+      "username": "Barajohanna",
+      "resolved": 1
     }
   ]
 }
