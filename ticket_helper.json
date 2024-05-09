@@ -2736,6 +2736,13 @@
       "subject": "Godkännas?",
       "username": "faceitrizzparty",
       "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 285791,
+      "subject": "client",
+      "username": "Vall1n",
+      "resolved": 1
     }
   ]
 }
