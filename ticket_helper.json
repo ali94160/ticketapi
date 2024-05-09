@@ -2827,6 +2827,13 @@
       "subject": "timeout",
       "username": "aysa",
       "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 285827,
+      "subject": "joining game session",
+      "username": "JALOROTTA",
+      "resolved": 1
     }
   ]
 }
