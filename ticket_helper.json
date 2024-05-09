@@ -2785,6 +2785,13 @@
       "subject": "varför ban",
       "username": "BADSALTHEHEH",
       "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 285769,
+      "subject": "clienten",
+      "username": "qopa",
+      "resolved": 1
     }
   ]
 }
