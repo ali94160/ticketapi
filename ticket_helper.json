@@ -2729,6 +2729,13 @@
       "subject": "servrarna var nere fick inge elo",
       "username": "Fredriksson41",
       "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 285835,
+      "subject": "Godkännas?",
+      "username": "faceitrizzparty",
+      "resolved": 1
     }
   ]
 }
