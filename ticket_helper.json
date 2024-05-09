@@ -2549,10 +2549,11 @@
       "resolved": 1
     },
     {
+      "handler": "blue",
       "ticketId": 285802,
       "subject": "cllinten vill inte strta cs",
       "username": "mrnoob1",
-      "resolved": 0
+      "resolved": 1
     },
     {
       "handler": "blue",
