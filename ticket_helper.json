@@ -2820,6 +2820,13 @@
       "subject": "Client ville ikke åbne",
       "username": "PerSvin",
       "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 285778,
+      "subject": "timeout",
+      "username": "aysa",
+      "resolved": 1
     }
   ]
 }
