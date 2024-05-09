@@ -2715,6 +2715,13 @@
       "subject": "åkte på cooldown när servern inte skapadeesä",
       "username": "Fartblind",
       "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 285109,
+      "subject": "tekniska problem",
+      "username": "butwhole",
+      "resolved": 1
     }
   ]
 }
