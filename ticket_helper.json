@@ -5,7 +5,9 @@
     "list": [
       {
         "username": "blue",
-        "flag": 1
+        "flag": 1,
+        "allTimeTickets": 157,
+        "currentTickets": 157,
       }
     ]
   },
