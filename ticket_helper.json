@@ -6,7 +6,7 @@
       {
         "username": "blue",
         "flag": 1,
-        "allTimeTickets": 158
+        "allTimeTickets": 159
       }
     ]
   },
@@ -16,6 +16,13 @@
       "ticketId": 285902,
       "subject": "bannad för inget, gick ej att gå med i gamet",
       "username": "2StOOpid",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 285882,
+      "subject": "Angående min ban",
+      "username": "Johansson0",
       "resolved": 1
     }
   ]
