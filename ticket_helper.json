@@ -2778,6 +2778,13 @@
       "subject": "bug match",
       "username": "NoReasonz",
       "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 285494,
+      "subject": "varför ban",
+      "username": "BADSALTHEHEH",
+      "resolved": 1
     }
   ]
 }
