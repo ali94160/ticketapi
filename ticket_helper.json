@@ -1,5 +1,8 @@
 {
-  "systemMessage": null,
+  "systemMessage": {
+    "text": "Ny uppdatering kommer släppas idag kl. 22.00!",
+    "type": "2"
+  },
   "isTicketsClearedForThisMonth": true,
   "friends": {
     "list": [
