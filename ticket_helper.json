@@ -6,7 +6,7 @@
       {
         "username": "blue",
         "flag": 1,
-        "allTimeTickets": 164
+        "allTimeTickets": 165
       }
     ]
   },
@@ -58,6 +58,13 @@
       "ticketId": 285941,
       "subject": "BAN - Klientfel",
       "username": "Beatris",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 285969,
+      "subject": "bannad för voice abuse när jag bara spelar 5",
+      "username": "apaHSdjur",
       "resolved": 1
     }
   ]
