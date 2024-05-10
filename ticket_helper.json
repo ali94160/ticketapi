@@ -17,7 +17,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 1,
-        "allTimeTickets": 180
+        "allTimeTickets": 181
       }
     ]
   },
@@ -146,6 +146,13 @@
       "ticketId": 285687,
       "subject": "kan inte joina gamet",
       "username": "Vernop",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286006,
+      "subject": "ej fått poäng",
+      "username": "b3t",
       "resolved": 1
     }
   ]
