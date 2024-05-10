@@ -17,7 +17,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 1,
-        "allTimeTickets": 171
+        "allTimeTickets": 172
       }
     ]
   },
@@ -83,6 +83,13 @@
       "ticketId": 286028,
       "subject": "Jump in",
       "username": "RichHomieQuaN",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 285896,
+      "subject": "fick bann",
+      "username": "JMattiasson",
       "resolved": 1
     }
   ]
