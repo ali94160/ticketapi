@@ -17,7 +17,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 1,
-        "allTimeTickets": 177
+        "allTimeTickets": 178
       }
     ]
   },
@@ -125,6 +125,13 @@
       "ticketId": 286030,
       "subject": "Varför e jag bannad",
       "username": "youngbobb1s",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286027,
+      "subject": "eran sida är fortsatt ett skämt, vilken skräll...",
+      "username": "REAL1ZE",
       "resolved": 1
     }
   ]
