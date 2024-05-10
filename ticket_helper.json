@@ -1,8 +1,5 @@
 {
-  "systemMessage": {
-    "text": "Test3",
-    "type": "1"
-  },
+  "systemMessage": null,
   "isTicketsClearedForThisMonth": true,
   "friends": {
     "list": [
