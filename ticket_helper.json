@@ -17,7 +17,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 1,
-        "allTimeTickets": 183
+        "allTimeTickets": 184
       }
     ]
   },
@@ -167,6 +167,13 @@
       "ticketId": 286054,
       "subject": "ban....",
       "username": "dunderluggen",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286053,
+      "subject": "Incorrect warning",
+      "username": "xtrmflw",
       "resolved": 1
     }
   ]
