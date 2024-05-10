@@ -17,7 +17,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 1,
-        "allTimeTickets": 175
+        "allTimeTickets": 176
       }
     ]
   },
@@ -111,6 +111,13 @@
       "ticketId": 286033,
       "subject": "cs go",
       "username": "donken22",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286032,
+      "subject": "inget skin",
+      "username": "Vernop",
       "resolved": 1
     }
   ]
