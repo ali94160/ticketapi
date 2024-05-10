@@ -6,7 +6,7 @@
       {
         "username": "blue",
         "flag": 1,
-        "allTimeTickets": 160
+        "allTimeTickets": 161
       }
     ]
   },
@@ -30,6 +30,13 @@
       "ticketId": 285895,
       "subject": "Ang min ban",
       "username": "Johansson0",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 285944,
+      "subject": "Varning",
+      "username": "h0wling",
       "resolved": 1
     }
   ]
