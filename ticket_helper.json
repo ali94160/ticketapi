@@ -17,7 +17,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 1,
-        "allTimeTickets": 176
+        "allTimeTickets": 177
       }
     ]
   },
@@ -118,6 +118,13 @@
       "ticketId": 286032,
       "subject": "inget skin",
       "username": "Vernop",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286030,
+      "subject": "Varför e jag bannad",
+      "username": "youngbobb1s",
       "resolved": 1
     }
   ]
