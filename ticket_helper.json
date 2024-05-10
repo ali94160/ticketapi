@@ -17,7 +17,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 1,
-        "allTimeTickets": 181
+        "allTimeTickets": 182
       }
     ]
   },
@@ -153,6 +153,13 @@
       "ticketId": 286006,
       "subject": "ej fått poäng",
       "username": "b3t",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 285967,
+      "subject": "Misstänkt WH",
+      "username": "askaaar123",
       "resolved": 1
     }
   ]
