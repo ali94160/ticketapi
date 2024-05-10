@@ -4,11 +4,6 @@
   "friends": {
     "list": [
       {
-        "username": "blue",
-        "flag": 2,
-        "allTimeTickets": 165
-      },
-      {
         "username": "DaisyMerollin",
         "flag": "2",
         "allTimeTickets": 0
