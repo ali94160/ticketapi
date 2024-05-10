@@ -17,7 +17,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 1,
-        "allTimeTickets": 179
+        "allTimeTickets": 180
       }
     ]
   },
@@ -139,6 +139,13 @@
       "ticketId": 286026,
       "subject": "Går inte joina games",
       "username": "gicke",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 285687,
+      "subject": "kan inte joina gamet",
+      "username": "Vernop",
       "resolved": 1
     }
   ]
