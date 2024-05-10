@@ -6,7 +6,7 @@
       {
         "username": "blue",
         "flag": 1,
-        "allTimeTickets": 163
+        "allTimeTickets": 164
       }
     ]
   },
@@ -51,6 +51,13 @@
       "ticketId": 285922,
       "subject": "Kan inte joina servers med avhoppare",
       "username": "lolter",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 285941,
+      "subject": "BAN - Klientfel",
+      "username": "Beatris",
       "resolved": 1
     }
   ]
