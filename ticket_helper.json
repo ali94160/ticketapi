@@ -16,8 +16,8 @@
       {
         "username": "blue",
         "country_id": 210,
-        "flag": 0,
-        "allTimeTickets": 0
+        "flag": 1,
+        "allTimeTickets": 170
       }
     ]
   },
