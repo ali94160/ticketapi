@@ -17,7 +17,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 1,
-        "allTimeTickets": 178
+        "allTimeTickets": 179
       }
     ]
   },
@@ -132,6 +132,13 @@
       "ticketId": 286027,
       "subject": "eran sida är fortsatt ett skämt, vilken skräll...",
       "username": "REAL1ZE",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286026,
+      "subject": "Går inte joina games",
+      "username": "gicke",
       "resolved": 1
     }
   ]
