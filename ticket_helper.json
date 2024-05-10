@@ -17,7 +17,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 1,
-        "allTimeTickets": 170
+        "allTimeTickets": 171
       }
     ]
   },
@@ -76,6 +76,13 @@
       "ticketId": 285969,
       "subject": "bannad för voice abuse när jag bara spelar 5",
       "username": "apaHSdjur",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286028,
+      "subject": "Jump in",
+      "username": "RichHomieQuaN",
       "resolved": 1
     }
   ]
