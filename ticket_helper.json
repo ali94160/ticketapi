@@ -17,7 +17,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 1,
-        "allTimeTickets": 185
+        "allTimeTickets": 186
       }
     ]
   },
@@ -174,6 +174,13 @@
       "ticketId": 286053,
       "subject": "Incorrect warning",
       "username": "xtrmflw",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 285987,
+      "subject": "Match avbruten????",
+      "username": "Kimbabwe",
       "resolved": 1
     }
   ]
