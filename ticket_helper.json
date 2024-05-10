@@ -17,7 +17,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 1,
-        "allTimeTickets": 172
+        "allTimeTickets": 173
       }
     ]
   },
@@ -90,6 +90,13 @@
       "ticketId": 285896,
       "subject": "fick bann",
       "username": "JMattiasson",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286024,
+      "subject": "Vad händer",
+      "username": "AProlle",
       "resolved": 1
     }
   ]
