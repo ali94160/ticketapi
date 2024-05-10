@@ -17,7 +17,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 1,
-        "allTimeTickets": 173
+        "allTimeTickets": 174
       }
     ]
   },
@@ -97,6 +97,13 @@
       "ticketId": 286024,
       "subject": "Vad händer",
       "username": "AProlle",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 285958,
+      "subject": "Namnbyte",
+      "username": "kantarellsoppa",
       "resolved": 1
     }
   ]
