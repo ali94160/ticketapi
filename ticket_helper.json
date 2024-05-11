@@ -21,7 +21,10 @@
         "flag": 2,
         "allTimeTickets": 188,
         "skins": ["karambit_e-1"],
-        "avatar": "karambit_e-1"
+        "avatar": {
+          "src": "karambit_e-1",
+          "borderClass": "avatar-1"
+        }
       }
     ]
   },
