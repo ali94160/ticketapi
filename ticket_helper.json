@@ -19,7 +19,9 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 188
+        "allTimeTickets": 188,
+        "skins": ["karambit_e-1"],
+        "avatar": "karambit_e-1"
       }
     ]
   },
