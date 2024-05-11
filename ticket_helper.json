@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 186
+        "allTimeTickets": 187
       }
     ]
   },
@@ -184,6 +184,13 @@
       "subject": "Match avbruten????",
       "username": "Kimbabwe",
       "resolved": 0
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286060,
+      "subject": "i got banned for nothing",
+      "username": "Moroten110",
+      "resolved": 1
     }
   ]
 }
