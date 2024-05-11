@@ -20,7 +20,12 @@
         "country_id": 210,
         "flag": 2,
         "allTimeTickets": 188,
-        "skins": ["karambit_e-1"],
+        "skins": [
+          { 
+            "src": "karambit_e-1" 
+            "price": 100000
+          }
+        ],
         "avatar": {
           "src": "karambit_e-1",
           "borderClass": "avatar-1"
