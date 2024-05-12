@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 192,
+        "allTimeTickets": 193,
         "coins": 965,
         "skins": [
           {
@@ -215,6 +215,13 @@
       "ticketId": 286180,
       "subject": "inhoppsfunktionen funkade ej",
       "username": "wggz",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286181,
+      "subject": "Server issues",
+      "username": "sajee",
       "resolved": 1
     }
   ]
