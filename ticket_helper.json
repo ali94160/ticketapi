@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 189,
+        "allTimeTickets": 190,
         "coins": 965,
         "skins": [
           {
@@ -194,7 +194,7 @@
       "ticketId": 285987,
       "subject": "Match avbruten????",
       "username": "Kimbabwe",
-      "resolved": 0
+      "resolved": 1
     },
     {
       "handler": "blue",
