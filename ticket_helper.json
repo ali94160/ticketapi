@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 220,
+        "allTimeTickets": 221,
         "coins": 965,
         "modCases": 3,
         "skins": [
@@ -405,6 +405,13 @@
       "ticketId": 286212,
       "subject": "Blev droppad från matchen pga clienten",
       "username": "kroiler",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286210,
+      "subject": "om man råka dogga en match",
+      "username": "Olovsson",
       "resolved": 1
     }
   ]
