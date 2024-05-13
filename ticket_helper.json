@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 202,
+        "allTimeTickets": 203,
         "coins": 965,
         "modCases": 3,
         "skins": [
@@ -279,6 +279,13 @@
       "ticketId": 286239,
       "subject": "False ban",
       "username": "brutal",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286238,
+      "subject": "Griefing ban",
+      "username": "Aldooush",
       "resolved": 1
     }
   ]
