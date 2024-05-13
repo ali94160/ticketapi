@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 230,
+        "allTimeTickets": 231,
         "coins": 965,
         "modCases": 3,
         "skins": [
@@ -475,6 +475,13 @@
       "ticketId": 285406,
       "subject": "går minus elo för eran sida crasha",
       "username": "EXCITE",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286051,
+      "subject": "Region ban",
+      "username": "oge",
       "resolved": 1
     }
   ]
