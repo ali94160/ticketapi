@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 258,
+        "allTimeTickets": 259,
         "coins": 965,
         "modCases": 3,
         "skins": [
@@ -622,6 +622,13 @@
       "ticketId": 283922,
       "subject": "Regionban",
       "username": "taap",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286199,
+      "subject": "ta bort bann, gick ej att connecta",
+      "username": "Hawky",
       "resolved": 1
     }
   ]
