@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 215,
+        "allTimeTickets": 216,
         "coins": 965,
         "modCases": 3,
         "skins": [
@@ -370,6 +370,13 @@
       "ticketId": 243265,
       "subject": "BRA MM",
       "username": "Hampebtw",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286220,
+      "subject": "Cant join ongoing game",
+      "username": "BandlabAlex",
       "resolved": 1
     }
   ]
