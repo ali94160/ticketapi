@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 219,
+        "allTimeTickets": 220,
         "coins": 965,
         "modCases": 3,
         "skins": [
@@ -398,6 +398,13 @@
       "ticketId": 286213,
       "subject": "Statistik för CS2",
       "username": "arrexapam",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286212,
+      "subject": "Blev droppad från matchen pga clienten",
+      "username": "kroiler",
       "resolved": 1
     }
   ]
