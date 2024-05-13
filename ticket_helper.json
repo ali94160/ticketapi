@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 227,
+        "allTimeTickets": 228,
         "coins": 965,
         "modCases": 3,
         "skins": [
@@ -454,6 +454,13 @@
       "ticketId": 286011,
       "subject": "server lagging no admin response",
       "username": "HeadTOOoBiG",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 285879,
+      "subject": "matchmaking",
+      "username": "knaparn",
       "resolved": 1
     }
   ]
