@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 236,
+        "allTimeTickets": 237,
         "coins": 965,
         "modCases": 3,
         "skins": [
@@ -517,6 +517,13 @@
       "ticketId": 286082,
       "subject": "Most toxic premade ever",
       "username": "Gutzzzx",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286092,
+      "subject": "droppad",
+      "username": "Houkster",
       "resolved": 1
     }
   ]
