@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 214,
+        "allTimeTickets": 215,
         "coins": 965,
         "modCases": 3,
         "skins": [
@@ -363,6 +363,13 @@
       "ticketId": 286225,
       "subject": "Anti-Cheat Consuming Excessive Space on C Drive",
       "username": "Theguyy",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 243265,
+      "subject": "BRA MM",
+      "username": "Hampebtw",
       "resolved": 1
     }
   ]
