@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 203,
+        "allTimeTickets": 204,
         "coins": 965,
         "modCases": 3,
         "skins": [
@@ -286,6 +286,13 @@
       "ticketId": 286238,
       "subject": "Griefing ban",
       "username": "Aldooush",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286102,
+      "subject": "Hej feI på matchen",
+      "username": "P0tatisAim",
       "resolved": 1
     }
   ]
