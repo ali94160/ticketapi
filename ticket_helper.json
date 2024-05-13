@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 217,
+        "allTimeTickets": 218,
         "coins": 965,
         "modCases": 3,
         "skins": [
@@ -384,6 +384,13 @@
       "ticketId": 286215,
       "subject": "Ingen kunde joina servern",
       "username": "Svartmes",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286214,
+      "subject": "Got mvp of the match",
+      "username": "Squidjan",
       "resolved": 1
     }
   ]
