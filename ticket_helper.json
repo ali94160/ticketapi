@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 270,
+        "allTimeTickets": 271,
         "coins": 965,
         "modCases": 3,
         "skins": [
@@ -664,7 +664,7 @@
       "ticketId": 284703,
       "subject": "Adblock",
       "username": "SN0wyz",
-      "resolved": 0
+      "resolved": 1
     },
     {
       "handler": "blue",
