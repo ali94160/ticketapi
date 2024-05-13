@@ -19,9 +19,9 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 195,
+        "allTimeTickets": 196,
         "coins": 965,
-        "modCases": 3, 
+        "modCases": 3,
         "skins": [
           {
             "src": "karambit_e-1",
@@ -230,6 +230,13 @@
       "ticketId": 286176,
       "subject": "why banned",
       "username": "BUDDHAMONSTA",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286223,
+      "subject": "ändra namn",
+      "username": "LOLZZZZ13337777",
       "resolved": 1
     }
   ]
