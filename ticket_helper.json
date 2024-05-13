@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 250,
+        "allTimeTickets": 251,
         "coins": 965,
         "modCases": 3,
         "skins": [
@@ -601,6 +601,13 @@
       "ticketId": 286251,
       "subject": "kan inte joina matcher",
       "username": "GOJUL321",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286249,
+      "subject": "Konstig ban.",
+      "username": "omgpomp1",
       "resolved": 1
     }
   ]
