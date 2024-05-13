@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 198,
+        "allTimeTickets": 199,
         "coins": 965,
         "modCases": 3,
         "skins": [
@@ -251,6 +251,13 @@
       "ticketId": 286218,
       "subject": "clientproblem",
       "username": "SexyLeif",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286216,
+      "subject": "Jag fick ban när man inte kunde joina servern",
+      "username": "zerc",
       "resolved": 1
     }
   ]
