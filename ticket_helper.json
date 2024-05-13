@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 218,
+        "allTimeTickets": 219,
         "coins": 965,
         "modCases": 3,
         "skins": [
@@ -391,6 +391,13 @@
       "ticketId": 286214,
       "subject": "Got mvp of the match",
       "username": "Squidjan",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286213,
+      "subject": "Statistik för CS2",
+      "username": "arrexapam",
       "resolved": 1
     }
   ]
