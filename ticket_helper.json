@@ -21,11 +21,15 @@
         "flag": 2,
         "allTimeTickets": 273,
         "coins": 1215,
-        "modCases": 3,
+        "modCases": 2,
         "skins": [
           {
             "src": "karambit_e-1",
             "title": "★ Karambit | Emerald"
+          },
+          {
+            "src": "karambit_g-1",
+            "title": "★ Karambit | Blue Gem"
           }
         ],
         "avatar": {
