@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 206,
+        "allTimeTickets": 207,
         "coins": 965,
         "modCases": 3,
         "skins": [
@@ -307,6 +307,13 @@
       "ticketId": 286244,
       "subject": "Fick en varning",
       "username": "SandbergCS",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286245,
+      "subject": "Dålig matchmaking",
+      "username": "Hamle",
       "resolved": 1
     }
   ]
