@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 239,
+        "allTimeTickets": 240,
         "coins": 965,
         "modCases": 3,
         "skins": [
@@ -538,6 +538,13 @@
       "ticketId": 286094,
       "subject": "ojämna lag",
       "username": "knaparn",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286099,
+      "subject": "hoppa in i match",
+      "username": "louisvuittonn",
       "resolved": 1
     }
   ]
