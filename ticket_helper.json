@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 211,
+        "allTimeTickets": 212,
         "coins": 965,
         "modCases": 3,
         "skins": [
@@ -342,6 +342,13 @@
       "ticketId": 232225,
       "subject": "Smurf?",
       "username": "swedog",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286247,
+      "subject": "Kom in på esportal och är bannad",
+      "username": "hampe00",
       "resolved": 1
     }
   ]
