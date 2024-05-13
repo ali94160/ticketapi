@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 229,
+        "allTimeTickets": 230,
         "coins": 965,
         "modCases": 3,
         "skins": [
@@ -468,6 +468,13 @@
       "ticketId": 286041,
       "subject": "kan ej skapa gathers",
       "username": "ovztR",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 285406,
+      "subject": "går minus elo för eran sida crasha",
+      "username": "EXCITE",
       "resolved": 1
     }
   ]
