@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 207,
+        "allTimeTickets": 208,
         "coins": 965,
         "modCases": 3,
         "skins": [
@@ -314,6 +314,13 @@
       "ticketId": 286245,
       "subject": "Dålig matchmaking",
       "username": "Hamle",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286228,
+      "subject": "clientfel..",
+      "username": "stev1sson",
       "resolved": 1
     }
   ]
