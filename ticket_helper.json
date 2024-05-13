@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 223,
+        "allTimeTickets": 224,
         "coins": 965,
         "modCases": 3,
         "skins": [
@@ -426,6 +426,13 @@
       "ticketId": 286207,
       "subject": "Server issue - Bann",
       "username": "Shirrow",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 285662,
+      "subject": "No mvp displayed",
+      "username": "Squidjan",
       "resolved": 1
     }
   ]
