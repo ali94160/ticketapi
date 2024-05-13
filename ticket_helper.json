@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 252,
+        "allTimeTickets": 253,
         "coins": 965,
         "modCases": 3,
         "skins": [
@@ -608,6 +608,13 @@
       "ticketId": 286249,
       "subject": "Konstig ban.",
       "username": "omgpomp1",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286237,
+      "subject": "bannad för vad?",
+      "username": "Barrrrre",
       "resolved": 1
     }
   ]
