@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 222,
+        "allTimeTickets": 223,
         "coins": 965,
         "modCases": 3,
         "skins": [
@@ -419,6 +419,13 @@
       "ticketId": 286106,
       "subject": "Chat ABuse",
       "username": "Steelmill66",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286207,
+      "subject": "Server issue - Bann",
+      "username": "Shirrow",
       "resolved": 1
     }
   ]
