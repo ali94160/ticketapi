@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 197,
+        "allTimeTickets": 198,
         "coins": 965,
         "modCases": 3,
         "skins": [
@@ -244,6 +244,13 @@
       "ticketId": 286242,
       "subject": "ban appeal",
       "username": "gl0ck3n",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286218,
+      "subject": "clientproblem",
+      "username": "SexyLeif",
       "resolved": 1
     }
   ]
