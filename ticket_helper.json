@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 208,
+        "allTimeTickets": 209,
         "coins": 965,
         "modCases": 3,
         "skins": [
@@ -321,6 +321,13 @@
       "ticketId": 286228,
       "subject": "clientfel..",
       "username": "stev1sson",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 285877,
+      "subject": "Couldn't connect, now banned",
+      "username": "murphelele",
       "resolved": 1
     }
   ]
