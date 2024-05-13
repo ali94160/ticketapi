@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 200,
+        "allTimeTickets": 201,
         "coins": 965,
         "modCases": 3,
         "skins": [
@@ -265,6 +265,13 @@
       "ticketId": 286217,
       "subject": "https://esportal.com/sv/match/6192072",
       "username": "BigKenta",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286241,
+      "subject": "bannad men jag inte ens har sagt något i chatten",
+      "username": "wilmer44",
       "resolved": 1
     }
   ]
