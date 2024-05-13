@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 271,
+        "allTimeTickets": 272,
         "coins": 965,
         "modCases": 3,
         "skins": [
@@ -685,6 +685,13 @@
       "ticketId": 286193,
       "subject": "Cant get back to server after internet crashed",
       "username": "beetlejuice09",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286267,
+      "subject": "Ban error",
+      "username": "MentonImperial",
       "resolved": 1
     }
   ]
