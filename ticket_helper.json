@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 233,
+        "allTimeTickets": 234,
         "coins": 965,
         "modCases": 3,
         "skins": [
@@ -496,6 +496,13 @@
       "ticketId": 286077,
       "subject": "namnbyte",
       "username": "qopa",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286078,
+      "subject": "clienten fungerar inte igennnnnnnnn",
+      "username": "Shoura",
       "resolved": 1
     }
   ]
