@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 199,
+        "allTimeTickets": 200,
         "coins": 965,
         "modCases": 3,
         "skins": [
@@ -258,6 +258,13 @@
       "ticketId": 286216,
       "subject": "Jag fick ban när man inte kunde joina servern",
       "username": "zerc",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286217,
+      "subject": "https://esportal.com/sv/match/6192072",
+      "username": "BigKenta",
       "resolved": 1
     }
   ]
