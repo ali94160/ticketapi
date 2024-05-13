@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 232,
+        "allTimeTickets": 233,
         "coins": 965,
         "modCases": 3,
         "skins": [
@@ -489,6 +489,13 @@
       "ticketId": 286055,
       "subject": "Tror det är fel på min esportal hemsida",
       "username": "melkerBicepz",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286077,
+      "subject": "namnbyte",
+      "username": "qopa",
       "resolved": 1
     }
   ]
