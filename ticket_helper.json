@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 216,
+        "allTimeTickets": 217,
         "coins": 965,
         "modCases": 3,
         "skins": [
@@ -377,6 +377,13 @@
       "ticketId": 286220,
       "subject": "Cant join ongoing game",
       "username": "BandlabAlex",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286215,
+      "subject": "Ingen kunde joina servern",
+      "username": "Svartmes",
       "resolved": 1
     }
   ]
