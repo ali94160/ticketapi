@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 196,
+        "allTimeTickets": 197,
         "coins": 965,
         "modCases": 3,
         "skins": [
@@ -237,6 +237,13 @@
       "ticketId": 286223,
       "subject": "ändra namn",
       "username": "LOLZZZZ13337777",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286242,
+      "subject": "ban appeal",
+      "username": "gl0ck3n",
       "resolved": 1
     }
   ]
