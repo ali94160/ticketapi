@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 238,
+        "allTimeTickets": 239,
         "coins": 965,
         "modCases": 3,
         "skins": [
@@ -531,6 +531,13 @@
       "ticketId": 286093,
       "subject": "HITTA GAME",
       "username": "WILBA1337",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286094,
+      "subject": "ojämna lag",
+      "username": "knaparn",
       "resolved": 1
     }
   ]
