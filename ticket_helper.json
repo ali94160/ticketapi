@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 264,
+        "allTimeTickets": 265,
         "coins": 965,
         "modCases": 3,
         "skins": [
@@ -650,6 +650,13 @@
       "ticketId": 286266,
       "subject": "Krasch",
       "username": "fiddeman",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286261,
+      "subject": "client",
+      "username": "SexyLeif",
       "resolved": 1
     }
   ]
