@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 274,
+        "allTimeTickets": 275,
         "coins": 5315,
         "modCases": 0,
         "skins": [
@@ -703,6 +703,13 @@
       "ticketId": 286260,
       "subject": "går inte göra inhopp i matcher.",
       "username": "bULLETxD",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286301,
+      "subject": "bannad",
+      "username": "Wox1e",
       "resolved": 1
     }
   ]
