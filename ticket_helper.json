@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 275,
+        "allTimeTickets": 276,
         "coins": 5315,
         "modCases": 0,
         "skins": [
@@ -710,6 +710,13 @@
       "ticketId": 286301,
       "subject": "bannad",
       "username": "Wox1e",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286281,
+      "subject": "reconecta",
+      "username": "MIMPA",
       "resolved": 1
     }
   ]
