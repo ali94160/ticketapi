@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 224,
+        "allTimeTickets": 225,
         "coins": 965,
         "modCases": 3,
         "skins": [
@@ -433,6 +433,13 @@
       "ticketId": 285662,
       "subject": "No mvp displayed",
       "username": "Squidjan",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 285821,
+      "subject": "premium or subscription",
+      "username": "D0TbOx",
       "resolved": 1
     }
   ]
