@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 272,
+        "allTimeTickets": 273,
         "coins": 965,
         "modCases": 3,
         "skins": [
@@ -692,6 +692,13 @@
       "ticketId": 286267,
       "subject": "Ban error",
       "username": "MentonImperial",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286260,
+      "subject": "går inte göra inhopp i matcher.",
+      "username": "bULLETxD",
       "resolved": 1
     }
   ]
