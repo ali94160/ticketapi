@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 234,
+        "allTimeTickets": 235,
         "coins": 965,
         "modCases": 3,
         "skins": [
@@ -503,6 +503,13 @@
       "ticketId": 286078,
       "subject": "clienten fungerar inte igennnnnnnnn",
       "username": "Shoura",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286079,
+      "subject": "Prime/Premium question",
+      "username": "x1v",
       "resolved": 1
     }
   ]
