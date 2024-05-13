@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 204,
+        "allTimeTickets": 205,
         "coins": 965,
         "modCases": 3,
         "skins": [
@@ -292,6 +292,13 @@
       "handler": "blue",
       "ticketId": 286102,
       "subject": "Hej feI på matchen",
+      "username": "P0tatisAim",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286234,
+      "subject": "HEJ!!!!",
       "username": "P0tatisAim",
       "resolved": 1
     }
