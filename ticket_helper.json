@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 273,
+        "allTimeTickets": 274,
         "coins": 5315,
         "modCases": 0,
         "skins": [
@@ -654,7 +654,7 @@
       "ticketId": 286266,
       "subject": "Krasch",
       "username": "fiddeman",
-      "resolved": 0
+      "resolved": 1
     },
     {
       "handler": "blue",
