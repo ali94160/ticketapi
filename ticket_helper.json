@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 246,
+        "allTimeTickets": 247,
         "coins": 965,
         "modCases": 3,
         "skins": [
@@ -496,7 +496,7 @@
       "ticketId": 286077,
       "subject": "namnbyte",
       "username": "qopa",
-      "resolved": 0
+      "resolved": 1
     },
     {
       "handler": "blue",
