@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 247,
+        "allTimeTickets": 248,
         "coins": 965,
         "modCases": 3,
         "skins": [
@@ -587,6 +587,13 @@
       "ticketId": 286240,
       "subject": "bannad",
       "username": "TORGNYTOGLORY",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286205,
+      "subject": "vrf blev jag bannad?",
+      "username": "TheRealJude",
       "resolved": 1
     }
   ]
