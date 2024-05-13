@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 263,
+        "allTimeTickets": 264,
         "coins": 965,
         "modCases": 3,
         "skins": [
@@ -643,6 +643,13 @@
       "ticketId": 286265,
       "subject": "client",
       "username": "WiTeX1its1me",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286266,
+      "subject": "Krasch",
+      "username": "fiddeman",
       "resolved": 1
     }
   ]
