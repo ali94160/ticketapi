@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 201,
+        "allTimeTickets": 202,
         "coins": 965,
         "modCases": 3,
         "skins": [
@@ -272,6 +272,13 @@
       "ticketId": 286241,
       "subject": "bannad men jag inte ens har sagt något i chatten",
       "username": "wilmer44",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286239,
+      "subject": "False ban",
+      "username": "brutal",
       "resolved": 1
     }
   ]
