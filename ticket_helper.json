@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 245,
+        "allTimeTickets": 246,
         "coins": 965,
         "modCases": 3,
         "skins": [
@@ -580,6 +580,13 @@
       "ticketId": 286126,
       "subject": "problem for my friend tried connect with steam",
       "username": "TudorMelu",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286240,
+      "subject": "bannad",
+      "username": "TORGNYTOGLORY",
       "resolved": 1
     }
   ]
