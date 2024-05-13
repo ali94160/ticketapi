@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 256,
+        "allTimeTickets": 257,
         "coins": 965,
         "modCases": 3,
         "skins": [
@@ -349,7 +349,7 @@
       "ticketId": 286247,
       "subject": "Kom in på esportal och är bannad",
       "username": "hampe00",
-      "resolved": 0
+      "resolved": 1
     },
     {
       "handler": "blue",
