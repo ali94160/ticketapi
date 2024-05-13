@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 257,
+        "allTimeTickets": 258,
         "coins": 965,
         "modCases": 3,
         "skins": [
@@ -615,6 +615,13 @@
       "ticketId": 286237,
       "subject": "bannad för vad?",
       "username": "Barrrrre",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 283922,
+      "subject": "Regionban",
+      "username": "taap",
       "resolved": 1
     }
   ]
