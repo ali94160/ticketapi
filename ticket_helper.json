@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 249,
+        "allTimeTickets": 250,
         "coins": 965,
         "modCases": 3,
         "skins": [
@@ -594,6 +594,13 @@
       "ticketId": 286205,
       "subject": "vrf blev jag bannad?",
       "username": "TheRealJude",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286251,
+      "subject": "kan inte joina matcher",
+      "username": "GOJUL321",
       "resolved": 1
     }
   ]
