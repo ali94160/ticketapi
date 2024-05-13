@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 242,
+        "allTimeTickets": 243,
         "coins": 965,
         "modCases": 3,
         "skins": [
@@ -559,6 +559,13 @@
       "ticketId": 286108,
       "subject": "clienten startar cs sen kraschar spelet",
       "username": "mrnoob1",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286113,
+      "subject": "Banned from MM",
+      "username": "dNAk",
       "resolved": 1
     }
   ]
