@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 235,
+        "allTimeTickets": 236,
         "coins": 965,
         "modCases": 3,
         "skins": [
@@ -510,6 +510,13 @@
       "ticketId": 286079,
       "subject": "Prime/Premium question",
       "username": "x1v",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286082,
+      "subject": "Most toxic premade ever",
+      "username": "Gutzzzx",
       "resolved": 1
     }
   ]
