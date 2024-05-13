@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 269,
+        "allTimeTickets": 270,
         "coins": 965,
         "modCases": 3,
         "skins": [
@@ -678,6 +678,13 @@
       "ticketId": 281512,
       "subject": "clienten funkar inte",
       "username": "torbjoern",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286193,
+      "subject": "Cant get back to server after internet crashed",
+      "username": "beetlejuice09",
       "resolved": 1
     }
   ]
