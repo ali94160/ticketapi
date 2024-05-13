@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 212,
+        "allTimeTickets": 213,
         "coins": 965,
         "modCases": 3,
         "skins": [
@@ -349,6 +349,13 @@
       "ticketId": 286247,
       "subject": "Kom in på esportal och är bannad",
       "username": "hampe00",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286246,
+      "subject": "Ban appeal",
+      "username": "Ooziz",
       "resolved": 1
     }
   ]
