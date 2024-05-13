@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 261,
+        "allTimeTickets": 262,
         "coins": 965,
         "modCases": 3,
         "skins": [
@@ -510,7 +510,7 @@
       "ticketId": 286079,
       "subject": "Prime/Premium question",
       "username": "x1v",
-      "resolved": 0
+      "resolved": 1
     },
     {
       "handler": "blue",
