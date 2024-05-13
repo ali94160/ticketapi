@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 262,
+        "allTimeTickets": 263,
         "coins": 965,
         "modCases": 3,
         "skins": [
@@ -468,7 +468,7 @@
       "ticketId": 286041,
       "subject": "kan ej skapa gathers",
       "username": "ovztR",
-      "resolved": 0
+      "resolved": 1
     },
     {
       "handler": "blue",
