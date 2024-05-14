@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 281,
+        "allTimeTickets": 282,
         "coins": 5315,
         "modCases": 0,
         "skins": [
@@ -745,6 +745,13 @@
       "ticketId": 286325,
       "subject": "vill kunna spela esportal igen",
       "username": "kyppe",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286328,
+      "subject": "blev bannad",
+      "username": "SagaKIaga",
       "resolved": 1
     }
   ]
