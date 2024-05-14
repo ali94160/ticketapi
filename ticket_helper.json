@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 277,
+        "allTimeTickets": 278,
         "coins": 5315,
         "modCases": 0,
         "skins": [
@@ -724,6 +724,13 @@
       "ticketId": 286308,
       "subject": "bannnad",
       "username": "makssen",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286305,
+      "subject": "varför bannad?",
+      "username": "pellz",
       "resolved": 1
     }
   ]
