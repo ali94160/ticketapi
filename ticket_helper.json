@@ -206,7 +206,7 @@
       "ticketId": 286060,
       "subject": "i got banned for nothing",
       "username": "Moroten110",
-      "resolved": 0
+      "resolved": 1
     },
     {
       "handler": "blue",
@@ -696,7 +696,7 @@
       "ticketId": 286267,
       "subject": "Ban error",
       "username": "MentonImperial",
-      "resolved": 1
+      "resolved": 0
     },
     {
       "handler": "blue",
