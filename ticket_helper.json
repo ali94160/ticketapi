@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 284,
+        "allTimeTickets": 285,
         "coins": 5315,
         "modCases": 0,
         "skins": [
@@ -752,6 +752,13 @@
       "ticketId": 286328,
       "subject": "blev bannad",
       "username": "SagaKIaga",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286318,
+      "subject": "warning",
+      "username": "Kryckan",
       "resolved": 1
     }
   ]
