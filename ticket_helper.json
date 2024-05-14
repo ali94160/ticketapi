@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 276,
+        "allTimeTickets": 277,
         "coins": 5315,
         "modCases": 0,
         "skins": [
@@ -717,6 +717,13 @@
       "ticketId": 286281,
       "subject": "reconecta",
       "username": "MIMPA",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286308,
+      "subject": "bannnad",
+      "username": "makssen",
       "resolved": 1
     }
   ]
