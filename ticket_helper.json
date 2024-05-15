@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 290,
+        "allTimeTickets": 291,
         "coins": 5315,
         "modCases": 0,
         "skins": [
@@ -612,7 +612,7 @@
       "ticketId": 286249,
       "subject": "Konstig ban.",
       "username": "omgpomp1",
-      "resolved": 0
+      "resolved": 1
     },
     {
       "handler": "blue",
