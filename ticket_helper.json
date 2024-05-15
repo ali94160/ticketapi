@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 286,
+        "allTimeTickets": 287,
         "coins": 5315,
         "modCases": 0,
         "skins": [
@@ -745,7 +745,7 @@
       "ticketId": 286325,
       "subject": "vill kunna spela esportal igen",
       "username": "kyppe",
-      "resolved": 0
+      "resolved": 1
     },
     {
       "handler": "blue",
