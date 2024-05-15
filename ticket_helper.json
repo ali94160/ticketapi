@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 289,
+        "allTimeTickets": 290,
         "coins": 5315,
         "modCases": 0,
         "skins": [
@@ -766,6 +766,13 @@
       "ticketId": 286369,
       "subject": "bannad",
       "username": "Arma2",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286367,
+      "subject": "Regions ban I EUROPE",
+      "username": "aso8",
       "resolved": 1
     }
   ]
