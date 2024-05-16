@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 292,
+        "allTimeTickets": 293,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -780,6 +780,13 @@
       "ticketId": 286431,
       "subject": "Bannad pga att min client krångla",
       "username": "Danneeman",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286448,
+      "subject": "ban p.g.a att clienten inte funkade",
+      "username": "R0cKy",
       "resolved": 1
     }
   ]
