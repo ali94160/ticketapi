@@ -759,7 +759,7 @@
       "ticketId": 286318,
       "subject": "warning",
       "username": "Kryckan",
-      "resolved": 1
+      "resolved": 0
     },
     {
       "handler": "blue",
@@ -794,7 +794,7 @@
       "ticketId": 286529,
       "subject": "Region ban",
       "username": "rickyrakapparat",
-      "resolved": 1
+      "resolved": 0
     }
   ]
 }
