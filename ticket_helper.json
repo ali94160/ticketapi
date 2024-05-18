@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 293,
+        "allTimeTickets": 294,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -787,6 +787,13 @@
       "ticketId": 286448,
       "subject": "ban p.g.a att clienten inte funkade",
       "username": "R0cKy",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286529,
+      "subject": "Region ban",
+      "username": "rickyrakapparat",
       "resolved": 1
     }
   ]
