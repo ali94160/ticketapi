@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 295,
+        "allTimeTickets": 296,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -800,6 +800,13 @@
       "handler": "blue",
       "ticketId": 286541,
       "subject": "My pc crashed multiple times today",
+      "username": "KeVViNN7",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286582,
+      "subject": "Waiting for 24 hours almost",
       "username": "KeVViNN7",
       "resolved": 1
     }
