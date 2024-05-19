@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 300,
+        "allTimeTickets": 301,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -836,6 +836,13 @@
       "ticketId": 286628,
       "subject": "false bann",
       "username": "AndyfreshW",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286620,
+      "subject": "nAMNBYTE",
+      "username": "kizero",
       "resolved": 1
     }
   ]
