@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 296,
+        "allTimeTickets": 297,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -808,6 +808,13 @@
       "ticketId": 286582,
       "subject": "Waiting for 24 hours almost",
       "username": "KeVViNN7",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286602,
+      "subject": "Broken server = temp ban",
+      "username": "milked",
       "resolved": 1
     }
   ]
