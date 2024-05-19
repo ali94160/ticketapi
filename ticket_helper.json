@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 298,
+        "allTimeTickets": 299,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -822,6 +822,13 @@
       "ticketId": 286606,
       "subject": "regionsbannad",
       "username": "f1ames",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286593,
+      "subject": "Dator crash",
+      "username": "asu",
       "resolved": 1
     }
   ]
