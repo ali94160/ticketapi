@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 313,
+        "allTimeTickets": 314,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -920,6 +920,13 @@
       "ticketId": 286612,
       "subject": "Client problem.",
       "username": "Rufus2jZ",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286565,
+      "subject": "Avstängd pga korrupt fil",
+      "username": "bardo",
       "resolved": 1
     }
   ]
