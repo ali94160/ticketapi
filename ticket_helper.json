@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 321,
+        "allTimeTickets": 322,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -969,6 +969,13 @@
       "ticketId": 286651,
       "subject": "I have matchmaking timeout but i havent played",
       "username": "Slayyz",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286641,
+      "subject": "banned",
+      "username": "sLaKtArEeN",
       "resolved": 1
     }
   ]
