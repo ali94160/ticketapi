@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 318,
+        "allTimeTickets": 319,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -948,6 +948,13 @@
       "ticketId": 286513,
       "subject": "client not working",
       "username": "Crispy69",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286506,
+      "subject": "poprutan",
+      "username": "Dudeson",
       "resolved": 1
     }
   ]
