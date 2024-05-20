@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 319,
+        "allTimeTickets": 320,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -955,6 +955,13 @@
       "ticketId": 286506,
       "subject": "poprutan",
       "username": "Dudeson",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286626,
+      "subject": "Stargathers",
+      "username": "AramMafia",
       "resolved": 1
     }
   ]
