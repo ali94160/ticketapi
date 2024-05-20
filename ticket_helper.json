@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 311,
+        "allTimeTickets": 312,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -906,6 +906,13 @@
       "ticketId": 286530,
       "subject": "drop varning",
       "username": "qalle",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286613,
+      "subject": "server",
+      "username": "OrreKorree",
       "resolved": 1
     }
   ]
