@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 309,
+        "allTimeTickets": 310,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -892,6 +892,13 @@
       "ticketId": 286639,
       "subject": "Stargathers",
       "username": "mackefisk",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286636,
+      "subject": "Anti-Cheat",
+      "username": "Sharkada",
       "resolved": 1
     }
   ]
