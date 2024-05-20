@@ -899,7 +899,7 @@
       "ticketId": 286636,
       "subject": "Anti-Cheat",
       "username": "Sharkada",
-      "resolved": 0
+      "resolved": 1
     },
     {
       "handler": "blue",
@@ -913,7 +913,7 @@
       "ticketId": 286613,
       "subject": "server",
       "username": "OrreKorree",
-      "resolved": 1
+      "resolved": 0
     },
     {
       "handler": "blue",
@@ -983,7 +983,7 @@
       "ticketId": 286640,
       "subject": "Saker laddar långsamt eller inte alls",
       "username": "whyktor",
-      "resolved": 0
+      "resolved": 1
     },
     {
       "handler": "blue",
