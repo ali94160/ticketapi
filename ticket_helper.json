@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 315,
+        "allTimeTickets": 316,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -934,6 +934,13 @@
       "ticketId": 286591,
       "subject": "Cheater and pre-stack after game",
       "username": "cadden",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286537,
+      "subject": "Stats etc",
+      "username": "ozai",
       "resolved": 1
     }
   ]
