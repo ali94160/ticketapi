@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 306,
+        "allTimeTickets": 307,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -871,6 +871,13 @@
       "ticketId": 286648,
       "subject": "namn byte",
       "username": "karzan",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286632,
+      "subject": "Felaktig avstängning",
+      "username": "DexterAJ",
       "resolved": 1
     }
   ]
