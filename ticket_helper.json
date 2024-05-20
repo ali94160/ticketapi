@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 323,
+        "allTimeTickets": 324,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -983,6 +983,13 @@
       "ticketId": 286640,
       "subject": "Saker laddar långsamt eller inte alls",
       "username": "whyktor",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286627,
+      "subject": "resning av alias",
+      "username": "edugoelle",
       "resolved": 1
     }
   ]
