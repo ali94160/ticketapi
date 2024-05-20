@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 330,
+        "allTimeTickets": 331,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1004,7 +1004,7 @@
       "ticketId": 286619,
       "subject": "namnförslagsbyte",
       "username": "ciggflow",
-      "resolved": 0
+      "resolved": 1
     },
     {
       "handler": "blue",
