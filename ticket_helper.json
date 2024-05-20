@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 328,
+        "allTimeTickets": 329,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1018,6 +1018,13 @@
       "ticketId": 286617,
       "subject": "chat abuse",
       "username": "RZzE",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286652,
+      "subject": "CLIENT STRUL IGEN",
+      "username": "RealZorrokungen",
       "resolved": 1
     }
   ]
