@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 325,
+        "allTimeTickets": 326,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -997,6 +997,13 @@
       "ticketId": 286629,
       "subject": "varför blev jag bannad det e fel på sysmet",
       "username": "youngbobb1s",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286619,
+      "subject": "namnförslagsbyte",
+      "username": "ciggflow",
       "resolved": 1
     }
   ]
