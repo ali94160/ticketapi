@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 308,
+        "allTimeTickets": 309,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -885,6 +885,13 @@
       "ticketId": 286642,
       "subject": "No stats on profile",
       "username": "Farthammer",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286639,
+      "subject": "Stargathers",
+      "username": "mackefisk",
       "resolved": 1
     }
   ]
