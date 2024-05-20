@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 327,
+        "allTimeTickets": 328,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1011,6 +1011,13 @@
       "ticketId": 286611,
       "subject": "This player swas very offensive",
       "username": "Lassiih",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286617,
+      "subject": "chat abuse",
+      "username": "RZzE",
       "resolved": 1
     }
   ]
