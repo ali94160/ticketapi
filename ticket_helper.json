@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 312,
+        "allTimeTickets": 313,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -913,6 +913,13 @@
       "ticketId": 286613,
       "subject": "server",
       "username": "OrreKorree",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286612,
+      "subject": "Client problem.",
+      "username": "Rufus2jZ",
       "resolved": 1
     }
   ]
