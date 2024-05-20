@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 324,
+        "allTimeTickets": 325,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -990,6 +990,13 @@
       "ticketId": 286627,
       "subject": "resning av alias",
       "username": "edugoelle",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286629,
+      "subject": "varför blev jag bannad det e fel på sysmet",
+      "username": "youngbobb1s",
       "resolved": 1
     }
   ]
