@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 333,
+        "allTimeTickets": 334,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1039,6 +1039,13 @@
       "ticketId": 286668,
       "subject": "Regionbann?",
       "username": "qalle",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286681,
+      "subject": "Banned pga troll",
+      "username": "PerSvin",
       "resolved": 1
     }
   ]
