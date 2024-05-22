@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 340,
+        "allTimeTickets": 341,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1088,6 +1088,13 @@
       "ticketId": 286743,
       "subject": "match med massa smurfare",
       "username": "NIPLechrto",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286789,
+      "subject": "dator crashar",
+      "username": "HA55E",
       "resolved": 1
     }
   ]
