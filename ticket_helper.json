@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 350,
+        "allTimeTickets": 351,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1144,6 +1144,13 @@
       "ticketId": 286847,
       "subject": "troll i en match gjorde så vi förlora",
       "username": "PUMAAAA",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286838,
+      "subject": "KD BUGG",
+      "username": "Mortyy7",
       "resolved": 1
     }
   ]
