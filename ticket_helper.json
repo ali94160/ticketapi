@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 346,
+        "allTimeTickets": 347,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1116,6 +1116,13 @@
       "ticketId": 286793,
       "subject": "Varför Bannad?",
       "username": "dayIight",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286375,
+      "subject": "Bannad",
+      "username": "fahlenis",
       "resolved": 1
     }
   ]
