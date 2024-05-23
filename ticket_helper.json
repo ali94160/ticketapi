@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 348,
+        "allTimeTickets": 349,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1130,6 +1130,13 @@
       "ticketId": 286849,
       "subject": "bannad",
       "username": "BenGii",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286848,
+      "subject": "felaktig ban",
+      "username": "MCMELLE7",
       "resolved": 1
     }
   ]
