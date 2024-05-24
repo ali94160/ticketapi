@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 391,
+        "allTimeTickets": 392,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1375,6 +1375,13 @@
       "ticketId": 286992,
       "subject": "a cheater got baned i didint get all elo back",
       "username": "Userfoundd",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286983,
+      "subject": "esportal suger",
+      "username": "jiimps",
       "resolved": 1
     }
   ]
