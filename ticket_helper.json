@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 384,
+        "allTimeTickets": 385,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1340,7 +1340,7 @@
       "ticketId": 286947,
       "subject": "clientfel, varning",
       "username": "stev1sson",
-      "resolved": 0
+      "resolved": 1
     }
   ]
 }
