@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 373,
+        "allTimeTickets": 374,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1214,7 +1214,7 @@
       "ticketId": 286891,
       "subject": "Regionbannad pga klient föråldrad",
       "username": "cruel",
-      "resolved": 0
+      "resolved": 1
     },
     {
       "handler": "blue",
