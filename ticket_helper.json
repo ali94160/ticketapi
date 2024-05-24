@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 374,
+        "allTimeTickets": 375,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1165,7 +1165,7 @@
       "ticketId": 286926,
       "subject": "client does not let me in, banned",
       "username": "Crispy69",
-      "resolved": 0
+      "resolved": 1
     },
     {
       "handler": "blue",
