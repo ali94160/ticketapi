@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 367,
+        "allTimeTickets": 368,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1242,6 +1242,13 @@
       "ticketId": 286890,
       "subject": "elo tillbaka??",
       "username": "iskall",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286811,
+      "subject": "trollers i gamet",
+      "username": "PanzGuy",
       "resolved": 1
     }
   ]
