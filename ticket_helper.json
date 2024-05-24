@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 366,
+        "allTimeTickets": 367,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1088,7 +1088,7 @@
       "ticketId": 286743,
       "subject": "match med massa smurfare",
       "username": "NIPLechrto",
-      "resolved": 0
+      "resolved": 1
     },
     {
       "handler": "blue",
