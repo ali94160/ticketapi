@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 352,
+        "allTimeTickets": 353,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1151,6 +1151,13 @@
       "ticketId": 286838,
       "subject": "KD BUGG",
       "username": "Mortyy7",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286867,
+      "subject": "namechange?",
+      "username": "BlackDave1337",
       "resolved": 1
     }
   ]
