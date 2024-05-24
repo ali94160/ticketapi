@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 377,
+        "allTimeTickets": 378,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1291,6 +1291,13 @@
       "ticketId": 286935,
       "subject": "timeout",
       "username": "Melkoo",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286940,
+      "subject": "regionsbannad",
+      "username": "f1ames",
       "resolved": 1
     }
   ]
