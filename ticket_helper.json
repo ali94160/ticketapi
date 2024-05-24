@@ -1165,7 +1165,7 @@
       "ticketId": 286926,
       "subject": "client does not let me in, banned",
       "username": "Crispy69",
-      "resolved": 1
+      "resolved": 0
     },
     {
       "handler": "blue",
@@ -1214,7 +1214,7 @@
       "ticketId": 286891,
       "subject": "Regionbannad pga klient föråldrad",
       "username": "cruel",
-      "resolved": 1
+      "resolved": 0
     },
     {
       "handler": "blue",
@@ -1242,7 +1242,7 @@
       "ticketId": 286890,
       "subject": "elo tillbaka??",
       "username": "iskall",
-      "resolved": 1
+      "resolved": 0
     },
     {
       "handler": "blue",
@@ -1270,7 +1270,7 @@
       "ticketId": 286928,
       "subject": "voice chat not available after update 23.05",
       "username": "VeroZ",
-      "resolved": 1
+      "resolved": 0
     }
   ]
 }
