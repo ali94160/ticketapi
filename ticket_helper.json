@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 383,
+        "allTimeTickets": 384,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1333,6 +1333,13 @@
       "ticketId": 286834,
       "subject": "smurfbann",
       "username": "a7la2364",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286947,
+      "subject": "clientfel, varning",
+      "username": "stev1sson",
       "resolved": 1
     }
   ]
