@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 372,
+        "allTimeTickets": 373,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1277,6 +1277,13 @@
       "ticketId": 286930,
       "subject": "region ban",
       "username": "folkmord",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286936,
+      "subject": "ahahahahahahaha",
+      "username": "Poica",
       "resolved": 1
     }
   ]
