@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 360,
+        "allTimeTickets": 361,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1207,6 +1207,13 @@
       "ticketId": 286887,
       "subject": "regionsban....",
       "username": "raftplayer",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286891,
+      "subject": "Regionbannad pga klient föråldrad",
+      "username": "cruel",
       "resolved": 1
     }
   ]
