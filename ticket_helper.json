@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 368,
+        "allTimeTickets": 369,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1249,6 +1249,13 @@
       "ticketId": 286811,
       "subject": "trollers i gamet",
       "username": "PanzGuy",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286876,
+      "subject": "Streamsnipe",
+      "username": "ily",
       "resolved": 1
     }
   ]
