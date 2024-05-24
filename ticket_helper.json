@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 388,
+        "allTimeTickets": 389,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1354,6 +1354,13 @@
       "ticketId": 286974,
       "subject": "BAD BEHAVIOR",
       "username": "BENNA",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286963,
+      "subject": "bannad pga klient",
+      "username": "kalltrio",
       "resolved": 1
     }
   ]
