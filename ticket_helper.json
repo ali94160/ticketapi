@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 389,
+        "allTimeTickets": 390,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1361,6 +1361,13 @@
       "ticketId": 286963,
       "subject": "bannad pga klient",
       "username": "kalltrio",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286952,
+      "subject": "denna sidan suger",
+      "username": "Kronix41",
       "resolved": 1
     }
   ]
