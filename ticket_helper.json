@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 387,
+        "allTimeTickets": 388,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1347,6 +1347,13 @@
       "ticketId": 286986,
       "subject": "bannad",
       "username": "Sommardelfinen",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286974,
+      "subject": "BAD BEHAVIOR",
+      "username": "BENNA",
       "resolved": 1
     }
   ]
