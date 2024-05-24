@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 355,
+        "allTimeTickets": 356,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1172,6 +1172,13 @@
       "ticketId": 286925,
       "subject": "warning",
       "username": "gOdAnThOnY",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286924,
+      "subject": "Crashed",
+      "username": "PerSvin",
       "resolved": 1
     }
   ]
