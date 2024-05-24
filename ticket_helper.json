@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 380,
+        "allTimeTickets": 381,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1312,6 +1312,13 @@
       "ticketId": 286944,
       "subject": "Bannad, klienten strula",
       "username": "Epasaur",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286945,
+      "subject": "Could not join game...",
+      "username": "s0rteDave",
       "resolved": 1
     }
   ]
