@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 357,
+        "allTimeTickets": 358,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1186,6 +1186,13 @@
       "ticketId": 286906,
       "subject": "ERROR erro error",
       "username": "eazykk",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286896,
+      "subject": "få tillbaka elo",
+      "username": "ronaldo",
       "resolved": 1
     }
   ]
