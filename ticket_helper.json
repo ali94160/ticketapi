@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 362,
+        "allTimeTickets": 363,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1221,6 +1221,13 @@
       "ticketId": 286885,
       "subject": "varning",
       "username": "Mortyy7",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286882,
+      "subject": "varning för update",
+      "username": "c10xoxo",
       "resolved": 1
     }
   ]
