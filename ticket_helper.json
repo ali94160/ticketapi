@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 359,
+        "allTimeTickets": 360,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1200,6 +1200,13 @@
       "ticketId": 286892,
       "subject": "få tillbaka elo",
       "username": "p0werking",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286887,
+      "subject": "regionsban....",
+      "username": "raftplayer",
       "resolved": 1
     }
   ]
