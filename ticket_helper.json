@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 364,
+        "allTimeTickets": 365,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1235,6 +1235,13 @@
       "ticketId": 286881,
       "subject": "Tja jag är oskyldig",
       "username": "rundastekillen",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286890,
+      "subject": "elo tillbaka??",
+      "username": "iskall",
       "resolved": 1
     }
   ]
