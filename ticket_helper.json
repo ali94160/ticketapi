@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 409,
+        "allTimeTickets": 410,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1480,6 +1480,13 @@
       "ticketId": 287015,
       "subject": "Min ban",
       "username": "Mawwe",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286883,
+      "subject": "we all get bans because cs2 update",
+      "username": "Allahas",
       "resolved": 1
     }
   ]
