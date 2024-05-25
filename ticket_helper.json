@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 423,
+        "allTimeTickets": 424,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1564,6 +1564,13 @@
       "ticketId": 287041,
       "subject": "blev bugg bannad",
       "username": "youngbobb1s",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286860,
+      "subject": "Clear namnhistorik",
+      "username": "apa",
       "resolved": 1
     }
   ]
