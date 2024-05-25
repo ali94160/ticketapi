@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 438,
+        "allTimeTickets": 439,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1648,6 +1648,13 @@
       "ticketId": 286875,
       "subject": "bannade",
       "username": "twisttopG",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 287052,
+      "subject": "Gick ej joina",
+      "username": "ICAprofil",
       "resolved": 1
     }
   ]
