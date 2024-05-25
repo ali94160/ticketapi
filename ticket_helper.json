@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 396,
+        "allTimeTickets": 397,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1200,7 +1200,7 @@
       "ticketId": 286892,
       "subject": "få tillbaka elo",
       "username": "p0werking",
-      "resolved": 0
+      "resolved": 1
     },
     {
       "handler": "blue",
