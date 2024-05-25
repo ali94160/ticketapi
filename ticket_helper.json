@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 402,
+        "allTimeTickets": 403,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1438,6 +1438,13 @@
       "ticketId": 286920,
       "subject": "Stargathers",
       "username": "Devnex",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286961,
+      "subject": "användarnamn",
+      "username": "BeetleJuice6969",
       "resolved": 1
     }
   ]
