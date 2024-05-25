@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 437,
+        "allTimeTickets": 438,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1543,7 +1543,7 @@
       "ticketId": 287033,
       "subject": "Voice abuse",
       "username": "YIP",
-      "resolved": 0
+      "resolved": 1
     },
     {
       "handler": "blue",
