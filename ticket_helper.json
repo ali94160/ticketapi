@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 422,
+        "allTimeTickets": 423,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1557,6 +1557,13 @@
       "ticketId": 286987,
       "subject": "Danskar",
       "username": "hjortsberg17",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 287041,
+      "subject": "blev bugg bannad",
+      "username": "youngbobb1s",
       "resolved": 1
     }
   ]
