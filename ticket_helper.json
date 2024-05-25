@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 413,
+        "allTimeTickets": 414,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1508,6 +1508,13 @@
       "ticketId": 286731,
       "subject": "match",
       "username": "1Erixon",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286982,
+      "subject": "bannad",
+      "username": "DJhuso",
       "resolved": 1
     }
   ]
