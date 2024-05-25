@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 399,
+        "allTimeTickets": 400,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1417,6 +1417,13 @@
       "ticketId": 287010,
       "subject": "bannad",
       "username": "Jasins",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286837,
+      "subject": "verifiera filerna",
+      "username": "tolkenXD",
       "resolved": 1
     }
   ]
