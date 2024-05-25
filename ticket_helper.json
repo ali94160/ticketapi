@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 412,
+        "allTimeTickets": 413,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1501,6 +1501,13 @@
       "ticketId": 286594,
       "subject": "Fejl anmodning",
       "username": "nemkonto1337",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286731,
+      "subject": "match",
+      "username": "1Erixon",
       "resolved": 1
     }
   ]
