@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 410,
+        "allTimeTickets": 411,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1487,6 +1487,13 @@
       "ticketId": 286883,
       "subject": "we all get bans because cs2 update",
       "username": "Allahas",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286938,
+      "subject": "Byta namn",
+      "username": "kobbie",
       "resolved": 1
     }
   ]
