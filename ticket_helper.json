@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 414,
+        "allTimeTickets": 415,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1515,6 +1515,13 @@
       "ticketId": 286982,
       "subject": "bannad",
       "username": "DJhuso",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 287027,
+      "subject": "Regionsbannad utan anledning.",
+      "username": "Danneeman",
       "resolved": 1
     }
   ]
