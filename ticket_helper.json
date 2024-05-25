@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 415,
+        "allTimeTickets": 416,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1523,6 +1523,13 @@
       "subject": "Regionsbannad utan anledning.",
       "username": "Danneeman",
       "resolved": 0
+    },
+    {
+      "handler": "blue",
+      "ticketId": 287024,
+      "subject": "fick ingen kd",
+      "username": "Kimsomfan",
+      "resolved": 1
     }
   ]
 }
