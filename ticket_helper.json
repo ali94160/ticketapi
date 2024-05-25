@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 416,
+        "allTimeTickets": 417,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1529,6 +1529,13 @@
       "ticketId": 287024,
       "subject": "fick ingen kd",
       "username": "Kimsomfan",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 287029,
+      "subject": "bannad",
+      "username": "donkaldinho",
       "resolved": 1
     }
   ]
