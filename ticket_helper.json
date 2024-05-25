@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 425,
+        "allTimeTickets": 426,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1577,6 +1577,13 @@
       "handler": "blue",
       "ticketId": 287030,
       "subject": "can you give me a 1 month  cooldown",
+      "username": "Allahas",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 287045,
+      "subject": "someone logged in to my account wtf",
       "username": "Allahas",
       "resolved": 1
     }
