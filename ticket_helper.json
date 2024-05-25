@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 431,
+        "allTimeTickets": 432,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1613,6 +1613,13 @@
       "ticketId": 287031,
       "subject": "Timeout",
       "username": "Egirl3376",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286907,
+      "subject": "Namnbyte",
+      "username": "kirrapengar",
       "resolved": 1
     }
   ]
