@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 400,
+        "allTimeTickets": 401,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1424,6 +1424,13 @@
       "ticketId": 286837,
       "subject": "verifiera filerna",
       "username": "tolkenXD",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286839,
+      "subject": "Nye spillere",
+      "username": "Hkon",
       "resolved": 1
     }
   ]
