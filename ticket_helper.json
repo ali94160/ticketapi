@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 408,
+        "allTimeTickets": 409,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1473,6 +1473,13 @@
       "ticketId": 287018,
       "subject": "Advarsel som var litt lei as",
       "username": "AnemicH",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 287015,
+      "subject": "Min ban",
+      "username": "Mawwe",
       "resolved": 1
     }
   ]
