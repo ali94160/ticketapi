@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 393,
+        "allTimeTickets": 394,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1389,6 +1389,13 @@
       "ticketId": 287011,
       "subject": "Byta användarnamn",
       "username": "gxthh",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 287009,
+      "subject": "namnbyte",
+      "username": "buyprem",
       "resolved": 1
     }
   ]
