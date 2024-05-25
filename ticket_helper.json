@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 405,
+        "allTimeTickets": 406,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1452,6 +1452,13 @@
       "ticketId": 287016,
       "subject": "\" cooldown 24 h \"",
       "username": "Vikingtheman",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 287017,
+      "subject": "?????a",
+      "username": "adenmaladen",
       "resolved": 1
     }
   ]
