@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 439,
+        "allTimeTickets": 440,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1571,7 +1571,7 @@
       "ticketId": 286860,
       "subject": "Clear namnhistorik",
       "username": "apa",
-      "resolved": 0
+      "resolved": 1
     },
     {
       "handler": "blue",
