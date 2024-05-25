@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 394,
+        "allTimeTickets": 395,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1396,6 +1396,13 @@
       "ticketId": 287009,
       "subject": "namnbyte",
       "username": "buyprem",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 287006,
+      "subject": "bannad",
+      "username": "Blomkruka123",
       "resolved": 1
     }
   ]
