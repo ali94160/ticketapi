@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 406,
+        "allTimeTickets": 407,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1459,6 +1459,13 @@
       "ticketId": 287017,
       "subject": "?????a",
       "username": "adenmaladen",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286942,
+      "subject": "kunde inte joina matchen",
+      "username": "NicoFlow",
       "resolved": 1
     }
   ]
