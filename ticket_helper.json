@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 392,
+        "allTimeTickets": 393,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1382,6 +1382,13 @@
       "ticketId": 286983,
       "subject": "esportal suger",
       "username": "jiimps",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 287011,
+      "subject": "Byta användarnamn",
+      "username": "gxthh",
       "resolved": 1
     }
   ]
