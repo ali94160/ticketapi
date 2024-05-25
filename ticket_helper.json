@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 433,
+        "allTimeTickets": 434,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1627,6 +1627,13 @@
       "ticketId": 286888,
       "subject": "Min klient är inaktuell??",
       "username": "SpecteR",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286886,
+      "subject": "Fel på klienten",
+      "username": "Stevsi",
       "resolved": 1
     }
   ]
