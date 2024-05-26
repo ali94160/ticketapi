@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 455,
+        "allTimeTickets": 456,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1431,7 +1431,7 @@
       "ticketId": 286839,
       "subject": "Nye spillere",
       "username": "Hkon",
-      "resolved": 0
+      "resolved": 1
     },
     {
       "handler": "blue",
