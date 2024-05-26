@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 443,
+        "allTimeTickets": 444,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1669,6 +1669,13 @@
       "ticketId": 287057,
       "subject": "Konstruktiv Feedback.",
       "username": "Sverige",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 287001,
+      "subject": "Timeout",
+      "username": "Daghammarskjld",
       "resolved": 1
     }
   ]
