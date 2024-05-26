@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 447,
+        "allTimeTickets": 448,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1697,6 +1697,13 @@
       "ticketId": 287065,
       "subject": "unbalanced teams",
       "username": "solidem",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 287063,
+      "subject": "Why have i been banned",
+      "username": "KiddieLover",
       "resolved": 1
     }
   ]
