@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 456,
+        "allTimeTickets": 457,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1732,6 +1732,13 @@
       "ticketId": 286670,
       "subject": "Your account has been flagged as smurf",
       "username": "bonghitter",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 287069,
+      "subject": "Bannad spelare",
+      "username": "cap1tano",
       "resolved": 1
     }
   ]
