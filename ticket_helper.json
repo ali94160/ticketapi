@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 449,
+        "allTimeTickets": 450,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1711,6 +1711,13 @@
       "ticketId": 287062,
       "subject": "timout",
       "username": "eikintas",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 287042,
+      "subject": "jag e fan inte smurf",
+      "username": "gurkish1",
       "resolved": 1
     }
   ]
