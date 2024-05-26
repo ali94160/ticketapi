@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 452,
+        "allTimeTickets": 453,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1683,7 +1683,7 @@
       "ticketId": 287068,
       "subject": "Kunde inte joina",
       "username": "mzed",
-      "resolved": 0
+      "resolved": 1
     },
     {
       "handler": "blue",
