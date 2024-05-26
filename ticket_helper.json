@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 458,
+        "allTimeTickets": 459,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1746,6 +1746,13 @@
       "ticketId": 285613,
       "subject": "Dom fick våra runder och vi blev ct?",
       "username": "Skubbisez",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286819,
+      "subject": "violating terms off use",
+      "username": "Virgilito",
       "resolved": 1
     }
   ]
