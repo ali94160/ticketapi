@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 441,
+        "allTimeTickets": 442,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1655,6 +1655,13 @@
       "ticketId": 287052,
       "subject": "Gick ej joina",
       "username": "ICAprofil",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 287056,
+      "subject": "namnhistorik",
+      "username": "enkroppitrim",
       "resolved": 1
     }
   ]
