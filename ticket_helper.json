@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 446,
+        "allTimeTickets": 447,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1690,6 +1690,13 @@
       "ticketId": 287066,
       "subject": "ban leaver",
       "username": "rlkk",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 287065,
+      "subject": "unbalanced teams",
+      "username": "solidem",
       "resolved": 1
     }
   ]
