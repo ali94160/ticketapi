@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 450,
+        "allTimeTickets": 451,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1718,6 +1718,13 @@
       "ticketId": 287042,
       "subject": "jag e fan inte smurf",
       "username": "gurkish1",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286980,
+      "subject": "Bannad för vad?",
+      "username": "Skelettet",
       "resolved": 1
     }
   ]
