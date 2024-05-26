@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 451,
+        "allTimeTickets": 452,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1725,6 +1725,13 @@
       "ticketId": 286980,
       "subject": "Bannad för vad?",
       "username": "Skelettet",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 286670,
+      "subject": "Your account has been flagged as smurf",
+      "username": "bonghitter",
       "resolved": 1
     }
   ]
