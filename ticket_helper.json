@@ -19,7 +19,7 @@
         "username": "blue",
         "country_id": 210,
         "flag": 2,
-        "allTimeTickets": 457,
+        "allTimeTickets": 458,
         "coins": 7815,
         "modCases": -6,
         "skins": [
@@ -1739,6 +1739,13 @@
       "ticketId": 287069,
       "subject": "Bannad spelare",
       "username": "cap1tano",
+      "resolved": 1
+    },
+    {
+      "handler": "blue",
+      "ticketId": 285613,
+      "subject": "Dom fick våra runder och vi blev ct?",
+      "username": "Skubbisez",
       "resolved": 1
     }
   ]
